@@ -4,7 +4,7 @@ import { getFirestore, doc, getDoc } from "https://www.gstatic.com/firebasejs/13
 const cfg = window.GLS_FIREBASE || {};
 const state = {articles:[], category:"Tất cả", query:"", page:1, perPage:12};
 const $ = s => document.querySelector(s);
-const esc = s => String(s ?? "").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
+const esc = s => String(s ?? "").normalize("NFC").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
 const fmtDate = s => {
   if(!s) return "";
   const d = new Date(s+"T00:00:00");
@@ -13,7 +13,7 @@ const fmtDate = s => {
 const categoryLabel = c => ({"Cảnh báo ANTT":"An ninh - Cảnh báo","Tin thế giới":"Thế giới"}[c]||c);
 const placeholderSvg = title => {
   const t = esc((title||"Gia Lai Số News").slice(0,50));
-  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#ecebe7"/><rect x="54" y="55" width="8" height="565" fill="#a80f14"/><text x="100" y="295" font-family="Georgia,serif" font-size="52" font-weight="700" fill="#282828">${t}</text><text x="102" y="360" font-family="Arial,sans-serif" font-size="25" fill="#777">Gia Lai Số News</text></svg>`)}`;
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#ecebe7"/><rect x="54" y="55" width="8" height="565" fill="#a80f14"/><text x="100" y="295" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#282828">${t}</text><text x="102" y="360" font-family="Arial,sans-serif" font-size="25" fill="#777">Gia Lai Số News</text></svg>`)}`;
 };
 function imgSrc(a){ return a.image || placeholderSvg(a.title); }
 function safeImg(img,a){ img.onerror=()=>{img.onerror=null;img.src=placeholderSvg(a.title)} }
@@ -63,7 +63,7 @@ function renderLead(){
   $("#topStories").innerHTML=side.map(a=>`<div class="side-story"><small>${categoryLabel(a.category)} · ${fmtDate(a.date)}</small><button data-open="${esc(a.id)}">${esc(a.title)}</button></div>`).join("");
 }
 function renderHomeSections(){
-  const cats=["Pháp luật","PCCC","Cảnh báo ANTT","Chuyển đổi số","Tin thế giới"];
+  const cats=["Pháp luật","PCCC","Cảnh báo ANTT","Chuyển đổi số","Gương sáng","Vượt khó","An ninh - Quốc phòng","Tin thế giới"];
   $("#homeSections").innerHTML=cats.map(c=>{
     const list=state.articles.filter(a=>a.category===c).slice(0,7);
     if(!list.length)return "";
