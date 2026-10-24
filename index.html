@@ -3,89 +3,92 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Trang thông tin tuyên truyền, phổ biến pháp luật của Công an xã Ia Ko.">
-  <title>Công an xã Ia Ko | Trang thông tin tuyên truyền</title>
+  <meta name="description" content="Gia Lai Số News - trang tin độc lập tổng hợp pháp luật, PCCC, an ninh, chuyển đổi số và tin thế giới.">
+  <title>Gia Lai Số News</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="site-header">
-    <div class="topline">
-      <div class="container topline-inner">
-        <span>TRANG THÔNG TIN TUYÊN TRUYỀN</span>
+    <div class="utility-bar">
+      <div class="container utility-inner">
         <span id="today"></span>
+        <span class="utility-note">Tin tức, pháp luật và những thông tin hữu ích cho cộng đồng</span>
       </div>
     </div>
-    <div class="container brand">
-      <div class="brand-mark">CAX</div>
-      <div>
-        <div class="brand-name">CÔNG AN XÃ IA KO</div>
-        <div class="brand-sub">Tuyên truyền pháp luật • PCCC • ANTT • Chuyển đổi số • Tin tức</div>
-      </div>
+
+    <div class="container masthead">
+      <a class="brand" href="index.html" aria-label="Gia Lai Số News">
+        <span class="brand-mark">GLS</span>
+        <span class="brand-copy">
+          <span class="brand-name">GIA LAI SỐ NEWS</span>
+          <span class="brand-sub">Tin gần mình, chuyện đáng biết</span>
+        </span>
+      </a>
+      <label class="searchbox">
+        <input id="searchInput" type="search" placeholder="Tìm kiếm tin, bài...">
+        <span aria-hidden="true">⌕</span>
+      </label>
     </div>
-    <nav class="nav">
+
+    <nav class="nav" aria-label="Chuyên mục">
       <div class="container nav-inner">
         <button class="nav-link active" data-category="Tất cả">Trang chủ</button>
         <button class="nav-link" data-category="Pháp luật">Pháp luật</button>
         <button class="nav-link" data-category="PCCC">PCCC</button>
-        <button class="nav-link" data-category="Cảnh báo ANTT">Cảnh báo ANTT</button>
+        <button class="nav-link" data-category="Cảnh báo ANTT">An ninh - Cảnh báo</button>
         <button class="nav-link" data-category="Chuyển đổi số">Chuyển đổi số</button>
-        <button class="nav-link" data-category="Tin thế giới">Tin thế giới</button>
+        <button class="nav-link" data-category="Tin thế giới">Thế giới</button>
       </div>
     </nav>
   </header>
 
   <main>
-    <section class="notice">
-      <div class="container">
-        <strong>Lưu ý:</strong> Website phục vụ tuyên truyền, phổ biến thông tin công khai; không đăng tải tài liệu nghiệp vụ, dữ liệu cá nhân, thông tin mật hoặc nội dung hạn chế phổ biến.
-      </div>
+    <section class="container latest-strip" id="latestStrip"></section>
+
+    <section id="homeView">
+      <section class="container top-story" id="topStory"></section>
+      <section class="container section-stack" id="homeSections"></section>
     </section>
 
-    <section class="container search-row">
-      <div>
-        <h1>Tin mới & bài tuyên truyền</h1>
-        <p class="muted">Nội dung được biên tập lại từ nguồn công khai, ưu tiên nguồn chính thống.</p>
-      </div>
-      <label class="searchbox">
-        <span>🔎</span>
-        <input id="searchInput" type="search" placeholder="Tìm bài viết...">
-      </label>
-    </section>
-
-    <section id="heroSection" class="container hero-wrap"></section>
-
-    <section class="container content-layout">
-      <div>
-        <div class="section-head">
-          <h2 id="sectionTitle">Bài viết mới</h2>
-          <span id="resultCount" class="pill"></span>
+    <section id="listingView" class="container listing-layout" hidden>
+      <div class="main-column">
+        <div class="section-head listing-head">
+          <div>
+            <span class="eyebrow">Kho bài viết</span>
+            <h1 id="sectionTitle">Tin mới</h1>
+          </div>
+          <span id="resultCount" class="result-count"></span>
         </div>
         <div id="articleGrid" class="article-grid"></div>
         <div class="pager" id="pager"></div>
       </div>
-      <aside>
-        <div class="side-card">
-          <h3>Chuyên mục</h3>
+      <aside class="sidebar">
+        <section class="side-card">
+          <div class="side-heading">Chuyên mục</div>
           <div id="categoryStats"></div>
-        </div>
-        <div class="side-card pccc-status">
-          <h3>🔥 Theo dõi bài PCCC 2026</h3>
-          <div id="pcccStatus"></div>
-          <a href="admin.html" class="admin-link">Mở trang quản trị bài viết →</a>
-        </div>
+        </section>
+        <section class="side-card partner-card">
+          <div class="side-heading">Nội dung phối hợp</div>
+          <p>Một số tin, bài được cơ quan, đơn vị đề xuất hoặc cung cấp nội dung để Gia Lai Số News biên tập, đăng tải.</p>
+          <div id="partnerPosts" class="partner-posts"></div>
+        </section>
       </aside>
     </section>
   </main>
 
-  <footer>
+  <footer class="site-footer">
     <div class="container footer-grid">
       <div>
-        <strong>CÔNG AN XÃ IA KO</strong>
-        <p>Trang thông tin tuyên truyền, phổ biến pháp luật và kỹ năng phòng ngừa.</p>
+        <div class="footer-brand">GIA LAI SỐ NEWS</div>
+        <p>Trang tin độc lập tổng hợp nội dung công khai và bài cộng tác.</p>
       </div>
       <div>
-        <strong>Nguyên tắc biên tập</strong>
-        <p>Bài viết tóm lược/biên tập lại và ghi nguồn tham khảo. Nội dung không thay thế văn bản pháp luật chính thức.</p>
+        <strong>Biên tập</strong>
+        <p>Ưu tiên nguồn rõ ràng, ghi nguồn tham khảo và tách bạch nội dung phối hợp tuyên truyền.</p>
+      </div>
+      <div>
+        <strong>Liên hệ nội dung</strong>
+        <p>Tiếp nhận đề xuất tin, bài, nội dung cộng đồng và tuyên truyền phù hợp.</p>
       </div>
     </div>
   </footer>
