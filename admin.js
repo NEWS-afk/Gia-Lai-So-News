@@ -68,7 +68,7 @@ $("#adminSearch").oninput=renderList;
 $("#seedBtn").onclick=async()=>{
   if(items.length&&!confirm("Kho dữ liệu đã có bài. Ghi đè bằng 121 bài mẫu?"))return;
   items=(window.SEED_POSTS||[]).map(x=>({...x,status:x.status||"published"}));
-  await saveAll();renderList();alert("Đã khởi tạo 133 bài mẫu V9 lên Firestore.");
+  await saveAll();renderList();alert("Đã khởi tạo 72 bài mẫu V10 lên Firestore.");
 };
 $("#postForm").addEventListener("submit",async e=>{
   e.preventDefault();$("#saveError").textContent="";

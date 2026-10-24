@@ -10,13 +10,14 @@ const fmtDate = s => {
   const d = new Date(s+"T00:00:00");
   return new Intl.DateTimeFormat("vi-VN",{day:"2-digit",month:"2-digit",year:"numeric"}).format(d);
 };
+const STOCK_FALLBACKS = {"Pháp luật": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=1200", "Cảnh báo ANTT": "https://images.pexels.com/photos/5483240/pexels-photo-5483240.jpeg?auto=compress&cs=tinysrgb&w=1200", "Chuyển đổi số": "https://images.pexels.com/photos/12935064/pexels-photo-12935064.jpeg?auto=compress&cs=tinysrgb&w=1200", "Tin thế giới": "https://images.pexels.com/photos/31859523/pexels-photo-31859523.jpeg?auto=compress&cs=tinysrgb&w=1200", "Gương sáng": "https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg?auto=compress&cs=tinysrgb&w=1200", "Vượt khó": "https://images.pexels.com/photos/35869247/pexels-photo-35869247.jpeg?auto=compress&cs=tinysrgb&w=1200", "An ninh - Quốc phòng": "https://images.pexels.com/photos/37360199/pexels-photo-37360199.jpeg?auto=compress&cs=tinysrgb&w=1200", "PCCC": "https://images.pexels.com/photos/32486734/pexels-photo-32486734.jpeg?auto=compress&cs=tinysrgb&w=1200"};
 const categoryLabel = c => ({"Cảnh báo ANTT":"An ninh - Cảnh báo","Tin thế giới":"Thế giới"}[c]||c);
 const placeholderSvg = title => {
   const t = esc((title||"Gia Lai Số News").slice(0,50));
   return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#ecebe7"/><rect x="54" y="55" width="8" height="565" fill="#a80f14"/><text x="100" y="295" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#282828">${t}</text><text x="102" y="360" font-family="Arial,sans-serif" font-size="25" fill="#777">Gia Lai Số News</text></svg>`)}`;
 };
-function imgSrc(a){ return a.image || placeholderSvg(a.title); }
-function safeImg(img,a){ img.onerror=()=>{img.onerror=null;img.src=placeholderSvg(a.title)} }
+function imgSrc(a){ return a.image || STOCK_FALLBACKS[a.category] || placeholderSvg(a.title); }
+function safeImg(img,a){ img.onerror=()=>{img.onerror=null;img.src=STOCK_FALLBACKS[a.category] || placeholderSvg(a.title)} }
 
 async function loadArticles(){
   let list = Array.isArray(window.SEED_POSTS) ? [...window.SEED_POSTS] : [];

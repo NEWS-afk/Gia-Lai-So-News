@@ -107,3 +107,10 @@ body,button,input,textarea,select,h1,h2,h3,h4,p,a,span,div{
 .article-body{font-size:18px!important;line-height:1.72!important}
 .article-head h1{font-weight:800!important}
 .lead-title,.section-main-title,.card-title,.mini-title,.side-story button{font-weight:800!important}
+
+/* V10 photo-first refinements */
+.section-mini img{background:#f1f1ef;border-radius:3px}
+.card-image,.lead-image,.section-main-image,.article-lead-image{background:#f1f1ef}
+.section-mini{grid-template-columns:120px 1fr}
+.section-mini img{width:120px;height:82px}
+@media(max-width:620px){.section-mini{grid-template-columns:112px 1fr}.section-mini img{width:112px;height:78px}}
