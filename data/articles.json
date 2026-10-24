@@ -1,0 +1,767 @@
+[
+  {
+    "id": "the-gioi-hormuz",
+    "title": "Eo biển Hormuz: các vụ tấn công tàu thương mại gia tăng trong tháng 10",
+    "category": "Tin thế giới",
+    "date": "2026-10-24",
+    "author": "Ban biên tập",
+    "excerpt": "Reuters cho biết tháng 10/2026 ghi nhận số vụ tấn công tàu thương mại tại eo biển Hormuz và vùng biển lân cận ở mức rất cao, làm gia tăng rủi ro đối với vận tải năng lượng.",
+    "content": "Theo Reuters, hoạt động hàng hải tại eo biển Hormuz và các tuyến lân cận tiếp tục chịu tác động mạnh từ xung đột khu vực. Các vụ tấn công tàu thương mại làm tăng chi phí vận tải, bảo hiểm và rủi ro đối với chuỗi cung ứng dầu mỏ.\n\nDiễn biến tại khu vực này có ý nghĩa lớn đối với thị trường năng lượng vì Hormuz là một trong những tuyến vận chuyển dầu, khí quan trọng của thế giới. Khi rủi ro an ninh tăng, giá vận tải và năng lượng có thể chịu sức ép.\n\nBài viết này là bản tin tóm lược, được biên tập lại từ nguồn Reuters; độc giả nên theo dõi nguồn tin quốc tế uy tín để cập nhật diễn biến mới.",
+    "sources": [
+      {
+        "name": "Reuters – Ship attacks in Strait of Hormuz hit record high in October",
+        "url": "https://www.reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23/"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-gioi-iran-ngoai-giao",
+    "title": "Thổ Nhĩ Kỳ kêu gọi ưu tiên ngoại giao để tránh mở rộng xung đột Iran",
+    "category": "Tin thế giới",
+    "date": "2026-10-24",
+    "author": "Ban biên tập",
+    "excerpt": "Ngoại trưởng Thổ Nhĩ Kỳ cảnh báo một đợt tấn công mới nhằm vào Iran có thể làm xung đột lan rộng và cho rằng đối thoại là con đường cần ưu tiên.",
+    "content": "Reuters ngày 23/10/2026 dẫn phát biểu của Ngoại trưởng Thổ Nhĩ Kỳ Hakan Fidan cho rằng các bên cần tránh hành động quân sự có thể làm căng thẳng khu vực gia tăng.\n\nLập trường này phản ánh lo ngại chung về tác động của xung đột đối với an ninh, thương mại và các tuyến vận tải trong khu vực Trung Đông.\n\nĐây là bản tin tóm lược, không phải bình luận chính sách đối ngoại. Các diễn biến tiếp theo cần được kiểm chứng từ nhiều nguồn chính thống.",
+    "sources": [
+      {
+        "name": "Reuters – Turkey says renewed attack on Iran would expand conflict",
+        "url": "https://www.reuters.com/world/asia-pacific/turkey-says-renewed-attack-iran-would-expand-conflict-diplomacy-only-way-2026-10-23/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "luat-can-cuoc-diem-moi",
+    "title": "Luật Căn cước: những nội dung người dân cần biết",
+    "category": "Pháp luật",
+    "date": "2026-10-23",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Luật Căn cước quy định về thẻ căn cước, căn cước điện tử, cơ sở dữ liệu dân cư và các quyền, nghĩa vụ liên quan.",
+    "content": "Luật Căn cước số 26/2023/QH15 có hiệu lực từ ngày 01/7/2024. Một thay đổi dễ nhận thấy là tên gọi “thẻ căn cước”, đồng thời luật bổ sung khung pháp lý về căn cước điện tử và quản lý thông tin căn cước.\n\nNgười từ đủ 14 tuổi trở lên thuộc diện phải thực hiện thủ tục cấp thẻ theo quy định; người dưới 14 tuổi có thể được cấp thẻ theo nhu cầu. Thẻ được sử dụng để chứng minh thông tin căn cước trong các giao dịch và thủ tục theo pháp luật.\n\nKhi thực hiện thủ tục, người dân nên sử dụng kênh thông tin chính thức, chuẩn bị giấy tờ theo hướng dẫn và không cung cấp mã OTP hoặc dữ liệu định danh cho người lạ.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-gioi-lo-hong-php",
+    "title": "Nhiều tổ chức khẩn trương vá lỗ hổng PHP sau làn sóng tấn công mạng",
+    "category": "Tin thế giới",
+    "date": "2026-10-23",
+    "author": "Ban biên tập",
+    "excerpt": "Reuters đưa tin các doanh nghiệp và cơ quan chính phủ tăng tốc cập nhật hệ thống sau khi lỗ hổng nghiêm trọng trong PHP được công bố.",
+    "content": "PHP là công nghệ được sử dụng rộng rãi trên nhiều website. Khi lỗ hổng bảo mật nghiêm trọng xuất hiện, hệ thống chưa cập nhật có thể trở thành mục tiêu khai thác tự động với quy mô lớn.\n\nDiễn biến này nhắc lại nguyên tắc an toàn thông tin cơ bản: cập nhật phần mềm kịp thời, sao lưu dữ liệu, giới hạn quyền truy cập và theo dõi nhật ký hệ thống.\n\nĐối với người dùng phổ thông, cần cập nhật trình duyệt và hệ điều hành, tránh truy cập đường link lạ và không bỏ qua cảnh báo bảo mật.",
+    "sources": [
+      {
+        "name": "Reuters – Hacking attempts surge as companies, governments rush to patch PHP flaws",
+        "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-gioi-eu-trung-quoc",
+    "title": "EU tăng đối thoại với Trung Quốc về mất cân đối thương mại",
+    "category": "Tin thế giới",
+    "date": "2026-10-23",
+    "author": "Ban biên tập",
+    "excerpt": "Các bộ trưởng EU cho biết khối muốn ưu tiên đối thoại với Bắc Kinh về thâm hụt thương mại và sức ép từ hàng nhập khẩu, đồng thời vẫn để ngỏ các biện pháp phòng vệ thương mại.",
+    "content": "Theo Reuters, vấn đề năng lực sản xuất, trợ cấp, nhập khẩu và khả năng cạnh tranh của công nghiệp châu Âu tiếp tục là trọng tâm trong quan hệ kinh tế EU – Trung Quốc.\n\nCác nước EU vừa muốn duy trì lợi ích từ thương mại và hàng hóa giá cạnh tranh, vừa lo ngại tác động đối với sản xuất và việc làm trong nước.\n\nĐây là vấn đề kinh tế – thương mại có diễn biến nhanh, do đó số liệu và chính sách cụ thể có thể thay đổi theo các vòng đàm phán tiếp theo.",
+    "sources": [
+      {
+        "name": "Reuters – EU vows to address widening trade imbalance with China",
+        "url": "https://www.reuters.com/world/china/eu-ministers-vow-tackle-china-shock-20-through-talks-with-beijing-2026-10-23/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-gioi-ukraine-ngung-ban",
+    "title": "Nga và Ukraine đạt thỏa thuận ngừng bắn cục bộ phục vụ mục đích nhân đạo tại Oleshky",
+    "category": "Tin thế giới",
+    "date": "2026-10-23",
+    "author": "Ban biên tập",
+    "excerpt": "Reuters đưa tin hai bên thống nhất một đợt ngừng bắn cục bộ để hỗ trợ viện trợ nhân đạo và sơ tán dân thường tại khu vực Oleshky.",
+    "content": "Thỏa thuận được Reuters mô tả là nhằm tạo hành lang an toàn cho hoạt động nhân đạo trong bối cảnh dân thường tại khu vực chịu nhiều khó khăn về lương thực, thuốc men và nước sạch.\n\nThông tin cũng cho thấy các cuộc tiếp xúc kỹ thuật tiếp theo có thể được tổ chức trong tháng 11. Tuy nhiên, các vấn đề lớn như lãnh thổ và bảo đảm an ninh vẫn còn nhiều khác biệt.\n\nĐộc giả cần lưu ý đây là tình hình đang diễn biến; nội dung bài chỉ tóm lược thông tin công khai tại thời điểm đăng.",
+    "sources": [
+      {
+        "name": "Reuters – Russia, Ukraine agree on ceasefire in embattled town",
+        "url": "https://www.reuters.com/world/europe/russia-ukraine-agree-ceasefire-embattled-town-hold-peace-talks-next-month-2026-10-23/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "cccd-co-phai-doi",
+    "title": "Thẻ CCCD đã cấp có phải đổi ngay sang thẻ căn cước?",
+    "category": "Pháp luật",
+    "date": "2026-10-22",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Thẻ căn cước công dân được cấp trước ngày Luật Căn cước có hiệu lực nhìn chung tiếp tục có giá trị đến hết thời hạn in trên thẻ, trừ trường hợp pháp luật quy định phải đổi.",
+    "content": "Luật Căn cước có quy định chuyển tiếp để bảo đảm quyền lợi và tránh phát sinh thủ tục không cần thiết. Vì vậy, người dân không nên nghe theo thông tin thất thiệt cho rằng tất cả thẻ CCCD đều phải đổi ngay.\n\nKhi thẻ hết hạn, thay đổi thông tin, bị mất, hư hỏng hoặc thuộc trường hợp cấp đổi/cấp lại theo luật, công dân thực hiện thủ tục tại cơ quan có thẩm quyền.\n\nĐể biết chính xác trường hợp của mình, nên tra cứu Cổng thông tin Chính phủ, Bộ Công an hoặc liên hệ cơ quan Công an nơi thuận tiện theo quy định.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      },
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – quy định chuyển tiếp thẻ căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/co-phai-doi-can-cuoc-cong-dan-sang-the-can-cuoc-chung-minh-nhan-dan-con-han-duoc-su-dung-den-khi-nao-119231127135809515.htm"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "can-cuoc-duoi-14",
+    "title": "Trẻ em dưới 14 tuổi có thể được cấp thẻ căn cước",
+    "category": "Pháp luật",
+    "date": "2026-10-21",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Luật Căn cước mở rộng đối tượng được cấp thẻ; người dưới 14 tuổi có thể thực hiện thủ tục cấp thẻ theo nhu cầu.",
+    "content": "Việc cấp thẻ cho người dưới 14 tuổi tạo thêm thuận lợi khi thực hiện các giao dịch, dịch vụ công và xác minh thông tin trong những trường hợp phù hợp.\n\nCha, mẹ hoặc người đại diện hợp pháp cần thực hiện thủ tục theo hướng dẫn của cơ quan có thẩm quyền. Yêu cầu hồ sơ và cách thu nhận thông tin phụ thuộc độ tuổi và quy định áp dụng tại thời điểm làm thủ tục.\n\nNgười dân nên kiểm tra thông tin chính thức trước khi đi làm thủ tục để hạn chế phải bổ sung giấy tờ nhiều lần.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "can-cuoc-dien-tu",
+    "title": "Căn cước điện tử và nguyên tắc sử dụng an toàn",
+    "category": "Pháp luật",
+    "date": "2026-10-20",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Căn cước điện tử là nội dung được Luật Căn cước quy định, hỗ trợ xác thực danh tính trong môi trường điện tử.",
+    "content": "Căn cước điện tử giúp phục vụ việc xác thực thông tin khi thực hiện các giao dịch số theo quy định. Giá trị sử dụng và phạm vi khai thác được pháp luật quy định nhằm vừa tạo thuận lợi, vừa bảo vệ dữ liệu cá nhân.\n\nNgười dân chỉ đăng nhập trên ứng dụng và cổng dịch vụ chính thức; không gửi ảnh giấy tờ tùy thân, mã OTP, mật khẩu hoặc mã khôi phục cho người tự xưng là cán bộ, nhân viên ngân hàng hay hỗ trợ kỹ thuật.\n\nKhi nghi ngờ tài khoản bị chiếm quyền, cần đổi thông tin bảo mật, liên hệ kênh hỗ trợ chính thức và trình báo cơ quan chức năng nếu phát sinh dấu hiệu lừa đảo.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      },
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-gioi-khi-hau",
+    "title": "Nhà khoa học cảnh báo tốc độ nóng lên toàn cầu đang gia tăng",
+    "category": "Tin thế giới",
+    "date": "2026-10-20",
+    "author": "Ban biên tập",
+    "excerpt": "Một nhà khoa học khí hậu hàng đầu cảnh báo biến đổi khí hậu đang đẩy nhiều hệ sinh thái tới các ngưỡng rủi ro nghiêm trọng.",
+    "content": "Reuters dẫn ý kiến của nhà khoa học Johan Rockström cho rằng xu hướng nóng lên do phát thải nhiên liệu hóa thạch tiếp tục tạo sức ép lên các hệ sinh thái như rạn san hô và rừng Amazon.\n\nCác hiện tượng thời tiết cực đoan, mất đa dạng sinh học và nguy cơ thay đổi các hệ thống khí hậu lớn đang khiến nhu cầu giảm phát thải và tăng khả năng thích ứng trở nên cấp thiết.\n\nỞ cấp cộng đồng, tiết kiệm năng lượng, hạn chế đốt rác, bảo vệ nguồn nước và nâng cao khả năng ứng phó thiên tai là những hành động thiết thực.",
+    "sources": [
+      {
+        "name": "Reuters – Global warming is accelerating, leading climate scientist says",
+        "url": "https://www.reuters.com/sustainability/cop/global-warming-is-accelerating-leading-climate-scientist-rockstrm-says-2026-10-20/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "pccc-hanh-kho-co-so-kinh-doanh",
+    "title": "Tháng 10: tăng cường tuyên truyền PCCC tại hộ gia đình và cơ sở kinh doanh",
+    "category": "PCCC",
+    "date": "2026-10-20",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Bước vào thời điểm hanh khô, việc tự kiểm tra nguồn điện, nguồn lửa, bình chữa cháy và lối thoát nạn tại hộ gia đình, cơ sở kinh doanh càng trở nên quan trọng.",
+    "content": "Trong thời điểm thời tiết hanh khô, nguy cơ phát sinh cháy từ hệ thống điện, bếp đun, khí gas, nguồn nhiệt và vật liệu dễ cháy luôn hiện hữu. Công an xã Ia Ko tiếp tục tăng cường tuyên truyền, kiểm tra, nhắc nhở các hộ gia đình và cơ sở kinh doanh chấp hành tốt các quy định, đồng thời tự rà soát những điều kiện an toàn tại chỗ.\n\nMỗi hộ, cơ sở cần kiểm tra bình chữa cháy, không để hàng hóa che chắn lối đi, không tập kết nhiều vật liệu dễ cháy gần nguồn nhiệt, bảo đảm hệ thống điện an toàn và có phương án xử lý khi có sự cố. Việc hướng dẫn, nhắc nhở trực tiếp giúp người dân dễ hình dung và thực hiện đúng hơn trong thực tế.\n\nPhòng cháy, chữa cháy là trách nhiệm của toàn dân. Chủ động từ sớm, từ cơ sở, từ từng hộ gia đình chính là biện pháp hiệu quả nhất để phòng ngừa cháy, nổ.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": true,
+    "image": "images/pccc/img01.jpg",
+    "gallery": [
+      "images/pccc/img01.jpg",
+      "images/pccc/img03.jpg",
+      "images/pccc/img02.jpg"
+    ]
+  },
+  {
+    "id": "giao-thong-luat-moi",
+    "title": "Luật Trật tự, an toàn giao thông đường bộ: nâng cao trách nhiệm của người tham gia giao thông",
+    "category": "Pháp luật",
+    "date": "2026-10-19",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Luật Trật tự, an toàn giao thông đường bộ có hiệu lực từ ngày 01/01/2025, quy định các nguyên tắc, quy tắc và trách nhiệm bảo đảm an toàn giao thông.",
+    "content": "Người tham gia giao thông phải chấp hành hiệu lệnh, biển báo, tín hiệu đèn và hướng dẫn của người điều khiển giao thông. Việc đi đúng phần đường, làn đường, tốc độ và giữ khoảng cách là những yêu cầu cơ bản.\n\nĐối với người điều khiển mô tô, xe gắn máy, việc sử dụng mũ bảo hiểm đạt chuẩn, không sử dụng điện thoại cầm tay khi điều khiển phương tiện và không điều khiển xe sau khi sử dụng rượu, bia là các yêu cầu cần đặc biệt lưu ý.\n\nMỗi người dân cần chủ động cập nhật quy định mới và xây dựng văn hóa giao thông an toàn từ những hành vi nhỏ hằng ngày.",
+    "sources": [
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Luật Trật tự, an toàn giao thông đường bộ",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword="
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "mu-bao-hiem",
+    "title": "Đội mũ bảo hiểm đúng cách khi đi mô tô, xe gắn máy",
+    "category": "Pháp luật",
+    "date": "2026-10-18",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Mũ bảo hiểm chỉ phát huy tác dụng khi đạt chất lượng, vừa đầu và được cài quai đúng quy cách.",
+    "content": "Người điều khiển và người ngồi trên mô tô, xe gắn máy phải chấp hành quy định về mũ bảo hiểm. Việc đội mũ nhưng không cài quai hoặc sử dụng mũ không phù hợp làm giảm đáng kể khả năng bảo vệ khi va chạm.\n\nPhụ huynh cần hình thành thói quen đội mũ cho trẻ em khi tham gia giao thông và không chở quá số người quy định. Khi đi đường dài, nên kiểm tra lốp, phanh, đèn và các bộ phận an toàn trước khi khởi hành.\n\nChấp hành quy tắc giao thông không chỉ để tránh bị xử phạt mà quan trọng hơn là bảo vệ tính mạng của chính mình và người khác.",
+    "sources": [
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Luật Trật tự, an toàn giao thông đường bộ",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword="
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ruou-bia-lai-xe",
+    "title": "Đã uống rượu, bia thì không lái xe",
+    "category": "Pháp luật",
+    "date": "2026-10-17",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Điều khiển phương tiện sau khi sử dụng rượu, bia làm giảm phản xạ, khả năng quan sát và xử lý tình huống, gây nguy cơ tai nạn nghiêm trọng.",
+    "content": "Pháp luật về trật tự, an toàn giao thông quy định chặt chẽ việc sử dụng rượu, bia khi điều khiển phương tiện. Người dân nên chủ động lựa chọn phương tiện công cộng, taxi, người lái thay hoặc bố trí nghỉ ngơi phù hợp.\n\nKhông nên tin vào các mẹo truyền miệng để “giảm nồng độ cồn” trong thời gian ngắn. Cơ thể cần thời gian chuyển hóa; cách an toàn là không lái xe sau khi đã uống.\n\nCơ quan, gia đình và cộng đồng cần cùng nhắc nhở để hình thành thói quen “đã uống rượu, bia – không lái xe”.",
+    "sources": [
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Luật Trật tự, an toàn giao thông đường bộ",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword="
+      },
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Nghị định 168/2024/NĐ-CP",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-luocdo.aspx?ItemID=173920&Keyword="
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "diem-gplx",
+    "title": "Hiểu đúng về điểm giấy phép lái xe",
+    "category": "Pháp luật",
+    "date": "2026-10-16",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Hệ thống điểm giấy phép lái xe gắn việc chấp hành pháp luật với quá trình quản lý người lái, khuyến khích ý thức tự giác khi tham gia giao thông.",
+    "content": "Luật Trật tự, an toàn giao thông đường bộ và văn bản hướng dẫn có quy định về điểm giấy phép lái xe, việc trừ điểm và phục hồi điểm. Người lái cần quan tâm đến hành vi vi phạm của mình thay vì chỉ chú ý mức tiền phạt.\n\nKhông nên mua bán, nhờ người khác nhận lỗi thay hoặc sử dụng dịch vụ không chính thống để can thiệp dữ liệu vi phạm. Các hành vi gian dối có thể phát sinh trách nhiệm pháp lý khác.\n\nThông tin về vi phạm và thủ tục liên quan cần được tra cứu từ cơ quan có thẩm quyền hoặc các kênh chính thức.",
+    "sources": [
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Luật Trật tự, an toàn giao thông đường bộ",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword="
+      },
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Nghị định 168/2024/NĐ-CP",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-luocdo.aspx?ItemID=173920&Keyword="
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "an-toan-qua-duong",
+    "title": "Qua đường an toàn: quan sát, nhường đường và không sử dụng điện thoại",
+    "category": "Pháp luật",
+    "date": "2026-10-15",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Người đi bộ cũng là một chủ thể tham gia giao thông và cần chấp hành quy tắc để phòng tránh tai nạn.",
+    "content": "Khi qua đường, nên đi tại nơi có vạch kẻ, đèn tín hiệu, cầu vượt hoặc vị trí cho phép. Trước khi bước xuống lòng đường cần quan sát cả hai phía và chỉ di chuyển khi đủ điều kiện an toàn.\n\nKhông vừa đi vừa nhìn điện thoại, đeo tai nghe âm lượng lớn hoặc chạy đột ngột qua đường. Người lớn cần hướng dẫn trẻ em kỹ năng quan sát và qua đường đúng cách.\n\nỞ khu vực trường học, chợ và khu dân cư đông người, người điều khiển phương tiện phải giảm tốc độ và chủ động phòng ngừa tình huống bất ngờ.",
+    "sources": [
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Luật Trật tự, an toàn giao thông đường bộ",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword="
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "xu-ly-khi-tai-nan",
+    "title": "Khi gặp tai nạn giao thông: ưu tiên cứu người và bảo đảm an toàn hiện trường",
+    "category": "Pháp luật",
+    "date": "2026-10-14",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Người có mặt tại hiện trường cần bình tĩnh, báo cơ quan chức năng và hỗ trợ người bị nạn trong khả năng an toàn.",
+    "content": "Khi xảy ra tai nạn giao thông, cần đặt cảnh báo để tránh phương tiện khác tiếp tục va chạm, gọi lực lượng chức năng và cấp cứu y tế. Không tụ tập cản trở giao thông hoặc tự ý di chuyển phương tiện, dấu vết khi không cần thiết cho việc cứu người, ngăn ngừa nguy hiểm.\n\nViệc sơ cứu phải phù hợp với tình trạng nạn nhân; không tự ý kéo, bế người nghi chấn thương cột sống nếu chưa có nguy cơ cháy nổ hoặc nguy hiểm tức thời.\n\nNgười chứng kiến nên cung cấp thông tin trung thực cho cơ quan chức năng và không phát tán hình ảnh nhạy cảm của nạn nhân lên mạng xã hội.",
+    "sources": [
+      {
+        "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật – Luật Trật tự, an toàn giao thông đường bộ",
+        "url": "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword="
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "gia-danh-cong-an",
+    "title": "Cảnh giác cuộc gọi giả danh Công an yêu cầu chuyển tiền",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-13",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Đối tượng lừa đảo thường tạo tâm lý hoảng sợ bằng cách nói nạn nhân liên quan vụ án, sau đó yêu cầu chuyển tiền hoặc cài ứng dụng lạ.",
+    "content": "Cơ quan Công an không làm việc theo cách gọi điện yêu cầu người dân chuyển tiền vào “tài khoản an toàn” để chứng minh vô tội. Khi nhận cuộc gọi có nội dung đe dọa, yêu cầu giữ bí mật hoặc thúc ép chuyển tiền, cần dừng trao đổi và kiểm tra qua kênh chính thức.\n\nKhông cung cấp mã OTP, mật khẩu, thông tin thẻ ngân hàng, ảnh giấy tờ tùy thân hoặc cho phép người lạ điều khiển điện thoại từ xa. Nếu đã chuyển tiền, cần liên hệ ngân hàng ngay và trình báo cơ quan Công an.\n\nNguyên tắc phòng ngừa: bình tĩnh – kiểm chứng – không chuyển tiền khi chưa xác minh.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "gia-danh-ngan-hang",
+    "title": "Không cung cấp OTP cho người tự xưng nhân viên ngân hàng",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-12",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "OTP là lớp xác thực quan trọng. Người dùng tuyệt đối không đọc mã OTP cho người khác, kể cả người tự xưng nhân viên ngân hàng.",
+    "content": "Thủ đoạn phổ biến là thông báo tài khoản có lỗi, được hoàn tiền, nâng hạn mức hoặc có giao dịch bất thường rồi yêu cầu khách hàng cung cấp OTP, mật khẩu hay truy cập đường link giả.\n\nNgân hàng hợp pháp không yêu cầu khách hàng đọc mật khẩu, mã OTP hoặc cài ứng dụng điều khiển từ xa để xử lý tài khoản. Khi cần hỗ trợ, hãy chủ động gọi số hotline in trên thẻ hoặc truy cập ứng dụng chính thức.\n\nNếu nghi ngờ lộ thông tin, cần khóa tài khoản/thẻ, đổi mật khẩu và thông báo ngân hàng càng sớm càng tốt.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ma-qr-la",
+    "title": "Mã QR lạ có thể dẫn tới trang giả mạo",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-11",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Quét mã QR thuận tiện nhưng có thể đưa người dùng tới website giả đăng nhập ngân hàng, mạng xã hội hoặc trang thu thập dữ liệu cá nhân.",
+    "content": "Trước khi mở đường link từ mã QR, hãy kiểm tra tên miền hiển thị trên màn hình. Không nhập tài khoản, mật khẩu hoặc thông tin thẻ nếu địa chỉ web có dấu hiệu bất thường, sai chính tả hoặc không đúng tên miền chính thức.\n\nĐối với thanh toán, cần kiểm tra kỹ tên người nhận và số tiền trước khi xác nhận. Không chuyển tiền chỉ dựa vào ảnh chụp mã QR gửi qua tài khoản mạng xã hội chưa xác minh.\n\nKhi mã QR được dán chồng lên mã cũ tại nơi công cộng, nên báo cho đơn vị quản lý để kiểm tra.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "viec-nhe-luong-cao",
+    "title": "Cảnh giác lời mời “việc nhẹ, lương cao” trên mạng",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-10",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Lời mời làm nhiệm vụ trực tuyến, đánh giá sản phẩm hoặc chuyển tiền nhận hoa hồng có thể là bước đầu của một kịch bản chiếm đoạt tài sản.",
+    "content": "Đối tượng thường cho nạn nhân nhận một khoản nhỏ ở giai đoạn đầu để tạo niềm tin, sau đó yêu cầu nạp số tiền lớn hơn hoặc đóng phí để “rút thưởng”. Khi nạn nhân chuyển tiền, chúng tiếp tục đưa ra lý do tài khoản lỗi, phải nộp thêm tiền.\n\nKhông chuyển tiền để nhận việc, không vay tiền để “hoàn thành nhiệm vụ” và không cài ứng dụng từ đường link lạ. Việc tuyển dụng hợp pháp phải có thông tin doanh nghiệp, vị trí và quy trình rõ ràng.\n\nKhi phát hiện dấu hiệu lừa đảo, hãy lưu bằng chứng giao dịch, tài khoản liên hệ và trình báo cơ quan chức năng.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dat-coc-online",
+    "title": "Mua bán online: kiểm tra người bán trước khi đặt cọc",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-09",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Đặt cọc cho tài khoản cá nhân không rõ danh tính là rủi ro lớn, đặc biệt với hàng hóa có giá trị cao hoặc giá rẻ bất thường.",
+    "content": "Người mua nên ưu tiên nền tảng có cơ chế bảo vệ giao dịch, kiểm tra lịch sử bán hàng, đánh giá độc lập và thông tin liên hệ của người bán. Không tin hoàn toàn vào ảnh chụp giấy tờ vì có thể là hình ảnh bị đánh cắp.\n\nVới giao dịch giá trị cao, nên gặp trực tiếp, xác minh hàng hóa và lập giấy tờ phù hợp. Không chuyển thêm tiền khi người bán đưa ra lý do “phí mở khóa”, “phí bảo hiểm” hoặc “phí hoàn tiền”.\n\nGiá quá rẻ so với thị trường là dấu hiệu cần thận trọng, không phải cơ hội chắc chắn.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deepfake",
+    "title": "Deepfake và cuộc gọi video giả: đừng chỉ tin vào hình ảnh",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-08",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Công nghệ AI có thể tạo hình ảnh, giọng nói gần giống người thật; kẻ gian lợi dụng để giả mạo người thân, lãnh đạo hoặc đối tác.",
+    "content": "Nếu nhận yêu cầu chuyển tiền bất thường qua tin nhắn hoặc video call, hãy chủ động gọi lại bằng số điện thoại đã lưu từ trước, hỏi thông tin chỉ hai bên biết hoặc xác minh qua một người thứ ba.\n\nKhông chuyển tiền vì bị thúc ép bởi lý do “khẩn cấp”. Tài khoản bị chiếm quyền có thể dùng hình ảnh và lịch sử trò chuyện thật để tăng độ tin cậy.\n\nGia đình nên thống nhất một cách xác minh khi có tình huống khẩn cấp để giảm nguy cơ bị lừa bởi nội dung giả mạo.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "chiem-doat-mang-xa-hoi",
+    "title": "Bảo vệ tài khoản mạng xã hội khỏi bị chiếm quyền",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-07",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Tài khoản bị chiếm quyền thường được dùng để vay tiền, gửi link độc hại hoặc lừa bạn bè của nạn nhân.",
+    "content": "Hãy bật xác thực hai lớp, dùng mật khẩu dài và khác nhau giữa các dịch vụ. Không đăng nhập qua link được gửi từ tài khoản lạ hoặc trang có giao diện giống mạng xã hội nhưng tên miền bất thường.\n\nNếu tài khoản có dấu hiệu bị chiếm, cần đổi mật khẩu, đăng xuất khỏi thiết bị lạ, kiểm tra email/số điện thoại khôi phục và thông báo cho người quen để họ không làm theo các yêu cầu chuyển tiền.\n\nKhông chia sẻ mã xác thực đăng nhập cho bất kỳ ai.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "khong-cai-app-la",
+    "title": "Không cài ứng dụng lạ theo hướng dẫn qua điện thoại",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-06",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Ứng dụng không rõ nguồn gốc có thể chiếm quyền truy cập, đọc tin nhắn, đánh cắp OTP hoặc điều khiển thiết bị.",
+    "content": "Đối tượng lừa đảo có thể giả danh cán bộ, ngân hàng, điện lực, giao hàng hoặc cơ quan dịch vụ công rồi gửi đường link cài ứng dụng. Người dùng cần dừng lại khi bị yêu cầu bật quyền trợ năng, chia sẻ màn hình hoặc cài tệp APK ngoài kho ứng dụng chính thức.\n\nChỉ cài phần mềm từ nguồn tin cậy và kiểm tra kỹ nhà phát hành. Nếu đã cài ứng dụng đáng ngờ, nên ngắt kết nối mạng, gỡ ứng dụng khi có thể, kiểm tra tài khoản ngân hàng và đổi mật khẩu từ thiết bị an toàn.\n\nTrường hợp có thiệt hại hoặc dấu hiệu chiếm đoạt, cần lưu bằng chứng và trình báo.",
+    "sources": [
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "vneid-tien-ich",
+    "title": "VNeID: sử dụng đúng mục đích, đúng kênh chính thức",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-05",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "VNeID hỗ trợ nhiều tiện ích số; người dân cần bảo vệ tài khoản như một tài sản số quan trọng.",
+    "content": "VNeID được sử dụng để hỗ trợ định danh, xác thực điện tử và khai thác các tiện ích được tích hợp theo quy định. Người dân nên cập nhật ứng dụng từ kho ứng dụng chính thức và không đăng nhập trên thiết bị lạ.\n\nKhông cung cấp mật khẩu, mã OTP hoặc mã kích hoạt cho người khác. Khi có thông báo yêu cầu “nâng cấp VNeID” qua đường link gửi bằng tin nhắn, mạng xã hội hoặc cuộc gọi, cần kiểm tra lại qua kênh chính thức.\n\nViệc bảo vệ tài khoản định danh điện tử góp phần bảo vệ thông tin cá nhân và hạn chế nguy cơ bị lợi dụng để thực hiện giao dịch trái phép.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      },
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "vneid-bao-mat",
+    "title": "Ba nguyên tắc bảo vệ tài khoản định danh điện tử",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-04",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Không chia sẻ mã xác thực, không cài ứng dụng lạ và luôn kiểm tra nguồn thông tin trước khi làm theo hướng dẫn.",
+    "content": "Thứ nhất, không tiết lộ mật khẩu và mã OTP. Thứ hai, chỉ cài ứng dụng từ nguồn chính thức và không cấp quyền điều khiển điện thoại cho người lạ. Thứ ba, khi nhận yêu cầu bất thường, hãy chủ động kiểm tra qua cơ quan Công an hoặc kênh hỗ trợ chính thức.\n\nNgười dân cũng nên đặt mã khóa màn hình, bật sinh trắc học nếu phù hợp và không cho người khác mượn điện thoại đang đăng nhập tài khoản quan trọng.\n\nCác biện pháp đơn giản này giúp giảm đáng kể nguy cơ chiếm quyền tài khoản.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      },
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dich-vu-cong",
+    "title": "Dịch vụ công trực tuyến: chuẩn bị thông tin trước khi thực hiện",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-03",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Thao tác đúng cổng, chuẩn bị hồ sơ điện tử rõ ràng và theo dõi trạng thái giúp tiết kiệm thời gian khi sử dụng dịch vụ công.",
+    "content": "Trước khi nộp hồ sơ trực tuyến, người dân nên kiểm tra tên thủ tục, thành phần hồ sơ, cơ quan tiếp nhận và phương thức nhận kết quả. Ảnh chụp giấy tờ cần rõ, đầy đủ, không bị cắt mất thông tin.\n\nChỉ truy cập cổng dịch vụ công và ứng dụng chính thức. Không trả “phí hỗ trợ” cho tài khoản cá nhân không rõ nguồn gốc để được giải quyết nhanh hơn.\n\nNếu hồ sơ bị yêu cầu bổ sung, cần đọc kỹ nội dung hướng dẫn và thực hiện đúng yêu cầu, tránh nộp lặp lại nhiều lần.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "can-cuoc-so",
+    "title": "Căn cước và môi trường số: thuận tiện đi cùng trách nhiệm bảo mật",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-02",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Thông tin căn cước ngày càng được sử dụng trong nhiều dịch vụ số, vì vậy việc bảo vệ dữ liệu cá nhân phải được đặt lên hàng đầu.",
+    "content": "Người dân không nên đăng công khai ảnh hai mặt thẻ căn cước hoặc gửi ảnh giấy tờ tùy thân cho tài khoản không rõ danh tính. Dữ liệu có thể bị lợi dụng để mở tài khoản, đăng ký dịch vụ hoặc phục vụ các kịch bản lừa đảo.\n\nKhi cần cung cấp thông tin cho cơ quan, tổ chức hợp pháp, nên thực hiện đúng phạm vi cần thiết và qua kênh chính thức. Với ảnh lưu trong điện thoại, nên bảo vệ thiết bị bằng mật khẩu hoặc sinh trắc học.\n\nThuận tiện số chỉ bền vững khi người dùng có thói quen bảo vệ dữ liệu.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      },
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "bao-chay-114-chuyen-doi-so",
+    "title": "“Báo cháy 114” và chuyển đổi số trong tiếp nhận tin báo sự cố",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-01",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Ứng dụng giúp bổ sung hình ảnh, video và dữ liệu vị trí, hỗ trợ lực lượng chức năng đánh giá nhanh tình huống.",
+    "content": "Bộ Công an đã triển khai Trung tâm thông tin chỉ huy kết nối hệ thống truyền tin báo sự cố PCCC cùng ứng dụng “Báo cháy 114”. Đây là một bước ứng dụng công nghệ vào quá trình tiếp nhận và xử lý thông tin.\n\nTrong tình huống khẩn cấp, người dân có thể gọi 114 và sử dụng các chức năng hỗ trợ của ứng dụng nếu điều kiện cho phép. Thông tin cần rõ ràng, chính xác, tránh báo tin giả hoặc gây nhiễu cho lực lượng tiếp nhận.\n\nCông nghệ hỗ trợ rút ngắn thời gian xử lý, nhưng ý thức phòng ngừa và kỹ năng tại chỗ của mỗi người vẫn là yếu tố quan trọng.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Trung tâm thông tin chỉ huy và ứng dụng Báo cháy 114",
+        "url": "https://bocongan.gov.vn/bai-viet/ra-mat-trung-tam-thong-tin-chi-huy-ket-noi-he-thong-truyen-tin-bao-su-co-phong-chay-chua-chay-ung-dung-bao-chay-114-1768468916"
+      },
+      {
+        "name": "Học viện Cảnh sát PCCC – Ứng dụng Báo cháy 114",
+        "url": "https://hocvienpccc.bocongan.gov.vn/blog/chuyen-doi-so-trong-cong-tac-phong-chay-chua-chay-va-cuu-nan-cuu-ho-thong-qua-ung-dung-bao-chay-114_7676"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "otp-du-lieu-ca-nhan",
+    "title": "Mã OTP không phải thông tin để “xác minh giúp”",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-00",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "OTP là mã xác nhận giao dịch hoặc đăng nhập; chia sẻ OTP có thể đồng nghĩa trao quyền cho người khác thực hiện thao tác trên tài khoản.",
+    "content": "Người dân cần hình thành nguyên tắc: không đọc OTP qua điện thoại, không chụp màn hình mã xác thực gửi cho người khác và không nhập OTP vào đường link lạ.\n\nĐối tượng lừa đảo thường tạo lý do hợp lý như hoàn tiền, xác minh tài khoản, nhận quà, cập nhật hồ sơ hoặc khóa giao dịch để khiến nạn nhân mất cảnh giác.\n\nKhi có nghi ngờ, hãy tự mở ứng dụng chính thức hoặc gọi đơn vị cung cấp dịch vụ bằng số công khai, không sử dụng số điện thoại do người lạ cung cấp.",
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ – Luật Căn cước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-can-cuoc-119240130064813615.htm"
+      },
+      {
+        "name": "Báo Điện tử Chính phủ – chuyên trang cảnh báo lừa đảo trực tuyến",
+        "url": "https://baochinhphu.vn/lua-dao-truc-tuyen.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "pccc-bao-chay-114",
+    "title": "Đầu năm học mới: đẩy mạnh tuyên truyền PCCC cho học sinh",
+    "category": "PCCC",
+    "date": "2026-09-16",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Tuyên truyền PCCC tại trường học giúp học sinh nhận biết nguy cơ cháy, biết cách báo động, sử dụng phương tiện chữa cháy ban đầu và thoát nạn an toàn.",
+    "content": "Đầu năm học là thời điểm thích hợp để các trường học và địa phương đẩy mạnh hoạt động tuyên truyền, trải nghiệm kỹ năng phòng cháy, chữa cháy cho học sinh. Thông qua hình thức trao đổi, đặt câu hỏi và quan sát trực tiếp, các em dễ tiếp cận kiến thức, ghi nhớ các bước xử lý khi có cháy xảy ra.\n\nNội dung tuyên truyền tập trung vào việc nhận biết nguy cơ cháy trong trường học và gia đình, cách hô hoán báo động, gọi 114, di chuyển an toàn khỏi khu vực có khói, lửa và chấp hành sự hướng dẫn của giáo viên, lực lượng chức năng. Bên cạnh đó, các em còn được xem hướng dẫn về bình chữa cháy, cách dập tắt đám cháy nhỏ trong điều kiện an toàn.\n\nTrang bị kỹ năng PCCC cho học sinh là việc làm cần thiết, góp phần xây dựng môi trường học đường an toàn và lan tỏa ý thức phòng cháy tới từng gia đình.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img08.jpg",
+    "gallery": [
+      "images/pccc/img08.jpg",
+      "images/pccc/img05.jpg",
+      "images/pccc/img06.jpg"
+    ]
+  },
+  {
+    "id": "pccc-bep-gas",
+    "title": "An toàn khi sử dụng bếp gas trong gia đình và hàng quán",
+    "category": "PCCC",
+    "date": "2026-08-14",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Nguồn gas nếu rò rỉ trong không gian kín có thể gây cháy nổ nghiêm trọng; việc khóa van sau khi sử dụng và kiểm tra dây dẫn là rất cần thiết.",
+    "content": "Bếp gas vẫn là thiết bị đun nấu phổ biến tại nhiều hộ gia đình và hàng quán. Tuy nhiên, nếu dây dẫn xuống cấp, van khóa không kín hoặc thao tác sử dụng thiếu cẩn trọng thì nguy cơ cháy nổ là rất lớn. Công an xã Ia Ko đề nghị người dân thường xuyên kiểm tra dây dẫn, van điều áp và vị trí đặt bình gas, không để gần nguồn nhiệt hoặc nơi dễ va đập.\n\nSau khi nấu, cần khóa van bình gas trước rồi mới tắt bếp theo hướng dẫn an toàn; không để trẻ nhỏ tự ý sử dụng bếp khi không có người lớn. Nếu phát hiện mùi gas bất thường, tuyệt đối không bật công tắc điện hoặc dùng lửa để kiểm tra, mà phải mở cửa thông thoáng tự nhiên và xử lý nguồn rò rỉ theo cách an toàn.\n\nNhững thói quen nhỏ, đúng kỹ thuật sẽ giúp phòng ngừa hiệu quả các sự cố cháy, nổ liên quan đến khí gas trong đời sống hằng ngày.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img04.jpg",
+    "gallery": [
+      "images/pccc/img04.jpg"
+    ]
+  },
+  {
+    "id": "pccc-binh-chua-chay",
+    "title": "Hướng dẫn thực hành sử dụng bình chữa cháy và xử lý cháy khí gas",
+    "category": "PCCC",
+    "date": "2026-07-17",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Chỉ khi trực tiếp quan sát và thực hành, người dân mới dễ ghi nhớ thao tác đúng khi sử dụng bình chữa cháy hoặc xử lý tình huống cháy liên quan đến gas.",
+    "content": "Một trong những nội dung tuyên truyền thiết thực nhất về PCCC là hướng dẫn trực quan cách sử dụng bình chữa cháy xách tay và cách xử lý sự cố cháy gas. Qua các buổi tuyên truyền, người dân được giải thích nguyên tắc chung: phát hiện sớm, báo động kịp thời, cắt điện và khóa van gas nếu điều kiện an toàn cho phép, đồng thời sử dụng phương tiện chữa cháy ban đầu đúng cách.\n\nKhi dùng bình chữa cháy, cần đứng ở vị trí an toàn, hướng vòi vào gốc lửa, giữ khoảng cách phù hợp và luôn chừa đường thoát phía sau. Trong sự cố liên quan đến khí gas, tuyệt đối không hoảng loạn bật tắt thiết bị điện gần khu vực rò rỉ; việc xử lý phải thận trọng, ưu tiên đưa người ra xa khu vực nguy hiểm.\n\nMỗi gia đình, cơ sở kinh doanh nên chủ động học và thực hành kỹ năng này để khi có tình huống phát sinh có thể bình tĩnh ứng phó, hạn chế thiệt hại.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img04.jpg",
+    "gallery": [
+      "images/pccc/img04.jpg",
+      "images/pccc/img07.jpg"
+    ]
+  },
+  {
+    "id": "pccc-thoat-nan-khoi",
+    "title": "Tuyên truyền kỹ năng PCCC cho học sinh: biết cách xử lý và thoát nạn khi có cháy",
+    "category": "PCCC",
+    "date": "2026-06-18",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Tuyên truyền cho học sinh về nhận biết nguy cơ cháy, cách báo động, thoát nạn và sử dụng phương tiện chữa cháy ban đầu là nội dung rất thiết thực.",
+    "content": "Tại các buổi tuyên truyền kỹ năng sống và pháp luật, nội dung phòng cháy, chữa cháy luôn được đông đảo học sinh quan tâm. Công an xã Ia Ko nhấn mạnh rằng khi xảy ra cháy, điều quan trọng đầu tiên là phải bình tĩnh, hô hoán cho mọi người biết, nhanh chóng rời khỏi khu vực nguy hiểm và tìm lối thoát an toàn.\n\nHọc sinh cần ghi nhớ không quay lại khu vực có khói, lửa để lấy đồ; khi di chuyển qua nơi có khói cần cúi thấp người, dùng khăn hoặc vải che mũi miệng nếu có. Đồng thời, cần biết gọi 114, cung cấp địa điểm rõ ràng và nghe theo hướng dẫn của người lớn, thầy cô hoặc lực lượng chức năng.\n\nViệc tuyên truyền, trang bị kỹ năng cho học sinh không chỉ giúp các em tự bảo vệ mình mà còn góp phần lan tỏa kiến thức PCCC tới gia đình và cộng đồng.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img05.jpg",
+    "gallery": [
+      "images/pccc/img05.jpg",
+      "images/pccc/img08.jpg"
+    ]
+  },
+  {
+    "id": "pccc-nha-o-ket-hop-kinh-doanh",
+    "title": "Nhà ở kết hợp kinh doanh: không để hàng hóa cản trở lối thoát nạn",
+    "category": "PCCC",
+    "date": "2026-05-21",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Nhiều hộ vừa ở vừa kinh doanh nên lượng hàng hóa tập trung lớn; nếu sắp xếp không hợp lý sẽ làm tăng nguy cơ cháy và gây khó khăn khi thoát nạn.",
+    "content": "Thực tế cho thấy nhiều hộ gia đình kết hợp kinh doanh thường tận dụng tối đa diện tích để chứa hàng hóa, vật tư hoặc để phương tiện ngay trước cửa. Cách bố trí này nếu không được kiểm soát sẽ cản trở việc thoát nạn và gây khó khăn cho công tác chữa cháy khi có sự cố.\n\nCông an xã Ia Ko khuyến cáo các hộ cần chừa lối đi thông thoáng, không khóa kín toàn bộ cửa bằng khung sắt cố định, bố trí thêm dụng cụ phá dỡ hoặc lối thoát dự phòng khi cần thiết. Hàng hóa dễ cháy phải được sắp xếp gọn, tránh gần bếp, dây dẫn điện, ổ cắm hoặc thiết bị sinh nhiệt.\n\nMỗi hộ cần duy trì bình chữa cháy ở vị trí phù hợp, hướng dẫn các thành viên trong gia đình biết cách xử lý ban đầu và thống nhất phương án thoát nạn. Sự chuẩn bị kỹ ngay từ đầu sẽ giảm rất nhiều rủi ro khi có cháy xảy ra.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img02.jpg",
+    "gallery": [
+      "images/pccc/img02.jpg",
+      "images/pccc/img03.jpg"
+    ]
+  },
+  {
+    "id": "pccc-dien-mua-nang",
+    "title": "Mùa nắng nóng: kiểm tra điện, nguồn nhiệt trong hộ gia đình và cơ sở kinh doanh",
+    "category": "PCCC",
+    "date": "2026-04-15",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Thời tiết nắng nóng làm nhu cầu sử dụng điện tăng cao, nguy cơ quá tải, chập điện dẫn đến cháy nổ cũng tăng theo nếu không kiểm tra thường xuyên.",
+    "content": "Trong mùa nắng nóng, điều hòa, quạt, tủ đông, tủ lạnh và nhiều thiết bị điện phải hoạt động kéo dài, rất dễ dẫn đến quá tải nếu hệ thống điện đã cũ hoặc sử dụng không đúng cách. Công an xã Ia Ko đề nghị người dân kiểm tra aptomat, ổ cắm, dây dẫn, thay ngay các thiết bị có dấu hiệu hư hỏng, chảy nhựa hoặc phát sinh mùi khét.\n\nĐối với hộ kinh doanh, ngoài việc kiểm tra hệ thống điện còn cần sắp xếp hàng hóa tránh che khuất ổ điện, cầu dao; không cắm nhiều thiết bị công suất lớn vào cùng một nguồn; cuối buổi phải ngắt các thiết bị không cần thiết. Bình chữa cháy cần được đặt ở nơi thuận tiện để sử dụng kịp thời khi có sự cố.\n\nPhòng cháy trong mùa nắng nóng không phải việc lớn lao, mà bắt đầu từ thói quen sử dụng điện an toàn, gọn gàng và có kiểm tra định kỳ.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img01.jpg",
+    "gallery": [
+      "images/pccc/img01.jpg",
+      "images/pccc/img02.jpg"
+    ]
+  },
+  {
+    "id": "pccc-khong-tich-tru-xang-dau",
+    "title": "Cơ sở sửa chữa xe máy cần đặc biệt chú ý an toàn PCCC",
+    "category": "PCCC",
+    "date": "2026-03-18",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Các cơ sở sửa chữa xe máy, thay nhớt, chứa xăng dầu và phụ tùng có nguy cơ cháy nổ cao nếu không bảo đảm an toàn về điện, nguồn nhiệt và bố trí hàng hóa.",
+    "content": "Đối với cơ sở sửa chữa xe máy, thay dầu nhớt và buôn bán phụ tùng, nguy cơ cháy nổ luôn tiềm ẩn do có xăng, dầu, bình ắc quy, giẻ lau dính dầu, vật tư dễ cháy và nhiều thiết bị điện cùng hoạt động. Vì vậy, chủ cơ sở cần sắp xếp khu vực làm việc gọn gàng, tách bạch nơi sửa chữa với nơi chứa hàng, không để vật liệu dễ cháy gần nguồn nhiệt.\n\nNguồn điện phải được kiểm tra định kỳ, hạn chế câu móc tạm bợ; bình chữa cháy cần bố trí tại nơi dễ lấy, thuận tiện khi xảy ra sự cố. Người làm việc trong cơ sở cần nắm được thao tác xử lý ban đầu khi có cháy và phải biết cách báo cháy, gọi lực lượng chức năng hỗ trợ.\n\nCông an xã Ia Ko khuyến cáo các chủ cơ sở không chủ quan với những nguy cơ nhỏ trong quá trình lao động hằng ngày. Phòng ngừa tốt sẽ hạn chế được thiệt hại và bảo đảm an toàn cho người, tài sản cũng như các hộ lân cận.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img03.jpg",
+    "gallery": [
+      "images/pccc/img03.jpg"
+    ]
+  },
+  {
+    "id": "pccc-huong-nen",
+    "title": "Tuyên truyền sử dụng bình chữa cháy và an toàn nguồn lửa tại hộ kinh doanh",
+    "category": "PCCC",
+    "date": "2026-02-19",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Việc trang bị bình chữa cháy là cần thiết, nhưng quan trọng hơn là hộ kinh doanh phải biết cách sử dụng và thường xuyên kiểm tra điều kiện an toàn PCCC.",
+    "content": "Qua công tác tuyên truyền tại địa bàn, Công an xã Ia Ko tiếp tục nhắc nhở các hộ kinh doanh nhỏ lẻ, cửa hàng tạp hóa và cơ sở có chứa nhiều hàng hóa dễ cháy phải thường xuyên tự kiểm tra điều kiện an toàn phòng cháy, chữa cháy. Trong đó, việc đặt bình chữa cháy đúng vị trí, kiểm tra tình trạng bình và biết cách thao tác sử dụng là yêu cầu rất quan trọng.\n\nChủ hộ cần chú ý tách biệt nguồn lửa, nguồn nhiệt với khu vực để hàng hóa; không câu mắc điện tùy tiện; không để dây dẫn xuống cấp, ổ cắm quá tải hoặc thiết bị điện hoạt động liên tục mà không kiểm tra. Ban đêm, trước khi đóng cửa nghỉ, cần rà soát toàn bộ khu vực kinh doanh, tắt các thiết bị không cần thiết và bảo đảm lối thoát nạn thông thoáng.\n\nMỗi hộ kinh doanh nếu chủ động phòng ngừa từ những việc nhỏ sẽ góp phần hạn chế nguy cơ cháy nổ và bảo vệ an toàn cho bản thân, gia đình cũng như khu dân cư xung quanh.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img02.jpg",
+    "gallery": [
+      "images/pccc/img02.jpg",
+      "images/pccc/img01.jpg"
+    ]
+  },
+  {
+    "id": "pccc-tet-2026",
+    "title": "Chủ động PCCC dịp Tết tại hộ gia đình và hộ kinh doanh",
+    "category": "PCCC",
+    "date": "2026-01-16",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Tết là thời điểm nhu cầu sử dụng điện, thắp hương, nấu nướng tăng cao; mỗi hộ gia đình, hộ kinh doanh cần chủ động phòng ngừa để không xảy ra cháy, nổ.",
+    "content": "Dịp trước, trong và sau Tết, nguy cơ cháy nổ thường tăng do sử dụng nhiều thiết bị điện cùng lúc, đun nấu liên tục, thắp hương, nến và tích trữ nhiều hàng hóa trong nhà. Công an xã Ia Ko khuyến cáo người dân chủ động kiểm tra hệ thống điện, vị trí thờ cúng, bếp đun và các vật dễ cháy trong khu vực sinh hoạt.\n\nĐối với hộ gia đình kết hợp buôn bán, cần đặc biệt chú ý sắp xếp hàng hóa gọn gàng, không để vật dụng che kín cửa ra vào, cầu thang hoặc lối thoát nạn. Bình chữa cháy nên được đặt ở nơi dễ thấy, dễ lấy; mọi người trong gia đình nên biết cách sử dụng và thống nhất cách xử lý khi có sự cố.\n\nKhi phát hiện cháy, cần bình tĩnh báo động cho mọi người, cắt điện nếu an toàn, sử dụng phương tiện chữa cháy ban đầu để xử lý đám cháy mới phát sinh và nhanh chóng gọi 114. Phòng cháy tốt từ sớm chính là cách bảo vệ tính mạng, tài sản của mỗi gia đình trong dịp Tết.",
+    "sources": [
+      {
+        "name": "Bộ Công an – Cổng thông tin điện tử",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      }
+    ],
+    "featured": false,
+    "image": "images/pccc/img01.jpg",
+    "gallery": [
+      "images/pccc/img01.jpg"
+    ]
+  }
+]

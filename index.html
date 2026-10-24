@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Trang thông tin tuyên truyền, phổ biến pháp luật của Công an xã Ia Ko.">
+  <title>Công an xã Ia Ko | Trang thông tin tuyên truyền</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="topline">
+      <div class="container topline-inner">
+        <span>TRANG THÔNG TIN TUYÊN TRUYỀN</span>
+        <span id="today"></span>
+      </div>
+    </div>
+    <div class="container brand">
+      <div class="brand-mark">CAX</div>
+      <div>
+        <div class="brand-name">CÔNG AN XÃ IA KO</div>
+        <div class="brand-sub">Tuyên truyền pháp luật • PCCC • ANTT • Chuyển đổi số • Tin tức</div>
+      </div>
+    </div>
+    <nav class="nav">
+      <div class="container nav-inner">
+        <button class="nav-link active" data-category="Tất cả">Trang chủ</button>
+        <button class="nav-link" data-category="Pháp luật">Pháp luật</button>
+        <button class="nav-link" data-category="PCCC">PCCC</button>
+        <button class="nav-link" data-category="Cảnh báo ANTT">Cảnh báo ANTT</button>
+        <button class="nav-link" data-category="Chuyển đổi số">Chuyển đổi số</button>
+        <button class="nav-link" data-category="Tin thế giới">Tin thế giới</button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="notice">
+      <div class="container">
+        <strong>Lưu ý:</strong> Website phục vụ tuyên truyền, phổ biến thông tin công khai; không đăng tải tài liệu nghiệp vụ, dữ liệu cá nhân, thông tin mật hoặc nội dung hạn chế phổ biến.
+      </div>
+    </section>
+
+    <section class="container search-row">
+      <div>
+        <h1>Tin mới & bài tuyên truyền</h1>
+        <p class="muted">Nội dung được biên tập lại từ nguồn công khai, ưu tiên nguồn chính thống.</p>
+      </div>
+      <label class="searchbox">
+        <span>🔎</span>
+        <input id="searchInput" type="search" placeholder="Tìm bài viết...">
+      </label>
+    </section>
+
+    <section id="heroSection" class="container hero-wrap"></section>
+
+    <section class="container content-layout">
+      <div>
+        <div class="section-head">
+          <h2 id="sectionTitle">Bài viết mới</h2>
+          <span id="resultCount" class="pill"></span>
+        </div>
+        <div id="articleGrid" class="article-grid"></div>
+        <div class="pager" id="pager"></div>
+      </div>
+      <aside>
+        <div class="side-card">
+          <h3>Chuyên mục</h3>
+          <div id="categoryStats"></div>
+        </div>
+        <div class="side-card pccc-status">
+          <h3>🔥 Theo dõi bài PCCC 2026</h3>
+          <div id="pcccStatus"></div>
+          <a href="admin.html" class="admin-link">Mở trang quản trị bài viết →</a>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-grid">
+      <div>
+        <strong>CÔNG AN XÃ IA KO</strong>
+        <p>Trang thông tin tuyên truyền, phổ biến pháp luật và kỹ năng phòng ngừa.</p>
+      </div>
+      <div>
+        <strong>Nguyên tắc biên tập</strong>
+        <p>Bài viết tóm lược/biên tập lại và ghi nguồn tham khảo. Nội dung không thay thế văn bản pháp luật chính thức.</p>
+      </div>
+    </div>
+  </footer>
+
+  <div id="articleModal" class="modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close="1"></div>
+    <article class="modal-card">
+      <button class="close-btn" data-close="1" aria-label="Đóng">×</button>
+      <div id="articleView"></div>
+    </article>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

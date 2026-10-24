@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quản trị bài viết | CAX Ia Ko</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+.admin-wrap{padding:28px 0 50px}.admin-grid{display:grid;grid-template-columns:360px 1fr;gap:20px}
+.panel{background:#fff;border:1px solid #e7e9ee;border-radius:12px;padding:18px}
+.form-row{margin-bottom:12px}.form-row label{font-weight:700;font-size:13px;display:block;margin-bottom:5px}
+.form-row input,.form-row select,.form-row textarea{width:100%;border:1px solid #d8dde6;border-radius:8px;padding:9px;font:inherit}.form-row textarea{min-height:120px}
+.btn{border:0;border-radius:8px;padding:9px 12px;font-weight:800;cursor:pointer}.primary{background:#9d0000;color:#fff}.secondary{background:#e9edf3}.danger{background:#fde7e7;color:#a00000}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}.list{max-height:690px;overflow:auto}.item{padding:10px;border-bottom:1px solid #eceff3;cursor:pointer}.item:hover{background:#f8f9fb}.item strong{display:block}.tiny{font-size:12px;color:#667085}
+.warn{background:#fff3cd;border:1px solid #ffe69c;border-radius:9px;padding:10px;font-size:13px;margin-bottom:14px}
+.preview-img{width:100%;max-height:220px;object-fit:cover;border-radius:10px;border:1px solid #eceff3;margin-top:6px;background:#f7f8fa}
+code{background:#f4f4f4;padding:1px 4px;border-radius:4px}
+@media(max-width:900px){.admin-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="topline"><div class="container topline-inner"><span>QUẢN TRỊ NỘI DUNG</span><a href="index.html" style="color:white">← Về trang chủ</a></div></div>
+<main class="container admin-wrap">
+<h1>Quản trị bài viết</h1>
+<p class="muted">Trang này chạy hoàn toàn trên trình duyệt. Sau khi chỉnh sửa, bấm “Xuất articles.json” rồi thay file <code>data/articles.json</code> trên GitHub.</p>
+<div class="warn"><strong>Không nhập dữ liệu nghiệp vụ/mật:</strong> Website công khai trên Internet. Chỉ đăng nội dung được phép phổ biến.</div>
+<div class="toolbar">
+<button id="newBtn" class="btn secondary">+ Bài mới</button>
+<button id="exportBtn" class="btn primary">Xuất articles.json</button>
+<label class="btn secondary" style="display:inline-block">Nhập JSON<input id="importFile" type="file" accept=".json" hidden></label>
+</div>
+<div class="admin-grid">
+<section class="panel">
+<h3>Danh sách bài</h3>
+<div id="status" class="tiny"></div>
+<div id="list" class="list"></div>
+</section>
+<section class="panel">
+<h3 id="formTitle">Chỉnh sửa bài</h3>
+<form id="form">
+<input type="hidden" id="id">
+<div class="form-row"><label>Tiêu đề</label><input id="title" required></div>
+<div class="form-row"><label>Chuyên mục</label><select id="category"><option>Pháp luật</option><option>PCCC</option><option>Cảnh báo ANTT</option><option>Chuyển đổi số</option><option>Tin thế giới</option></select></div>
+<div class="form-row"><label>Ngày đăng</label><input id="date" type="date" required></div>
+<div class="form-row"><label>Tác giả</label><input id="author" value="Công an xã Ia Ko"></div>
+<div class="form-row"><label>Mô tả ngắn</label><textarea id="excerpt" required></textarea></div>
+<div class="form-row"><label>Nội dung (mỗi đoạn cách nhau 1 dòng trống)</label><textarea id="content" style="min-height:260px" required></textarea></div>
+<div class="form-row"><label>Ảnh đại diện bài (đường dẫn tương đối, ví dụ <code>images/pccc/img01.jpg</code>)</label><input id="image"></div>
+<div class="form-row"><label>Gallery ảnh (mỗi dòng 1 đường dẫn ảnh)</label><textarea id="gallery" style="min-height:90px"></textarea></div>
+<div class="form-row"><label>Tên nguồn</label><input id="sourceName"></div>
+<div class="form-row"><label>Link nguồn</label><input id="sourceUrl" type="url"></div>
+<div class="form-row"><label><input id="featured" type="checkbox" style="width:auto"> Đánh dấu nổi bật</label></div>
+<img id="preview" class="preview-img" style="display:none" alt="Xem trước ảnh">
+<div class="toolbar"><button class="btn primary" type="submit">Lưu vào bản nháp</button><button id="deleteBtn" class="btn danger" type="button">Xóa bài</button></div>
+</form>
+</section>
+</div>
+</main>
+<script>
+let articles=[]; const $=s=>document.querySelector(s);
+async function init(){articles=await (await fetch("data/articles.json")).json();renderList();newForm();bindPreview()}
+function slug(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/đ/g,"d").replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"").slice(0,70)}
+function renderList(){
+ $("#status").textContent=`${articles.length} bài • PCCC 2026: ${new Set(articles.filter(a=>a.category==="PCCC"&&a.date.startsWith("2026-")).map(a=>a.date.slice(0,7))).size}/12 tháng`;
+ $("#list").innerHTML=[...articles].sort((a,b)=>b.date.localeCompare(a.date)).map(a=>`<div class="item" data-id="${a.id}"><strong>${a.title}</strong><span class="tiny">${a.date} • ${a.category}</span></div>`).join("");
+ document.querySelectorAll(".item").forEach(x=>x.onclick=()=>edit(x.dataset.id));
+}
+function bindPreview(){ $("#image").addEventListener('input',showPreview); }
+function showPreview(){ const v=$("#image").value.trim(); if(v){ $("#preview").src=v; $("#preview").style.display='block'; } else { $("#preview").style.display='none'; } }
+function newForm(){ $("#form").reset(); $("#id").value=""; $("#date").value=new Date().toISOString().slice(0,10); $("#author").value="Công an xã Ia Ko"; $("#formTitle").textContent="Thêm bài mới"; showPreview(); }
+function edit(id){
+ const a=articles.find(x=>x.id===id);if(!a)return;
+ $("#id").value=a.id; $("#title").value=a.title; $("#category").value=a.category; $("#date").value=a.date; $("#author").value=a.author||"";
+ $("#excerpt").value=a.excerpt||""; $("#content").value=a.content||""; $("#featured").checked=!!a.featured; $("#image").value=a.image||"";
+ $("#gallery").value=(a.gallery||[]).join("\n"); $("#sourceName").value=a.sources?.[0]?.name||""; $("#sourceUrl").value=a.sources?.[0]?.url||""; $("#formTitle").textContent="Chỉnh sửa bài"; showPreview();
+}
+$("#form").onsubmit=e=>{
+ e.preventDefault(); let id=$("#id").value||slug($("#title").value)+"-"+Date.now().toString().slice(-5);
+ const gallery=$("#gallery").value.split(/\n+/).map(s=>s.trim()).filter(Boolean);
+ const obj={id,title:$("#title").value.trim(),category:$("#category").value,date:$("#date").value,author:$("#author").value.trim(),excerpt:$("#excerpt").value.trim(),content:$("#content").value.trim(),featured:$("#featured").checked,image:$("#image").value.trim(),gallery,
+ sources:($("#sourceName").value.trim()||$("#sourceUrl").value.trim())?[{name:$("#sourceName").value.trim()||"Nguồn tham khảo",url:$("#sourceUrl").value.trim()}]:[]};
+ const i=articles.findIndex(x=>x.id===id);if(i>=0)articles[i]=obj;else articles.push(obj);$("#id").value=id;renderList();alert("Đã lưu vào bản nháp trên trình duyệt. Bấm “Xuất articles.json” để lấy file cập nhật.");
+}
+$("#newBtn").onclick=newForm; $("#deleteBtn").onclick=()=>{const id=$("#id").value;if(!id)return;if(confirm("Xóa bài này khỏi bản nháp?")){articles=articles.filter(a=>a.id!==id);newForm();renderList()}};
+$("#exportBtn").onclick=()=>{const blob=new Blob([JSON.stringify(articles,null,2)],{type:"application/json;charset=utf-8"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="articles.json";a.click();URL.revokeObjectURL(a.href)};
+$("#importFile").onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{articles=JSON.parse(r.result);renderList();alert("Đã nhập JSON vào bản nháp.")}catch{alert("File JSON không hợp lệ.")}};r.readAsText(f)};
+init().catch(()=>alert("Hãy mở trang quản trị trên website/GitHub Pages, không mở trực tiếp file://."));
+</script>
+</body></html>
