@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+
+Sitemap: https://news-afk.github.io/Gia-Lai-So-News/sitemap.xml
