@@ -1,0 +1,12 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /site/articles {
+      allow read: if true;
+      // Sau khi tạo tài khoản Admin trong Firebase Authentication,
+      // thay ADMIN_UID_HERE bằng UID của tài khoản đó.
+      allow write: if request.auth != null
+                   && request.auth.uid == "ADMIN_UID_HERE";
+    }
+  }
+}
