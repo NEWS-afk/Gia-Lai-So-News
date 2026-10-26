@@ -56,7 +56,25 @@ $("#loginForm").addEventListener("submit",async e=>{
   e.preventDefault();$("#loginError").textContent="";
   if(!readyConfig())return;
   if($("#loginUsername").value.trim()!==cfg.adminUsername){$("#loginError").textContent="Sai tài khoản.";return}
-  try{await signInWithEmailAndPassword(auth,cfg.adminEmail,$("#loginPassword").value)}catch(err){$("#loginError").textContent="Đăng nhập không thành công. Kiểm tra mật khẩu hoặc cấu hình Firebase."}
+  try{
+    await signInWithEmailAndPassword(auth,cfg.adminEmail,$("#loginPassword").value);
+  }catch(err){
+    console.error("Firebase Auth login error:",err);
+    const code=err?.code||"unknown";
+    const messages={
+      "auth/invalid-credential":"Firebase không chấp nhận thông tin đăng nhập. Kiểm tra đúng user và mật khẩu vừa đặt lại.",
+      "auth/wrong-password":"Mật khẩu không đúng.",
+      "auth/user-not-found":"Không tìm thấy tài khoản quản trị trong Firebase Authentication.",
+      "auth/user-disabled":"Tài khoản quản trị đang bị vô hiệu hóa.",
+      "auth/operation-not-allowed":"Phương thức Email/Password chưa được bật trong Authentication > Sign-in method.",
+      "auth/too-many-requests":"Firebase tạm khóa đăng nhập do thử quá nhiều lần. Chờ một lúc rồi thử lại.",
+      "auth/network-request-failed":"Không kết nối được tới Firebase. Kiểm tra mạng/trình duyệt hoặc tiện ích chặn kết nối.",
+      "auth/invalid-api-key":"API key Firebase trong website không hợp lệ.",
+      "auth/app-not-authorized":"Web app/API key chưa được phép dùng Firebase Authentication.",
+      "auth/unauthorized-domain":"Tên miền GitHub Pages chưa nằm trong Authentication > Settings > Authorized domains."
+    };
+    $("#loginError").textContent=`${messages[code]||"Firebase từ chối đăng nhập."} (Mã lỗi: ${code})`;
+  }
 });
 if(auth)onAuthStateChanged(auth,async user=>{
   $("#loginScreen").style.display=user?"none":"grid";$("#dashboard").classList.toggle("show",!!user);
