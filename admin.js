@@ -66,9 +66,16 @@ $("#logoutBtn").onclick=()=>signOut(auth);
 $("#newPostBtn").onclick=resetForm;
 $("#adminSearch").oninput=renderList;
 $("#seedBtn").onclick=async()=>{
-  if(items.length&&!confirm("Kho dữ liệu đã có bài. Ghi đè bằng 121 bài mẫu?"))return;
+  if(items.length&&!confirm("Kho dữ liệu đã có bài. Ghi đè bằng 72 bài mẫu?"))return;
   items=(window.SEED_POSTS||[]).map(x=>({...x,status:x.status||"published"}));
   await saveAll();renderList();alert("Đã khởi tạo 72 bài mẫu V10 lên Firestore.");
+};
+$("#syncPcccBtn").onclick=async()=>{
+  const pccc=(window.SEED_POSTS||[]).filter(x=>x.category==="PCCC").map(x=>({...x,status:x.status||"published"}));
+  if(!pccc.length)return alert("Không tìm thấy bài PCCC trong dữ liệu mẫu.");
+  if(!confirm(`Cập nhật ${pccc.length} bài PCCC Ia Ko lên Firestore? Các chuyên mục khác sẽ được giữ nguyên.`))return;
+  items=items.filter(x=>x.category!=="PCCC").concat(pccc);
+  await saveAll();renderList();alert(`Đã cập nhật ${pccc.length} bài PCCC Ia Ko. Các bài thuộc chuyên mục khác được giữ nguyên.`);
 };
 $("#postForm").addEventListener("submit",async e=>{
   e.preventDefault();$("#saveError").textContent="";
