@@ -1,38 +1,38 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js";
-import { getAuth, signInWithEmailAndPassword, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-auth.js";
-import { getFirestore, doc, getDoc, setDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-firestore.js";
-import { getStorage, ref, uploadBytes, getDownloadURL } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-storage.js";
-
-const cfg=window.GLS_FIREBASE||{};
 const $=s=>document.querySelector(s);
-let app,auth,db,storage=null,items=[];
-
-function readyConfig(){
-  return cfg.enabled && cfg.config?.apiKey && !cfg.config.apiKey.includes("PASTE_") && cfg.adminEmail && !cfg.adminEmail.includes("YOUR_");
-}
-if(!readyConfig()){
-  $("#loginError").textContent="Chưa cấu hình Firebase. Mở file firebase-config.js và làm theo README_FIREBASE_SETUP.md.";
-}
-else{
-  app=initializeApp(cfg.config); auth=getAuth(app); db=getFirestore(app);
-  if(cfg.storageEnabled) storage=getStorage(app);
-}
+const USERNAME="Adminnews";
+const PASSWORD_SHA256="536f2e4efd13ace82cc4875e48164cfafabd0151c713272d26fcb8b902772c0f";
+const STORE_KEY="gls_news_editor_v11";
+const SESSION_KEY="gls_news_admin_session_v11";
+let items=[];
 
 const slugify=s=>s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/đ/g,"d").replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"").slice(0,90);
 const parseSources=text=>text.split(/\n+/).map(x=>x.trim()).filter(Boolean).map(line=>{const [name,...rest]=line.split("|");return{name:name.trim(),url:rest.join("|").trim()}}).filter(x=>x.name);
 const sourceText=s=>(s||[]).map(x=>`${x.name} | ${x.url||""}`).join("\n");
 
-async function loadDoc(){
-  const snap=await getDoc(doc(db,"site","articles"));
-  items=snap.exists()&&Array.isArray(snap.data().items)?snap.data().items:[];
-  renderList();
+async function sha256(text){
+  const data=new TextEncoder().encode(text);
+  const digest=await crypto.subtle.digest("SHA-256",data);
+  return [...new Uint8Array(digest)].map(b=>b.toString(16).padStart(2,"0")).join("");
 }
-async function saveAll(){
-  await setDoc(doc(db,"site","articles"),{items,updatedAt:serverTimestamp()});
+function defaultItems(){return Array.isArray(window.SEED_POSTS)?structuredClone(window.SEED_POSTS):[];}
+function loadLocal(){
+  try{const raw=localStorage.getItem(STORE_KEY);items=raw?JSON.parse(raw):defaultItems();}
+  catch{items=defaultItems();}
+  if(!Array.isArray(items))items=defaultItems();
+}
+function saveLocal(){localStorage.setItem(STORE_KEY,JSON.stringify(items));}
+function showDashboard(){
+  $("#loginScreen").style.display="none";
+  $("#dashboard").classList.add("show");
+  loadLocal();renderList();resetForm();
+}
+function showLogin(){
+  $("#dashboard").classList.remove("show");
+  $("#loginScreen").style.display="grid";
 }
 function renderList(){
   const q=$("#adminSearch").value.trim().toLowerCase();
-  const list=[...items].sort((a,b)=>(b.date||"").localeCompare(a.date||"")).filter(a=>(a.title+" "+a.category).toLowerCase().includes(q));
+  const list=[...items].sort((a,b)=>(b.date||"").localeCompare(a.date||"")).filter(a=>((a.title||"")+" "+(a.category||"")).toLowerCase().includes(q));
   $("#adminStats").textContent=`${items.length} bài · ${items.filter(x=>x.status!=="draft").length} công khai · ${items.filter(x=>x.status==="draft").length} bản nháp`;
   $("#postList").innerHTML=list.map(a=>`<div class="post-row" data-id="${a.id}"><strong>${a.title}</strong><small>${a.date||""} · ${a.category} ${a.status==="draft"?"· NHÁP":""}</small></div>`).join("");
   document.querySelectorAll(".post-row").forEach(r=>r.onclick=()=>editPost(r.dataset.id));
@@ -44,70 +44,64 @@ function editPost(id){
   const a=items.find(x=>x.id===id);if(!a)return;
   $("#postId").value=a.id;$("#title").value=a.title||"";$("#category").value=a.category||"Pháp luật";$("#date").value=a.date||"";$("#author").value=a.author||"Gia Lai Số News";$("#status").value=a.status||"published";$("#excerpt").value=a.excerpt||"";$("#content").value=a.content||"";$("#partner").value=a.partner||"";$("#imageUrl").value=a.image||"";$("#sources").value=sourceText(a.sources);$("#featured").checked=!!a.featured;$("#editorTitle").textContent="Chỉnh sửa bài";
 }
-async function uploadImageIfAny(){
-  const file=$("#imageFile").files[0];
-  if(!file)return $("#imageUrl").value.trim();
-  if(!cfg.storageEnabled||!storage)throw new Error("Chưa bật Firebase Storage. Có thể dùng URL ảnh/đường dẫn GitHub thay thế.");
-  const ext=(file.name.split(".").pop()||"jpg").replace(/[^a-z0-9]/gi,"");
-  const name=`posts/${Date.now()}-${Math.random().toString(36).slice(2,8)}.${ext}`;
-  const r=ref(storage,name); await uploadBytes(r,file,{contentType:file.type}); return await getDownloadURL(r);
+function downloadText(filename,text,type="text/javascript;charset=utf-8"){
+  const blob=new Blob([text],{type}); const url=URL.createObjectURL(blob); const a=document.createElement("a");
+  a.href=url;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
 }
+function exportData(){
+  const text="window.SEED_POSTS = "+JSON.stringify(items,null,2)+";\n";
+  downloadText("seed-posts.js",text);
+  $("#publishNote").textContent="Đã xuất seed-posts.js. Upload file này lên GitHub để ghi đè file cũ, sau đó Ctrl+F5 trang chủ.";
+}
+
 $("#loginForm").addEventListener("submit",async e=>{
   e.preventDefault();$("#loginError").textContent="";
-  if(!readyConfig())return;
-  if($("#loginUsername").value.trim()!==cfg.adminUsername){$("#loginError").textContent="Sai tài khoản.";return}
-  try{
-    await signInWithEmailAndPassword(auth,cfg.adminEmail,$("#loginPassword").value);
-  }catch(err){
-    console.error("Firebase Auth login error:",err);
-    const code=err?.code||"unknown";
-    const messages={
-      "auth/invalid-credential":"Firebase không chấp nhận thông tin đăng nhập. Kiểm tra đúng user và mật khẩu vừa đặt lại.",
-      "auth/wrong-password":"Mật khẩu không đúng.",
-      "auth/user-not-found":"Không tìm thấy tài khoản quản trị trong Firebase Authentication.",
-      "auth/user-disabled":"Tài khoản quản trị đang bị vô hiệu hóa.",
-      "auth/operation-not-allowed":"Phương thức Email/Password chưa được bật trong Authentication > Sign-in method.",
-      "auth/too-many-requests":"Firebase tạm khóa đăng nhập do thử quá nhiều lần. Chờ một lúc rồi thử lại.",
-      "auth/network-request-failed":"Không kết nối được tới Firebase. Kiểm tra mạng/trình duyệt hoặc tiện ích chặn kết nối.",
-      "auth/invalid-api-key":"API key Firebase trong website không hợp lệ.",
-      "auth/app-not-authorized":"Web app/API key chưa được phép dùng Firebase Authentication.",
-      "auth/unauthorized-domain":"Tên miền GitHub Pages chưa nằm trong Authentication > Settings > Authorized domains."
-    };
-    $("#loginError").textContent=`${messages[code]||"Firebase từ chối đăng nhập."} (Mã lỗi: ${code})`;
-  }
+  const user=$("#loginUsername").value.trim();
+  const pass=$("#loginPassword").value;
+  if(user!==USERNAME){$("#loginError").textContent="Sai tài khoản.";return;}
+  const hash=await sha256(pass);
+  if(hash!==PASSWORD_SHA256){$("#loginError").textContent="Sai mật khẩu.";return;}
+  sessionStorage.setItem(SESSION_KEY,"1");
+  $("#loginPassword").value="";
+  showDashboard();
 });
-if(auth)onAuthStateChanged(auth,async user=>{
-  $("#loginScreen").style.display=user?"none":"grid";$("#dashboard").classList.toggle("show",!!user);
-  if(user){$("#storageNote").textContent=cfg.storageEnabled?"Có thể tải ảnh trực tiếp lên Firebase Storage.":"Storage đang tắt: hãy dán URL ảnh hoặc dùng đường dẫn ảnh trên GitHub.";await loadDoc();resetForm();}
-});
-$("#logoutBtn").onclick=()=>signOut(auth);
+
+$("#logoutBtn").onclick=()=>{sessionStorage.removeItem(SESSION_KEY);showLogin();};
 $("#newPostBtn").onclick=resetForm;
 $("#adminSearch").oninput=renderList;
-$("#seedBtn").onclick=async()=>{
-  if(items.length&&!confirm("Kho dữ liệu đã có bài. Ghi đè bằng 72 bài mẫu?"))return;
-  items=(window.SEED_POSTS||[]).map(x=>({...x,status:x.status||"published"}));
-  await saveAll();renderList();alert("Đã khởi tạo 72 bài mẫu V10 lên Firestore.");
+$("#reloadSeedBtn").onclick=()=>{
+  if(!confirm("Nạp lại dữ liệu từ file seed-posts.js trên website? Các chỉnh sửa chưa xuất sẽ bị mất."))return;
+  items=defaultItems();saveLocal();renderList();resetForm();$("#publishNote").textContent="Đã nạp lại dữ liệu gốc từ website.";
 };
-$("#syncPcccBtn").onclick=async()=>{
-  const pccc=(window.SEED_POSTS||[]).filter(x=>x.category==="PCCC").map(x=>({...x,status:x.status||"published"}));
-  if(!pccc.length)return alert("Không tìm thấy bài PCCC trong dữ liệu mẫu.");
-  if(!confirm(`Cập nhật ${pccc.length} bài PCCC Ia Ko lên Firestore? Các chuyên mục khác sẽ được giữ nguyên.`))return;
-  items=items.filter(x=>x.category!=="PCCC").concat(pccc);
-  await saveAll();renderList();alert(`Đã cập nhật ${pccc.length} bài PCCC Ia Ko. Các bài thuộc chuyên mục khác được giữ nguyên.`);
+$("#exportBtn").onclick=exportData;
+$("#backupBtn").onclick=()=>downloadText(`gia-lai-so-news-backup-${new Date().toISOString().slice(0,10)}.json`,JSON.stringify(items,null,2),"application/json;charset=utf-8");
+$("#importFile").onchange=async e=>{
+  const f=e.target.files?.[0];if(!f)return;
+  try{
+    const text=await f.text();let data;
+    if(f.name.toLowerCase().endsWith('.js')){
+      const m=text.match(/window\.SEED_POSTS\s*=\s*(\[[\s\S]*\])\s*;?\s*$/);if(!m)throw new Error("Không đọc được file JS.");data=JSON.parse(m[1]);
+    }else data=JSON.parse(text);
+    if(!Array.isArray(data))throw new Error("Dữ liệu không đúng định dạng.");
+    items=data;saveLocal();renderList();resetForm();$("#publishNote").textContent=`Đã nhập ${items.length} bài.`;
+  }catch(err){alert("Không nhập được dữ liệu: "+(err.message||err));}
+  e.target.value="";
 };
-$("#postForm").addEventListener("submit",async e=>{
+
+$("#postForm").addEventListener("submit",e=>{
   e.preventDefault();$("#saveError").textContent="";
   try{
-    const oldId=$("#postId").value; const id=oldId||slugify($("#title").value)+"-"+Date.now().toString().slice(-5);
-    const image=await uploadImageIfAny();
-    const obj={id,title:$("#title").value.trim(),category:$("#category").value,date:$("#date").value,author:$("#author").value.trim()||"Gia Lai Số News",status:$("#status").value,excerpt:$("#excerpt").value.trim(),content:$("#content").value.trim(),partner:$("#partner").value.trim(),image,featured:$("#featured").checked,sources:parseSources($("#sources").value)};
+    const oldId=$("#postId").value;const id=oldId||slugify($("#title").value)+"-"+Date.now().toString().slice(-5);
+    const obj={id,title:$("#title").value.trim(),category:$("#category").value,date:$("#date").value,author:$("#author").value.trim()||"Gia Lai Số News",status:$("#status").value,excerpt:$("#excerpt").value.trim(),content:$("#content").value.trim(),partner:$("#partner").value.trim(),image:$("#imageUrl").value.trim(),featured:$("#featured").checked,sources:parseSources($("#sources").value)};
     const i=items.findIndex(x=>x.id===id);if(i>=0)items[i]=obj;else items.push(obj);
     if(obj.featured)items=items.map(x=>x.id===id?x:{...x,featured:false});
-    await saveAll();renderList();$("#postId").value=id;alert("Đã lưu bài. Trang công khai sẽ đọc dữ liệu mới từ Firestore.");
-  }catch(err){$("#saveError").textContent=err.message||String(err)}
+    saveLocal();renderList();$("#postId").value=id;$("#publishNote").textContent="Đã lưu trên máy này. Khi muốn đưa lên web, bấm “Xuất file cập nhật website”.";
+  }catch(err){$("#saveError").textContent=err.message||String(err);}
 });
-$("#deleteBtn").onclick=async()=>{
+$("#deleteBtn").onclick=()=>{
   const id=$("#postId").value;if(!id)return;
-  if(!confirm("Xóa bài này?"))return;
-  items=items.filter(x=>x.id!==id);await saveAll();renderList();resetForm();
+  if(!confirm("Xóa bài này khỏi bản đang biên tập?"))return;
+  items=items.filter(x=>x.id!==id);saveLocal();renderList();resetForm();$("#publishNote").textContent="Đã xóa trong bản biên tập. Xuất seed-posts.js để cập nhật lên web.";
 };
+
+if(sessionStorage.getItem(SESSION_KEY)==="1")showDashboard();else showLogin();

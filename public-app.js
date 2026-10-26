@@ -1,7 +1,4 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-app.js";
-import { getFirestore, doc, getDoc } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-firestore.js";
 
-const cfg = window.GLS_FIREBASE || {};
 const state = {articles:[], category:"Tất cả", query:"", page:1, perPage:12};
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").normalize("NFC").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
@@ -20,15 +17,7 @@ function imgSrc(a){ return a.image || STOCK_FALLBACKS[a.category] || placeholder
 function safeImg(img,a){ img.onerror=()=>{img.onerror=null;img.src=STOCK_FALLBACKS[a.category] || placeholderSvg(a.title)} }
 
 async function loadArticles(){
-  let list = Array.isArray(window.SEED_POSTS) ? [...window.SEED_POSTS] : [];
-  if(cfg.enabled && cfg.config?.apiKey && !cfg.config.apiKey.includes("PASTE_")){
-    try{
-      const app=initializeApp(cfg.config);
-      const db=getFirestore(app);
-      const snap=await getDoc(doc(db,"site","articles"));
-      if(snap.exists() && Array.isArray(snap.data().items)) list=snap.data().items;
-    }catch(err){ console.warn("Firebase unavailable, using seed data",err); }
-  }
+  const list = Array.isArray(window.SEED_POSTS) ? [...window.SEED_POSTS] : [];
   state.articles=list.filter(a=>a.status!=="draft").sort((a,b)=>(b.date||"").localeCompare(a.date||""));
 }
 function bind(){
