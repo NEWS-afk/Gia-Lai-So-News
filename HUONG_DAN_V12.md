@@ -20,3 +20,10 @@
 6. Mở trang chủ và nhấn Ctrl+F5.
 
 Lưu ý: Ảnh nhúng trực tiếp làm seed-posts.js tăng dung lượng. Nên dùng ảnh vừa phải; hệ thống tự nén ảnh khi chọn từ máy.
+
+
+## V12.1 - Xem trước thay đổi ngay
+- Sau khi bấm **Lưu bài**, trang chủ trên cùng trình duyệt/máy sẽ tự đọc bản biên tập trong localStorage và hiển thị ngay ảnh/nội dung mới.
+- Khi đang xem dữ liệu local, đầu trang xuất hiện dòng **BẢN XEM TRƯỚC TRÊN MÁY NÀY – các thay đổi chưa được xuất bản lên GitHub**.
+- Để mọi người và các thiết bị khác thấy thay đổi, vẫn phải bấm **Xuất file cập nhật website**, sau đó upload `seed-posts.js` lên GitHub để ghi đè file cũ.
+- Sau khi xuất bản xong, có thể vào Admin chọn **Nạp lại dữ liệu từ website** để đồng bộ bản local với bản đã công khai.

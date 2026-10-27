@@ -211,7 +211,7 @@ $("#postForm").addEventListener("submit",e=>{
     if(obj.featured)items=items.map(x=>x.id===id?x:{...x,featured:false});
     currentLeadImage=obj.image;
     saveLocal();renderList();$("#postId").value=id;
-    $("#publishNote").textContent="Đã lưu trên máy này. Khi muốn đưa lên web, bấm “Xuất file cập nhật website”.";
+    $("#publishNote").textContent="Đã lưu trên máy này. Mở trang chủ trên máy này sẽ thấy bản xem trước ngay. Muốn mọi người cùng thấy, bấm “Xuất file cập nhật website” rồi upload seed-posts.js lên GitHub.";
   }catch(err){$("#saveError").textContent=err.message||String(err);}
 });
 $("#deleteBtn").onclick=()=>{
