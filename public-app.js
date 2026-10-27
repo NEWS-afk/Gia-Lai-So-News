@@ -17,31 +17,53 @@ function imgSrc(a){ return a.image || STOCK_FALLBACKS[a.category] || placeholder
 function safeImg(img,a){ img.onerror=()=>{img.onerror=null;img.src=STOCK_FALLBACKS[a.category] || placeholderSvg(a.title)} }
 
 const LOCAL_EDITOR_KEY="gls_news_editor_v12";
+const PREVIEW_PING_KEY="gls_news_editor_v12_ping";
 let usingLocalPreview=false;
+let localPreviewSignature="";
 
 function showLocalPreviewNotice(){
-  if(!usingLocalPreview || document.getElementById("localPreviewNotice")) return;
+  const old=document.getElementById("localPreviewNotice");
+  if(!usingLocalPreview){ if(old) old.remove(); return; }
+  if(old) return;
   const bar=document.createElement("div");
   bar.id="localPreviewNotice";
   bar.textContent="BẢN XEM TRƯỚC TRÊN MÁY NÀY – các thay đổi chưa được xuất bản lên GitHub";
   bar.style.cssText="position:sticky;top:0;z-index:9999;background:#fff3cd;color:#6b5200;border-bottom:1px solid #e7cf77;padding:8px 14px;text-align:center;font:600 13px Arial,sans-serif";
   document.body.prepend(bar);
 }
-
-async function loadArticles(){
-  let list = Array.isArray(window.SEED_POSTS) ? [...window.SEED_POSTS] : [];
+function readLocalEditor(){
   try{
     const raw=localStorage.getItem(LOCAL_EDITOR_KEY);
-    if(raw){
-      const local=JSON.parse(raw);
-      if(Array.isArray(local) && local.length){
-        list=local;
-        usingLocalPreview=true;
-      }
-    }
-  }catch(err){ console.warn("Không đọc được bản biên tập cục bộ:",err); }
-  state.articles=list.filter(a=>a.status!=="draft").sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+    if(!raw) return null;
+    const list=JSON.parse(raw);
+    if(!Array.isArray(list) || !list.length) return null;
+    return {raw,list};
+  }catch(err){
+    console.warn("Không đọc được bản biên tập cục bộ:",err);
+    return null;
+  }
+}
+function applyArticleList(list,isLocal=false,signature=""){
+  state.articles=(Array.isArray(list)?list:[]).filter(a=>a.status!=="draft").sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+  usingLocalPreview=!!isLocal;
+  if(signature) localPreviewSignature=signature;
   showLocalPreviewNotice();
+}
+async function loadArticles(){
+  const local=readLocalEditor();
+  if(local) applyArticleList(local.list,true,local.raw);
+  else applyArticleList(Array.isArray(window.SEED_POSTS)?[...window.SEED_POSTS]:[],false,"");
+}
+function syncLocalPreview(){
+  const local=readLocalEditor();
+  const nextSig=local?.raw||"";
+  if(nextSig===localPreviewSignature && usingLocalPreview===!!local) return;
+  if(local) applyArticleList(local.list,true,nextSig);
+  else applyArticleList(Array.isArray(window.SEED_POSTS)?[...window.SEED_POSTS]:[],false,"");
+  renderTicker();
+  renderListingOrHome();
+  const openId=new URLSearchParams(location.search).get("id");
+  if(openId && document.getElementById("articleModal")?.classList.contains("open")) openArticle(openId,false);
 }
 function bind(){
   $("#searchInput").addEventListener("input",e=>{state.query=e.target.value.trim().toLowerCase();state.page=1;renderListingOrHome()});
@@ -55,6 +77,9 @@ function bind(){
     if(e.target.dataset.close) closeArticle();
   });
   window.addEventListener("popstate",()=>{ const id=new URLSearchParams(location.search).get("id"); if(id) openArticle(id,false); else closeArticle(false); });
+  window.addEventListener("storage",e=>{ if(e.key===LOCAL_EDITOR_KEY || e.key===PREVIEW_PING_KEY) syncLocalPreview(); });
+  window.addEventListener("focus",syncLocalPreview);
+  document.addEventListener("visibilitychange",()=>{ if(!document.hidden) syncLocalPreview(); });
 }
 function filtered(cat=state.category){
   const q=state.query;
