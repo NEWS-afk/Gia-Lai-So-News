@@ -1,1 +1,1726 @@
-window.SEED_POSTS = [{"id":"canh-giac-thu-doan-gia-danh-cong-an-goi-dien-yeu-cau-chuyen-tien","title":"Cảnh giác thủ đoạn giả danh Công an gọi điện yêu cầu chuyển tiền","category":"Cảnh báo ANTT","date":"2026-10-24","author":"Gia Lai Số News","excerpt":"Các đối tượng thường lợi dụng tâm lý lo sợ để đe dọa, yêu cầu nạn nhân cung cấp thông tin cá nhân hoặc chuyển tiền.","content":"Điểm chung của nhiều thủ đoạn hiện nay là tạo cảm giác gấp gáp để nạn nhân không kịp kiểm tra. Các đối tượng thường lợi dụng tâm lý lo sợ để đe dọa, yêu cầu nạn nhân cung cấp thông tin cá nhân hoặc chuyển tiền.\n\nỞ tình huống “Cảnh giác thủ đoạn giả danh Công an gọi điện yêu cầu chuyển tiền”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Không làm việc qua điện thoại theo yêu cầu chuyển tiền, không cung cấp mã otp và chủ động cúp máy để xác minh lại. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5935792/pexels-photo-5935792.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"kinh-te-toan-cau-tiep-tuc-dieu-chinh-truoc-ap-luc-lam-phat-va-lai-suat","title":"Kinh tế toàn cầu tiếp tục điều chỉnh trước áp lực lạm phát và lãi suất","category":"Tin thế giới","date":"2026-10-24","author":"Gia Lai Số News","excerpt":"Nhiều nền kinh tế đang tìm cách cân bằng giữa mục tiêu kiểm soát lạm phát và thúc đẩy tăng trưởng.","content":"Thế giới đang thay đổi theo nhiều hướng cùng lúc, từ kinh tế, công nghệ tới an ninh và ngoại giao. Nhiều nền kinh tế đang tìm cách cân bằng giữa mục tiêu kiểm soát lạm phát và thúc đẩy tăng trưởng.\n\nTừ chủ đề “Kinh tế toàn cầu tiếp tục điều chỉnh trước áp lực lạm phát và lãi suất” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Sự dịch chuyển của dòng vốn, xu hướng lãi suất và ảnh hưởng của giá hàng hóa cơ bản. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/36652833/pexels-photo-36652833.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"khi-nao-hanh-vi-dua-tin-sai-su-that-tren-mang-bi-xu-phat","title":"Khi nào hành vi đưa tin sai sự thật trên mạng bị xử phạt?","category":"Pháp luật","date":"2026-10-23","author":"Gia Lai Số News","excerpt":"Không ít người chia sẻ thông tin chưa kiểm chứng mà không lường hết hậu quả pháp lý có thể phát sinh.","content":"Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Không ít người chia sẻ thông tin chưa kiểm chứng mà không lường hết hậu quả pháp lý có thể phát sinh.\n\nVới câu chuyện “Khi nào hành vi đưa tin sai sự thật trên mạng bị xử phạt?”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Kiểm chứng nguồn tin trước khi đăng tải, không cắt ghép sai bản chất sự việc và ý thức về trách nhiệm khi bình luận, chia sẻ nội dung công khai. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":true,"image":"https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"su-dung-vneid-dung-cach-de-thuan-tien-khi-giao-dich-va-lam-thu-tuc","title":"Sử dụng VNeID đúng cách để thuận tiện khi giao dịch và làm thủ tục","category":"Chuyển đổi số","date":"2026-10-22","author":"Gia Lai Số News","excerpt":"VNeID đang trở thành công cụ quen thuộc trong nhiều hoạt động của người dân, từ xác thực thông tin đến tiếp cận dịch vụ số.","content":"Công nghệ chỉ thực sự tiện khi người dùng hiểu cách dùng và biết tự bảo vệ mình. VNeID đang trở thành công cụ quen thuộc trong nhiều hoạt động của người dân, từ xác thực thông tin đến tiếp cận dịch vụ số.\n\nVới nội dung “Sử dụng VNeID đúng cách để thuận tiện khi giao dịch và làm thủ tục”, người dùng không cần học quá nhiều thao tác cùng lúc. Cập nhật thông tin chính xác, bảo vệ tài khoản và chỉ đăng nhập trên thiết bị tin cậy. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/12935064/pexels-photo-12935064.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"xu-huong-bao-ho-cong-nghe-khien-chuoi-cung-ung-the-gioi-them-phan-manh","title":"Xu hướng bảo hộ công nghệ khiến chuỗi cung ứng thế giới thêm phân mảnh","category":"Tin thế giới","date":"2026-10-21","author":"Gia Lai Số News","excerpt":"Những chính sách hỗ trợ sản xuất trong nước và kiểm soát công nghệ nhạy cảm đang định hình lại chuỗi cung ứng toàn cầu.","content":"Thế giới đang thay đổi theo nhiều hướng cùng lúc, từ kinh tế, công nghệ tới an ninh và ngoại giao. Những chính sách hỗ trợ sản xuất trong nước và kiểm soát công nghệ nhạy cảm đang định hình lại chuỗi cung ứng toàn cầu.\n\nTừ chủ đề “Xu hướng bảo hộ công nghệ khiến chuỗi cung ứng thế giới thêm phân mảnh” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Việc dịch chuyển đầu tư, tự chủ công nghệ và tác động với thương mại quốc tế. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/36652829/pexels-photo-36652829.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"mao-danh-shipper-bao-don-hang-loi-de-chiem-doat-tai-san","title":"Mạo danh shipper báo đơn hàng lỗi để chiếm đoạt tài sản","category":"Cảnh báo ANTT","date":"2026-10-20","author":"Gia Lai Số News","excerpt":"Chiêu trò nhắm vào người thường xuyên mua sắm online, lợi dụng sự vội vàng khi nhận hàng.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Chiêu trò nhắm vào người thường xuyên mua sắm online, lợi dụng sự vội vàng khi nhận hàng.\n\nỞ tình huống “Mạo danh shipper báo đơn hàng lỗi để chiếm đoạt tài sản”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Kiểm tra ứng dụng chính thức, gọi lại tổng đài hoặc người bán và tuyệt đối không bấm vào đường link lạ. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5926392/pexels-photo-5926392.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"luat-can-cuoc-va-nhung-tien-ich-nguoi-dan-nen-biet","title":"Luật Căn cước và những tiện ích người dân nên biết","category":"Pháp luật","date":"2026-10-18","author":"Gia Lai Số News","excerpt":"Những thay đổi trong quản lý căn cước hướng tới thuận tiện hơn cho người dân khi thực hiện thủ tục hành chính.","content":"Một chút hiểu biết đúng lúc có thể giúp tránh được cả vi phạm lẫn tranh chấp không đáng có. Những thay đổi trong quản lý căn cước hướng tới thuận tiện hơn cho người dân khi thực hiện thủ tục hành chính.\n\nVới câu chuyện “Luật Căn cước và những tiện ích người dân nên biết”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Cập nhật thông tin chính xác, theo dõi hướng dẫn chính thống và khai thác các tiện ích điện tử theo đúng quy định. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"ngoai-giao-con-thoi-duoc-ky-vong-ha-nhiet-nhieu-diem-nong-khu-vuc","title":"Ngoại giao con thoi được kỳ vọng hạ nhiệt nhiều điểm nóng khu vực","category":"Tin thế giới","date":"2026-10-17","author":"Gia Lai Số News","excerpt":"Trong bối cảnh căng thẳng tại nhiều khu vực, ngoại giao vẫn được xem là kênh quan trọng để ngăn xung đột leo thang.","content":"Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Trong bối cảnh căng thẳng tại nhiều khu vực, ngoại giao vẫn được xem là kênh quan trọng để ngăn xung đột leo thang.\n\nTừ chủ đề “Ngoại giao con thoi được kỳ vọng hạ nhiệt nhiều điểm nóng khu vực” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Những tín hiệu đối thoại, vai trò trung gian và lợi ích đan xen giữa các bên liên quan. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/30685850/pexels-photo-30685850.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"nhat-duoc-tien-chu-dong-giao-cong-an-tim-nguoi-danh-roi-mot-viec-nho-lan-toa-su-tu-te","title":"Nhặt được tiền, chủ động giao Công an tìm người đánh rơi: một việc nhỏ lan tỏa sự tử tế","category":"Gương sáng","date":"2026-10-17","author":"Gia Lai Số News","excerpt":"Những hành động trung thực trong đời sống thường ngày luôn có sức lan tỏa lớn hơn giá trị vật chất của tài sản được trao trả.","content":"Từ những câu chuyện người dân nhặt được tiền, ví hoặc tài sản rồi chủ động tìm cách trả lại người mất, điều đáng quý nhất là sự lựa chọn rất tự nhiên: không giữ của rơi làm của riêng.\n\nỞ nhiều địa phương của Gia Lai, người dân sau khi nhặt được tài sản đã mang đến cơ quan Công an nhờ xác minh chủ sở hữu. Quy trình tưởng đơn giản nhưng lại cho thấy tinh thần trách nhiệm với cộng đồng và sự tin tưởng vào lực lượng cơ sở.\n\nNhững việc làm như vậy không cần lời lẽ lớn lao. Khi được chia sẻ đúng mực, chúng trở thành những câu chuyện đẹp, giúp trẻ em và người trẻ hiểu rằng lòng trung thực bắt đầu từ cách ứng xử trong những tình huống rất đời thường.","featured":false,"image":"https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Công an tỉnh Gia Lai - Người tốt việc tốt","url":"https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/"}],"status":"published"},{"id":"5-thoi-quen-giup-tai-khoan-so-an-toan-hon-moi-ngay","title":"5 thói quen giúp tài khoản số an toàn hơn mỗi ngày","category":"Chuyển đổi số","date":"2026-10-16","author":"Gia Lai Số News","excerpt":"An toàn số không chỉ là câu chuyện của chuyên gia mà bắt đầu từ những thói quen rất cơ bản của người dùng.","content":"Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. An toàn số không chỉ là câu chuyện của chuyên gia mà bắt đầu từ những thói quen rất cơ bản của người dùng.\n\nVới nội dung “5 thói quen giúp tài khoản số an toàn hơn mỗi ngày”, người dùng không cần học quá nhiều thao tác cùng lúc. Đặt mật khẩu mạnh, xác thực 2 lớp, kiểm tra đăng nhập và sao lưu dữ liệu định kỳ. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/6969933/pexels-photo-6969933.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"cong-an-xa-ia-ko-khuyen-cao-bao-dam-an-toan-pccc-trong-nhung-ngay-giap-tet","title":"Công an xã Ia Ko khuyến cáo bảo đảm an toàn PCCC trong những ngày giáp Tết","category":"PCCC","date":"2026-02-05","author":"Công an xã Ia Ko","excerpt":"Những ngày giáp Tết, nhu cầu sử dụng điện, đun nấu, thắp hương và tích trữ hàng hóa tăng cao. Công an xã Ia Ko khuyến cáo người dân chủ động loại trừ nguy cơ cháy ngay từ trong mỗi gia đình.","content":"Những ngày giáp Tết, tại các hộ gia đình và cơ sở kinh doanh trên địa bàn xã Ia Ko, nhu cầu sử dụng điện, đun nấu, thắp hương, trang trí và dự trữ hàng hóa thường tăng hơn ngày thường. Đây cũng là thời điểm nguy cơ xảy ra cháy, nổ có thể gia tăng nếu người dân chủ quan hoặc sử dụng thiết bị điện, nguồn lửa, nguồn nhiệt không đúng cách. Công an xã Ia Ko đề nghị mỗi gia đình chủ động kiểm tra điều kiện an toàn PCCC trước khi bước vào kỳ nghỉ Tết.\n\nĐối với hệ thống điện, cần kiểm tra dây dẫn, ổ cắm, aptomat; không cắm nhiều thiết bị công suất lớn vào cùng một ổ điện; tắt thiết bị khi không sử dụng và không để dây điện tiếp xúc với vật dễ cháy. Khu vực thắp hương, đốt vàng mã phải có người trông coi, đặt xa rèm cửa, giấy, vải, hàng hóa và các vật liệu dễ bắt lửa. Khi đun nấu, không rời khỏi bếp trong thời gian dài và cần khóa van bình gas sau khi sử dụng.\n\nCông an xã Ia Ko cũng khuyến cáo các hộ gia đình, hộ kinh doanh duy trì lối đi, cửa ra vào và lối thoát nạn luôn thông thoáng; không khóa, chèn hoặc chất hàng hóa chắn đường thoát. Bình chữa cháy xách tay cần đặt ở vị trí dễ thấy, dễ lấy, đồng thời các thành viên trong gia đình nên biết cách sử dụng và biết vị trí cầu dao điện để xử lý khi có sự cố.\n\nKhi phát hiện cháy, cần nhanh chóng hô hoán, báo động cho mọi người, ngắt nguồn điện nếu bảo đảm an toàn, gọi số 114 và ưu tiên đưa người ra khỏi khu vực nguy hiểm. Chủ động phòng cháy từ những việc nhỏ là cách thiết thực nhất để mỗi gia đình trên địa bàn xã Ia Ko đón Tết an toàn, bình yên.","featured":false,"image":"images/covers/pccc-family.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"tuyen-cong-tac-vien-chot-don-online-bay-lua-dao-van-tai-dien","title":"Tuyển cộng tác viên chốt đơn online: bẫy lừa đảo vẫn tái diễn","category":"Cảnh báo ANTT","date":"2026-10-14","author":"Gia Lai Số News","excerpt":"Hứa hẹn thu nhập nhanh, việc nhẹ là cách nhiều đối tượng dẫn dụ người dùng tham gia chuyển tiền từng bước.","content":"Kẻ gian thường không cần thủ đoạn quá phức tạp nếu đánh trúng tâm lý chủ quan hoặc lo sợ. Hứa hẹn thu nhập nhanh, việc nhẹ là cách nhiều đối tượng dẫn dụ người dùng tham gia chuyển tiền từng bước.\n\nỞ tình huống “Tuyển cộng tác viên chốt đơn online: bẫy lừa đảo vẫn tái diễn”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Cảnh giác với yêu cầu chuyển tiền trước, kiểm tra pháp lý đơn vị tuyển dụng và tham khảo người có kinh nghiệm. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5935791/pexels-photo-5935791.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"gia-lai-tang-cuong-hiep-dong-cong-an-quan-su-trong-bao-dam-an-ninh-quoc-phong","title":"Gia Lai tăng cường hiệp đồng Công an - Quân sự trong bảo đảm an ninh, quốc phòng","category":"An ninh - Quốc phòng","date":"2026-10-13","author":"Gia Lai Số News","excerpt":"Sự phối hợp giữa các lực lượng giúp nắm tình hình sớm, xử lý vụ việc từ cơ sở và củng cố thế trận an ninh - quốc phòng.","content":"Trong bảo đảm an ninh, quốc phòng ở địa phương, hiệu quả không chỉ đến từ từng lực lượng riêng lẻ mà phụ thuộc nhiều vào cơ chế phối hợp và chia sẻ thông tin.\n\nTại Gia Lai, các hoạt động giao ban, hiệp đồng giữa Công an và Quân sự được duy trì để cùng đánh giá tình hình, chuẩn bị phương án và xử lý các vấn đề phát sinh.\n\nĐiểm đáng chú ý là cách tiếp cận từ sớm, từ cơ sở: nắm địa bàn, phối hợp tuyên truyền và hạn chế để những vấn đề nhỏ phát triển thành tình huống phức tạp.","featured":false,"image":"https://images.pexels.com/photos/37360199/pexels-photo-37360199.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/vi/news/hoat-dong-ca-cac-don-vi-dia-phuong/tang-cuong-hiep-dong-cong-an-quan-su-giu-vung-an-ninh-quoc-phong-tren-dia-ban-tinh-gia-lai-quy-i-202-10418.html"}],"status":"published"},{"id":"trach-nhiem-cua-gia-dinh-trong-phong-chong-bao-luc-hoc-duong","title":"Trách nhiệm của gia đình trong phòng, chống bạo lực học đường","category":"Pháp luật","date":"2026-10-12","author":"Gia Lai Số News","excerpt":"Nhà trường, gia đình và xã hội đều có vai trò quan trọng trong việc ngăn ngừa hành vi bạo lực trong lứa tuổi học sinh.","content":"Pháp luật gần với đời sống hơn nhiều so với cảm giác “chỉ có trong văn bản”. Nhà trường, gia đình và xã hội đều có vai trò quan trọng trong việc ngăn ngừa hành vi bạo lực trong lứa tuổi học sinh.\n\nVới câu chuyện “Trách nhiệm của gia đình trong phòng, chống bạo lực học đường”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Quan tâm tâm lý của con em, phối hợp với giáo viên, hướng dẫn kỹ năng giải quyết mâu thuẫn và không cổ vũ hành vi bạo lực. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"thi-truong-nang-luong-bien-dong-khi-nhieu-nuoc-tang-du-tru-chien-luoc","title":"Thị trường năng lượng biến động khi nhiều nước tăng dự trữ chiến lược","category":"Tin thế giới","date":"2026-10-10","author":"Gia Lai Số News","excerpt":"Giá năng lượng thế giới chịu tác động đồng thời từ địa chính trị, thời tiết cực đoan và chiến lược cung ứng của các nhà sản xuất lớn.","content":"Một diễn biến ở bên ngoài khu vực đôi khi vẫn tác động nhanh tới giá cả, chuỗi cung ứng và tâm lý thị trường. Giá năng lượng thế giới chịu tác động đồng thời từ địa chính trị, thời tiết cực đoan và chiến lược cung ứng của các nhà sản xuất lớn.\n\nTừ chủ đề “Thị trường năng lượng biến động khi nhiều nước tăng dự trữ chiến lược” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Vai trò của dự trữ chiến lược, chi phí vận chuyển và tâm lý thị trường. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/13433785/pexels-photo-13433785.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"ia-ko-chu-dong-phong-ngua-chay-do-thap-huong-dun-nau-va-su-dung-dien-dip-tet","title":"Ia Ko: Chủ động phòng ngừa cháy do thắp hương, đun nấu và sử dụng điện dịp Tết","category":"PCCC","date":"2026-02-12","author":"Công an xã Ia Ko","excerpt":"Công an xã Ia Ko lưu ý người dân quản lý chặt nguồn lửa, nguồn nhiệt, thiết bị điện và khu vực thờ cúng để hạn chế nguy cơ cháy trong dịp Tết.","content":"Dịp Tết là thời điểm các gia đình sử dụng bếp, thiết bị điện, đèn trang trí và khu vực thờ cúng với tần suất cao. Chỉ một sơ suất nhỏ như quên tắt bếp, để vật dễ cháy gần nơi thắp hương hoặc sử dụng ổ cắm quá tải cũng có thể dẫn đến sự cố. Vì vậy, Công an xã Ia Ko đề nghị người dân nâng cao ý thức tự phòng ngừa, không để nguy cơ cháy tồn tại ngay trong nhà.\n\nTại khu vực thờ cúng, bát hương và đèn thờ cần đặt chắc chắn, cách xa trần, vách, rèm hoặc vật liệu dễ cháy; không đốt vàng mã trong nhà hoặc nơi có nhiều hàng hóa. Khi rời khỏi nhà, người dân cần kiểm tra lại bếp, khóa van gas, tắt các thiết bị điện không cần thiết. Đối với dây điện cũ, ổ cắm lỏng, thiết bị có dấu hiệu nóng bất thường, cần ngừng sử dụng và sửa chữa kịp thời.\n\nCông an xã Ia Ko đặc biệt lưu ý các hộ vừa ở vừa kinh doanh không bố trí hàng hóa bịt kín cửa ra vào, cầu thang hoặc lối thoát. Hàng hóa dễ cháy cần sắp xếp gọn, cách xa nguồn nhiệt và thiết bị điện; bình chữa cháy phải còn sử dụng được và đặt ở vị trí thuận lợi để xử lý ngay khi đám cháy mới phát sinh.\n\nMỗi gia đình nên thống nhất trước cách thoát nạn, vị trí tập kết an toàn và người hỗ trợ trẻ nhỏ, người cao tuổi nếu xảy ra sự cố. Khi cháy vượt quá khả năng xử lý ban đầu, phải nhanh chóng rời khỏi khu vực nguy hiểm, gọi 114 và cung cấp địa chỉ, đặc điểm đám cháy rõ ràng để lực lượng chức năng tiếp cận nhanh nhất.","featured":false,"image":"images/covers/pccc-gas.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"dich-vu-cong-truc-tuyen-lam-sao-de-nguoi-dan-thay-de-dung-hon","title":"Dịch vụ công trực tuyến: làm sao để người dân thấy dễ dùng hơn?","category":"Chuyển đổi số","date":"2026-10-05","author":"Gia Lai Số News","excerpt":"Nhiều người quan tâm đến dịch vụ công trực tuyến nhưng vẫn ngại thao tác vì sợ rườm rà hoặc sai sót.","content":"Công nghệ chỉ thực sự tiện khi người dùng hiểu cách dùng và biết tự bảo vệ mình. Nhiều người quan tâm đến dịch vụ công trực tuyến nhưng vẫn ngại thao tác vì sợ rườm rà hoặc sai sót.\n\nVới nội dung “Dịch vụ công trực tuyến: làm sao để người dân thấy dễ dùng hơn?”, người dùng không cần học quá nhiều thao tác cùng lúc. Chuẩn bị giấy tờ điện tử rõ ràng, đọc kỹ hướng dẫn và lưu mã hồ sơ để theo dõi kết quả. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"nhan-dien-chieu-tro-lam-gia-man-hinh-chuyen-khoan-de-lua-mua-hang","title":"Nhận diện chiêu trò làm giả màn hình chuyển khoản để lừa mua hàng","category":"Cảnh báo ANTT","date":"2026-10-03","author":"Gia Lai Số News","excerpt":"Thủ đoạn làm giả biên lai hoặc ảnh chụp giao dịch ngân hàng gây thiệt hại cho nhiều chủ cửa hàng và người bán online.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Thủ đoạn làm giả biên lai hoặc ảnh chụp giao dịch ngân hàng gây thiệt hại cho nhiều chủ cửa hàng và người bán online.\n\nỞ tình huống “Nhận diện chiêu trò làm giả màn hình chuyển khoản để lừa mua hàng”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Chỉ giao hàng sau khi tiền thực sự vào tài khoản và ưu tiên dùng phương thức thanh toán có xác nhận rõ ràng. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5926384/pexels-photo-5926384.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"ai-tao-sinh-buoc-vao-giai-doan-canh-tranh-ve-ung-dung-thuc-te","title":"AI tạo sinh bước vào giai đoạn cạnh tranh về ứng dụng thực tế","category":"Tin thế giới","date":"2026-09-29","author":"Gia Lai Số News","excerpt":"Không chỉ chạy đua mô hình lớn, các doanh nghiệp công nghệ đang tập trung hơn vào hiệu quả ứng dụng AI trong sản xuất và dịch vụ.","content":"Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Không chỉ chạy đua mô hình lớn, các doanh nghiệp công nghệ đang tập trung hơn vào hiệu quả ứng dụng AI trong sản xuất và dịch vụ.\n\nTừ chủ đề “AI tạo sinh bước vào giai đoạn cạnh tranh về ứng dụng thực tế” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Bài toán tiết kiệm chi phí, nâng năng suất và quản trị rủi ro đạo đức, dữ liệu. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/31859523/pexels-photo-31859523.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"hoc-sinh-nhat-duoc-cua-roi-tim-cach-tra-lai-nguoi-mat","title":"Học sinh nhặt được của rơi, tìm cách trả lại người mất","category":"Gương sáng","date":"2026-09-28","author":"Gia Lai Số News","excerpt":"Một hành động đẹp của học sinh có thể trở thành bài học sống động về lòng trung thực và trách nhiệm.","content":"Ở lứa tuổi học sinh, những câu chuyện nhặt được tài sản rồi chủ động báo người lớn hoặc cơ quan chức năng có ý nghĩa giáo dục rất rõ ràng.\n\nThay vì xem đây là việc hiếm gặp, điều quan trọng là tạo môi trường để các em biết mình nên làm gì khi gặp tình huống tương tự: giữ nguyên tài sản, tìm người có trách nhiệm hỗ trợ và tuyệt đối không tự ý sử dụng.\n\nKhi một việc tốt được ghi nhận, cách tuyên truyền phù hợp là nêu bật hành động, không tô vẽ quá mức. Chính sự giản dị ấy làm cho câu chuyện dễ được tin và dễ lan tỏa.","featured":false,"image":"https://images.pexels.com/photos/6647178/pexels-photo-6647178.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/guong-nguoi-tot-viec-tot-nhat-duoc-tai-san-tra-lai-cho-nguoi-danh-roi-10825.html"}],"status":"published"},{"id":"canh-bao-thu-doan-gia-mao-ngan-hang-de-nghi-cap-nhat-sinh-trac-hoc","title":"Cảnh báo thủ đoạn giả mạo ngân hàng đề nghị cập nhật sinh trắc học","category":"Cảnh báo ANTT","date":"2026-09-27","author":"Gia Lai Số News","excerpt":"Tin nhắn, cuộc gọi và website giả mạo ngân hàng đang được dùng để chiếm đoạt tài khoản của khách hàng.","content":"Kẻ gian thường không cần thủ đoạn quá phức tạp nếu đánh trúng tâm lý chủ quan hoặc lo sợ. Tin nhắn, cuộc gọi và website giả mạo ngân hàng đang được dùng để chiếm đoạt tài khoản của khách hàng.\n\nỞ tình huống “Cảnh báo thủ đoạn giả mạo ngân hàng đề nghị cập nhật sinh trắc học”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Không đăng nhập theo link lạ, gọi tổng đài chính thức khi có nghi ngờ và kích hoạt bảo mật cho tài khoản. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5483240/pexels-photo-5483240.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"sau-tet-cong-an-xa-ia-ko-nhac-nguoi-dan-kiem-tra-lai-he-thong-dien-va-bep-gas","title":"Sau Tết, Công an xã Ia Ko nhắc người dân kiểm tra lại hệ thống điện và bếp gas","category":"PCCC","date":"2026-02-26","author":"Công an xã Ia Ko","excerpt":"Sau thời gian nghỉ Tết, việc kiểm tra lại dây dẫn điện, thiết bị sinh nhiệt, bếp gas và khu vực đun nấu giúp phát hiện sớm nguy cơ mất an toàn PCCC.","content":"Sau kỳ nghỉ Tết, nhiều gia đình và cơ sở kinh doanh trên địa bàn xã Ia Ko trở lại sinh hoạt, sản xuất với tần suất sử dụng điện và thiết bị đun nấu cao. Công an xã Ia Ko khuyến cáo người dân dành thời gian kiểm tra lại hệ thống điện, bếp gas và các thiết bị sinh nhiệt trước khi sử dụng thường xuyên, nhất là những thiết bị đã cũ hoặc hoạt động liên tục trong dịp Tết.\n\nNgười dân cần quan sát các dấu hiệu như ổ cắm cháy sém, dây điện nứt vỏ, phích cắm lỏng, aptomat thường xuyên nhảy hoặc thiết bị phát nhiệt bất thường. Không tự nối dây điện tùy tiện, không kéo dây qua khu vực ẩm ướt và không sử dụng một ổ cắm cho quá nhiều thiết bị công suất lớn. Với bếp gas, cần kiểm tra van, dây dẫn, khớp nối và khóa van bình sau khi nấu.\n\nĐối với hộ kinh doanh, Công an xã Ia Ko đề nghị kết hợp việc kiểm tra điện với sắp xếp lại hàng hóa, bảo đảm khoảng cách an toàn với nguồn lửa, nguồn nhiệt; giữ cửa ra vào và lối thoát nạn không bị che chắn. Bình chữa cháy cần được kiểm tra tình trạng niêm phong, đồng hồ áp suất hoặc khối lượng theo loại bình để bảo đảm có thể sử dụng khi cần.\n\nViệc tự kiểm tra định kỳ không mất nhiều thời gian nhưng có ý nghĩa quan trọng trong phòng ngừa sự cố. Phát hiện sớm một ổ cắm hư hỏng, một đoạn dây điện quá tải hoặc một khớp nối gas không bảo đảm có thể giúp ngăn chặn nguy cơ cháy, nổ ngay từ đầu.","featured":false,"image":"images/covers/pccc-electric.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"cong-an-xa-ia-ko-huong-dan-kiem-tra-su-dung-binh-chua-chay-xach-tay","title":"Công an xã Ia Ko hướng dẫn kiểm tra, sử dụng bình chữa cháy xách tay","category":"PCCC","date":"2026-03-05","author":"Công an xã Ia Ko","excerpt":"Bình chữa cháy chỉ phát huy tác dụng khi còn sử dụng tốt, được đặt đúng chỗ và người dân biết thao tác. Công an xã Ia Ko hướng dẫn một số nội dung cơ bản để sử dụng hiệu quả phương tiện này.","content":"Bình chữa cháy xách tay là phương tiện chữa cháy ban đầu phổ biến tại hộ gia đình và cơ sở kinh doanh. Tuy nhiên, thực tế cho thấy có trường hợp đã trang bị bình nhưng để khuất, khó lấy, lâu ngày không kiểm tra hoặc người sử dụng chưa nắm được thao tác. Qua công tác tuyên truyền PCCC tại địa bàn, Công an xã Ia Ko thường xuyên hướng dẫn người dân kiểm tra và sử dụng phương tiện này đúng cách.\n\nBình chữa cháy cần đặt tại vị trí dễ thấy, dễ lấy, gần lối ra nhưng không để sát nguồn nhiệt, nơi ẩm ướt hoặc bị hàng hóa che khuất. Người dân cần quan sát tình trạng vỏ bình, chốt kẹp, vòi phun và tem nhãn; đối với bình có đồng hồ áp suất, kim chỉ phải nằm trong vùng cho phép. Khi phát hiện bình bị rò rỉ, han gỉ, mất chốt hoặc quá thời hạn kiểm tra thì cần liên hệ đơn vị có chức năng để kiểm tra, nạp sạc hoặc thay thế.\n\nKhi sử dụng, cần nhanh chóng mang bình đến vị trí an toàn, giữ khoảng cách phù hợp, rút chốt an toàn, hướng vòi phun vào gốc lửa rồi bóp van và quét đều. Người chữa cháy phải đứng ở vị trí có đường rút lui, tránh để khói, nhiệt bao vây và không mạo hiểm nếu đám cháy đã phát triển lớn.\n\nCông an xã Ia Ko khuyến cáo mỗi gia đình, hộ kinh doanh không chỉ trang bị bình chữa cháy để đáp ứng yêu cầu mà cần bảo đảm phương tiện thật sự sử dụng được. Việc các thành viên trong nhà đều biết vị trí đặt bình và thao tác cơ bản sẽ giúp xử lý hiệu quả hơn trong những phút đầu khi xảy ra cháy.","featured":false,"image":"images/pccc/img01.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"thanh-toan-khong-tien-mat-o-nong-thon-tien-nhung-phai-an-toan","title":"Thanh toán không tiền mặt ở nông thôn: tiện nhưng phải an toàn","category":"Chuyển đổi số","date":"2026-09-24","author":"Gia Lai Số News","excerpt":"Từ cửa hàng nhỏ đến chợ dân sinh, thanh toán số đang dần phổ biến nhưng người dùng vẫn cần đề cao cảnh giác.","content":"Công nghệ chỉ thực sự tiện khi người dùng hiểu cách dùng và biết tự bảo vệ mình. Từ cửa hàng nhỏ đến chợ dân sinh, thanh toán số đang dần phổ biến nhưng người dùng vẫn cần đề cao cảnh giác.\n\nVới nội dung “Thanh toán không tiền mặt ở nông thôn: tiện nhưng phải an toàn”, người dùng không cần học quá nhiều thao tác cùng lúc. Kiểm tra tên người nhận, nội dung giao dịch và không quét mã qr không rõ nguồn gốc. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/7621140/pexels-photo-7621140.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"khong-de-hang-hoa-che-chan-loi-thoat-nan-tai-cua-hang-ho-kinh-doanh","title":"Không để hàng hóa che chắn lối thoát nạn tại cửa hàng, hộ kinh doanh","category":"PCCC","date":"2026-03-16","author":"Công an xã Ia Ko","excerpt":"Qua tuyên truyền, hướng dẫn tại địa bàn, Công an xã Ia Ko nhắc các hộ kinh doanh sắp xếp hàng hóa gọn gàng, không bịt kín cửa ra vào và lối thoát nạn.","content":"Tại các cửa hàng, tiệm tạp hóa và hộ gia đình kết hợp kinh doanh, hàng hóa thường được tận dụng sắp xếp ở nhiều vị trí để tiết kiệm diện tích. Nếu bố trí không hợp lý, hàng hóa có thể che khuất thiết bị điện, phương tiện chữa cháy hoặc làm thu hẹp lối thoát. Công an xã Ia Ko khuyến cáo các hộ kinh doanh trên địa bàn thường xuyên rà soát, sắp xếp lại không gian để bảo đảm an toàn PCCC.\n\nCửa ra vào, hành lang, cầu thang và các lối có thể sử dụng để thoát nạn phải được giữ thông thoáng. Không xếp hàng hóa sát nguồn điện, thiết bị sinh nhiệt hoặc khu vực thờ cúng; không dùng dây điện tạm bợ luồn qua đống hàng. Những mặt hàng dễ cháy cần được bố trí riêng, có khoảng cách an toàn và hạn chế tích trữ vượt quá nhu cầu thực tế.\n\nCông an xã Ia Ko cũng đề nghị các hộ kinh doanh đặt bình chữa cháy ở vị trí dễ tiếp cận, không để phía sau quầy, trong kho kín hoặc bị vật dụng che chắn. Người trực tiếp bán hàng và các thành viên trong gia đình cần biết vị trí ngắt điện, cách báo động, cách gọi 114 và đường thoát ra ngoài khi có sự cố.\n\nMột cửa hàng gọn gàng không chỉ thuận tiện cho kinh doanh mà còn giảm nguy cơ cháy lan và tạo điều kiện thoát nạn nhanh hơn. Việc dành vài phút cuối ngày để kiểm tra nguồn điện, bếp, khu vực chứa hàng và lối thoát là thói quen thiết thực mà Công an xã Ia Ko khuyến khích các hộ duy trì thường xuyên.","featured":false,"image":"images/pccc/img02.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"giu-vung-an-ninh-hang-khong-bao-dam-an-toan-cho-hanh-khach","title":"Giữ vững an ninh hàng không, bảo đảm an toàn cho hành khách","category":"An ninh - Quốc phòng","date":"2026-09-20","author":"Gia Lai Số News","excerpt":"An ninh hàng không là một mắt xích quan trọng để hoạt động đi lại tại sân bay được duy trì an toàn, thông suốt.","content":"Bảo đảm an ninh hàng không là công việc ít khi được hành khách chú ý đầy đủ bởi phần lớn nhiệm vụ diễn ra phía sau quy trình kiểm soát thông thường.\n\nTại Cảng hàng không Pleiku, lực lượng chức năng phải kết hợp kiểm soát con người, hành lý, khu vực hạn chế và xử lý tình huống để vừa bảo đảm an toàn vừa tránh gây cản trở không cần thiết cho hành khách.\n\nMột hệ thống an ninh hiệu quả thường là hệ thống mà người dân cảm thấy thủ tục rõ ràng, trật tự và ít phát sinh bất tiện.","featured":false,"image":"https://images.pexels.com/photos/37360195/pexels-photo-37360195.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/vi/news/hoat-dong-ca-cac-don-vi-dia-phuong/gia-lai-giu-vung-an-ninh-hang-khong-bao-dam-an-toan-cho-nguoi-dan-14723.html"}],"status":"published"},{"id":"mua-hang-online-gia-re-bat-thuong-rui-ro-mat-tien-va-lo-du-lieu","title":"Mua hàng online giá rẻ bất thường: rủi ro mất tiền và lộ dữ liệu","category":"Cảnh báo ANTT","date":"2026-09-19","author":"Gia Lai Số News","excerpt":"Tâm lý ham rẻ và sợ bỏ lỡ cơ hội khiến nhiều người dễ sa vào các trang bán hàng không rõ nguồn gốc.","content":"Kẻ gian thường không cần thủ đoạn quá phức tạp nếu đánh trúng tâm lý chủ quan hoặc lo sợ. Tâm lý ham rẻ và sợ bỏ lỡ cơ hội khiến nhiều người dễ sa vào các trang bán hàng không rõ nguồn gốc.\n\nỞ tình huống “Mua hàng online giá rẻ bất thường: rủi ro mất tiền và lộ dữ liệu”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Ưu tiên sàn thương mại điện tử uy tín, kiểm tra đánh giá thật và không thanh toán toàn bộ cho người bán không rõ danh tính. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5483248/pexels-photo-5483248.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"phoi-hop-tuyen-truyen-phap-luat-phong-chong-bao-luc-hoc-duong-va-ky-nang-pccc-cho-hoc-sinh","title":"Phối hợp tuyên truyền pháp luật, phòng chống bạo lực học đường và kỹ năng PCCC cho học sinh THPT","category":"Pháp luật","date":"2026-09-18","author":"Gia Lai Số News","excerpt":"Bài viết phối hợp tuyên truyền hướng tới việc trang bị kiến thức pháp luật, kỹ năng ứng xử lành mạnh và an toàn PCCC cho học sinh.","content":"Một chút hiểu biết đúng lúc có thể giúp tránh được cả vi phạm lẫn tranh chấp không đáng có. Bài viết phối hợp tuyên truyền hướng tới việc trang bị kiến thức pháp luật, kỹ năng ứng xử lành mạnh và an toàn PCCC cho học sinh.\n\nVới câu chuyện “Phối hợp tuyên truyền pháp luật, phòng chống bạo lực học đường và kỹ năng PCCC cho học sinh THPT”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Cách ứng xử khi mâu thuẫn, trách nhiệm khi đăng tải thông tin trên mạng và kỹ năng cơ bản để bảo vệ bản thân khi xảy ra cháy. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"images/pccc/img05.jpg","gallery":[],"partner":"Công an xã Ia Ko","sources":[{"name":"Bài tham khảo từ Cổng thông tin Sở GD&ĐT Gia Lai","url":"https://sgddt.gialai.gov.vn/tin-tuc-su-kien/cong-an-xa-ia-ko-tuyen-truyen-phap-luat-phong-chong-bao-luc-hoc-duong-va-ky-nang-phong-chay-chua-chay-tai-truong-thpt-so.html"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"thuong-mai-dien-tu-xuyen-bien-gioi-tiep-tuc-mo-rong-o-chau-a","title":"Thương mại điện tử xuyên biên giới tiếp tục mở rộng ở châu Á","category":"Tin thế giới","date":"2026-09-18","author":"Gia Lai Số News","excerpt":"Khu vực châu Á vẫn là thị trường sôi động của thương mại điện tử nhờ dân số trẻ và tốc độ số hóa cao.","content":"Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Khu vực châu Á vẫn là thị trường sôi động của thương mại điện tử nhờ dân số trẻ và tốc độ số hóa cao.\n\nTừ chủ đề “Thương mại điện tử xuyên biên giới tiếp tục mở rộng ở châu Á” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Sự phát triển của hạ tầng số, thanh toán xuyên biên giới và tiêu chuẩn giao hàng. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/27390611/pexels-photo-27390611.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"nha-o-ket-hop-kinh-doanh-can-bo-tri-loi-thoat-nan-an-toan","title":"Nhà ở kết hợp kinh doanh: cần bố trí lối thoát nạn an toàn","category":"PCCC","date":"2026-03-27","author":"Công an xã Ia Ko","excerpt":"Công an xã Ia Ko khuyến cáo các hộ vừa ở vừa kinh doanh phải đặc biệt quan tâm lối thoát nạn, không để hàng hóa và vật dụng biến khu vực sinh hoạt thành không gian kín nguy hiểm khi có cháy.","content":"Nhà ở kết hợp sản xuất, kinh doanh có đặc điểm vừa là nơi sinh hoạt của gia đình vừa chứa hàng hóa, thiết bị và nguồn điện phục vụ kinh doanh. Khi xảy ra cháy vào ban đêm hoặc lúc cửa chính bị lửa, khói bao phủ, nguy cơ mắc kẹt có thể rất lớn. Vì vậy, Công an xã Ia Ko khuyến cáo các hộ thuộc loại hình này phải chủ động tính toán lối thoát nạn ngay từ khi sắp xếp mặt bằng.\n\nCửa chính, cầu thang, ban công hoặc lối thoát phụ cần được duy trì thông thoáng, dễ mở từ bên trong. Không dùng lồng sắt, biển quảng cáo, hàng hóa hoặc vật dụng cố định bịt kín toàn bộ mặt thoáng. Trường hợp nhà có nhiều tầng, các thành viên cần biết ít nhất một phương án thoát thay thế khi lối đi chính không sử dụng được.\n\nBên cạnh lối thoát, Công an xã Ia Ko đề nghị tách khu vực để hàng khỏi nơi sinh hoạt, nguồn điện và nguồn nhiệt; không sạc nhiều thiết bị qua đêm trong khu vực chứa hàng. Bình chữa cháy, dụng cụ phá dỡ đơn giản và đèn chiếu sáng sự cố nên được bố trí ở nơi dễ lấy. Các thành viên trong nhà cần thống nhất cách báo động và hỗ trợ trẻ nhỏ, người cao tuổi.\n\nKhi có cháy, điều quan trọng nhất là phát hiện sớm và thoát ra ngoài an toàn. Không quay lại khu vực cháy để lấy tài sản. Nếu lối thoát có nhiều khói, cần cúi thấp người, dùng khăn hoặc vải che mũi miệng trong lúc di chuyển và gọi 114 ngay khi có thể.","featured":false,"image":"images/covers/pccc-family.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"dung-cung-cap-anh-can-cuoc-va-video-khuon-mat-cho-nguon-khong-ro-rang","title":"Đừng cung cấp ảnh căn cước và video khuôn mặt cho nguồn không rõ ràng","category":"Cảnh báo ANTT","date":"2026-09-11","author":"Gia Lai Số News","excerpt":"Nhiều thủ đoạn lừa đảo hiện nay tìm cách thu thập dữ liệu định danh để mở tài khoản, vay tiền hoặc thực hiện hành vi trái pháp luật.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Nhiều thủ đoạn lừa đảo hiện nay tìm cách thu thập dữ liệu định danh để mở tài khoản, vay tiền hoặc thực hiện hành vi trái pháp luật.\n\nỞ tình huống “Đừng cung cấp ảnh căn cước và video khuôn mặt cho nguồn không rõ ràng”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Chỉ cung cấp giấy tờ cho tổ chức có thẩm quyền, che bớt thông tin không cần thiết và kiểm tra rõ mục đích thu thập. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5935792/pexels-photo-5935792.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"phu-huynh-can-huong-dan-gi-cho-con-khi-hoc-tap-tren-moi-truong-so","title":"Phụ huynh cần hướng dẫn gì cho con khi học tập trên môi trường số","category":"Chuyển đổi số","date":"2026-09-10","author":"Gia Lai Số News","excerpt":"Thiết bị thông minh hỗ trợ học tập tốt hơn, song trẻ em cần được định hướng để sử dụng an toàn và hiệu quả.","content":"Dịch vụ số ngày càng gần với sinh hoạt hằng ngày, kéo theo yêu cầu về kỹ năng và an toàn thông tin. Thiết bị thông minh hỗ trợ học tập tốt hơn, song trẻ em cần được định hướng để sử dụng an toàn và hiệu quả.\n\nVới nội dung “Phụ huynh cần hướng dẫn gì cho con khi học tập trên môi trường số”, người dùng không cần học quá nhiều thao tác cùng lúc. Thiết lập thời gian sử dụng hợp lý, kiểm soát ứng dụng và đồng hành cùng con trong quá trình học tập. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/193003/pexels-photo-193003.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"cac-thanh-pho-lon-tren-the-gioi-thuc-day-giao-thong-xanh","title":"Các thành phố lớn trên thế giới thúc đẩy giao thông xanh","category":"Tin thế giới","date":"2026-09-08","author":"Gia Lai Số News","excerpt":"Nhiều đô thị đang ưu tiên xe điện, giao thông công cộng và không gian cho người đi bộ nhằm giảm phát thải.","content":"Một diễn biến ở bên ngoài khu vực đôi khi vẫn tác động nhanh tới giá cả, chuỗi cung ứng và tâm lý thị trường. Nhiều đô thị đang ưu tiên xe điện, giao thông công cộng và không gian cho người đi bộ nhằm giảm phát thải.\n\nTừ chủ đề “Các thành phố lớn trên thế giới thúc đẩy giao thông xanh” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Đầu tư hạ tầng sạc, kết nối phương tiện công cộng và thay đổi hành vi người dân. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/36652833/pexels-photo-36652833.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"chuyen-nham-gan-40-trieu-dong-va-cau-chuyen-ve-cach-ung-xu-tu-te","title":"Chuyển nhầm gần 40 triệu đồng và câu chuyện về cách ứng xử tử tế","category":"Gương sáng","date":"2026-09-08","author":"Gia Lai Số News","excerpt":"Khi tài khoản bất ngờ nhận một khoản tiền lớn từ người lạ, người nhận đã chủ động nhờ Công an xác minh để hoàn trả.","content":"Chuyển khoản nhầm là tình huống có thể xảy ra với bất kỳ ai. Khi một khoản tiền không rõ nguồn gốc xuất hiện trong tài khoản, cách xử lý an toàn là không vội sử dụng, không tự chuyển tiếp theo hướng dẫn của người lạ và chủ động liên hệ ngân hàng hoặc cơ quan chức năng.\n\nCâu chuyện một người dân ở Gia Lai nhận nhầm gần 40 triệu đồng rồi chủ động tìm cách hoàn trả cho thấy sự trung thực trong môi trường số cũng quan trọng như ngoài đời.\n\nĐây cũng là lời nhắc rằng người chuyển nhầm cần bình tĩnh, lưu chứng từ và làm việc qua kênh chính thống thay vì tìm cách gây áp lực hoặc tự thỏa thuận thiếu an toàn.","featured":false,"image":"https://images.pexels.com/photos/6994963/pexels-photo-6994963.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/nguoi-tot-viec-tot-nhan-duoc-gan-40-trieu-dong-chuyen-nham-nguoi-dan-chu-dong-tra-lai-14854.html"}],"status":"published"},{"id":"nhung-dieu-hoc-sinh-can-nho-de-tranh-vi-pham-phap-luat-tren-mang","title":"Những điều học sinh cần nhớ để tránh vi phạm pháp luật trên mạng","category":"Pháp luật","date":"2026-09-06","author":"Gia Lai Số News","excerpt":"Môi trường số mở ra nhiều cơ hội học tập, nhưng cũng kéo theo không ít rủi ro nếu học sinh sử dụng thiếu hiểu biết.","content":"Một chút hiểu biết đúng lúc có thể giúp tránh được cả vi phạm lẫn tranh chấp không đáng có. Môi trường số mở ra nhiều cơ hội học tập, nhưng cũng kéo theo không ít rủi ro nếu học sinh sử dụng thiếu hiểu biết.\n\nVới câu chuyện “Những điều học sinh cần nhớ để tránh vi phạm pháp luật trên mạng”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Bảo vệ thông tin cá nhân, không xúc phạm người khác, không phát tán nội dung độc hại và biết tìm sự hỗ trợ khi bị bắt nạt trên mạng. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"bo-doi-bien-phong-ho-tro-truong-hoc-vung-bien-truoc-nam-hoc-moi","title":"Bộ đội Biên phòng hỗ trợ trường học vùng biên trước năm học mới","category":"An ninh - Quốc phòng","date":"2026-09-04","author":"Gia Lai Số News","excerpt":"Những phần việc chỉnh trang trường lớp ở vùng biên cho thấy nhiệm vụ quốc phòng luôn gắn với dân vận và đời sống cộng đồng.","content":"Ở khu vực biên giới, hình ảnh cán bộ, chiến sĩ hỗ trợ nhà trường chuẩn bị năm học mới phản ánh một phần công việc dân vận thường ngày của lực lượng Biên phòng.\n\nNhững hoạt động sửa sang trường lớp, hỗ trợ học sinh hay phối hợp với chính quyền cơ sở có ý nghĩa thiết thực bởi chúng tạo sự gắn kết giữa lực lượng làm nhiệm vụ với người dân.\n\nKhi truyền thông về quốc phòng - an ninh, những câu chuyện gần đời sống như vậy giúp bạn đọc hiểu rõ hơn khái niệm “thế trận lòng dân”.","featured":false,"image":"https://images.pexels.com/photos/35171063/pexels-photo-35171063.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Báo Gia Lai","url":"https://baogialai.com.vn/gia-lai-bo-doi-bien-phong-tich-cuc-ho-tro-cac-truong-vung-bien-chuan-bi-khai-giang-post596636.html"}],"status":"published"},{"id":"phong-ngua-trom-cap-tai-san-trong-mua-thu-hoach-ca-phe","title":"Phòng ngừa trộm cắp tài sản trong mùa thu hoạch cà phê","category":"Cảnh báo ANTT","date":"2026-08-31","author":"Gia Lai Số News","excerpt":"Mùa vụ là thời điểm nhiều gia đình tập trung nông sản, phương tiện và vật tư nên nguy cơ trộm cắp thường tăng lên.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Mùa vụ là thời điểm nhiều gia đình tập trung nông sản, phương tiện và vật tư nên nguy cơ trộm cắp thường tăng lên.\n\nỞ tình huống “Phòng ngừa trộm cắp tài sản trong mùa thu hoạch cà phê”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Tăng cường khóa cửa, camera, đèn chiếu sáng, phân công trông coi và thông báo tổ an ninh khi có người lạ khả nghi. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5926392/pexels-photo-5926392.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"an-ninh-mang-tro-thanh-uu-tien-chien-luoc-cua-nhieu-quoc-gia","title":"An ninh mạng trở thành ưu tiên chiến lược của nhiều quốc gia","category":"Tin thế giới","date":"2026-08-31","author":"Gia Lai Số News","excerpt":"Tấn công mạng nhằm vào hạ tầng trọng yếu, doanh nghiệp và người dùng cá nhân tiếp tục gia tăng về quy mô và mức độ tinh vi.","content":"Thế giới đang thay đổi theo nhiều hướng cùng lúc, từ kinh tế, công nghệ tới an ninh và ngoại giao. Tấn công mạng nhằm vào hạ tầng trọng yếu, doanh nghiệp và người dùng cá nhân tiếp tục gia tăng về quy mô và mức độ tinh vi.\n\nTừ chủ đề “An ninh mạng trở thành ưu tiên chiến lược của nhiều quốc gia” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Việc đào tạo nhân lực số, chia sẻ dữ liệu cảnh báo và nâng chuẩn bảo mật. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/36652829/pexels-photo-36652829.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"nu-sinh-jrai-vuot-kho-gianh-hoc-bong-toan-phan","title":"Nữ sinh Jrai vượt khó giành học bổng toàn phần","category":"Vượt khó","date":"2026-08-31","author":"Gia Lai Số News","excerpt":"Hoàn cảnh khó khăn không ngăn được một nữ sinh Jrai kiên trì học tập và theo đuổi cơ hội mới.","content":"Những câu chuyện vượt khó có sức thuyết phục nhất khi được kể bằng những chi tiết thật: hoàn cảnh gia đình, quãng đường học tập, sự hỗ trợ của thầy cô và nỗ lực từng ngày của chính nhân vật.\n\nTấm gương nữ sinh Jrai vượt khó giành học bổng cho thấy cơ hội có thể đến từ sự bền bỉ, nhưng phía sau đó thường là cả một mạng lưới hỗ trợ từ gia đình, nhà trường và cộng đồng.\n\nThay vì chỉ nhấn vào thành tích, điều đáng kể hơn là hành trình vượt qua trở ngại và cách nhân vật tiếp tục nuôi mục tiêu dài hạn.","featured":false,"image":"https://images.pexels.com/photos/35869247/pexels-photo-35869247.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Báo Gia Lai","url":"https://baogialai.com.vn/nu-sinh-jrai-vuot-kho-gianh-hoc-bong-toan-phan-cua-apc-gia-lai-post325953.html"}],"status":"published"},{"id":"quy-dinh-ve-giao-xe-cho-nguoi-chua-du-tuoi-dieu-khien","title":"Quy định về giao xe cho người chưa đủ tuổi điều khiển","category":"Pháp luật","date":"2026-08-29","author":"Gia Lai Số News","excerpt":"Không chỉ người trực tiếp điều khiển phương tiện, người giao xe trái quy định cũng có thể bị xử lý.","content":"Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Không chỉ người trực tiếp điều khiển phương tiện, người giao xe trái quy định cũng có thể bị xử lý.\n\nVới câu chuyện “Quy định về giao xe cho người chưa đủ tuổi điều khiển”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Kiểm tra giấy phép lái xe, độ tuổi, khả năng điều khiển và tuyệt đối không giao phương tiện cho người chưa đủ điều kiện. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/33740942/pexels-photo-33740942.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"hoc-bong-tiep-suc-hoc-sinh-sinh-vien-mo-coi-vuot-kho","title":"Học bổng tiếp sức học sinh, sinh viên mồ côi vượt khó","category":"Vượt khó","date":"2026-08-29","author":"Gia Lai Số News","excerpt":"Những suất học bổng dài hạn giúp người học có hoàn cảnh khó khăn thêm điều kiện theo đuổi việc học.","content":"Với học sinh, sinh viên mồ côi hoặc gia đình khó khăn, một suất học bổng không chỉ là khoản hỗ trợ tài chính mà còn là sự ghi nhận cho quá trình nỗ lực.\n\nCác chương trình hỗ trợ ở Gia Lai cho thấy hiệu quả rõ hơn khi nguồn lực được trao theo năm học, gắn với nhu cầu thực tế và theo dõi quá trình học tập.\n\nĐằng sau mỗi con số học bổng là một hành trình cá nhân. Những câu chuyện này cần được kể tôn trọng, tránh khai thác hoàn cảnh theo hướng bi lụy.","featured":false,"image":"https://images.pexels.com/photos/35108631/pexels-photo-35108631.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Báo Gia Lai","url":"https://baogialai.com.vn/gia-lai-trao-hoc-bong-cho-18-hoc-sinh-sinh-vien-mo-coi-vuot-kho-post596389.html"}],"status":"published"},{"id":"tai-khoan-dinh-danh-dien-tu-va-nhung-tien-ich-dang-chu-y-voi-nguoi-dan","title":"Tài khoản định danh điện tử và những tiện ích đáng chú ý với người dân","category":"Chuyển đổi số","date":"2026-08-28","author":"Gia Lai Số News","excerpt":"Từ xác thực thông tin đến sử dụng trong thủ tục hành chính, tài khoản định danh điện tử ngày càng mang lại nhiều tiện lợi.","content":"Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. Từ xác thực thông tin đến sử dụng trong thủ tục hành chính, tài khoản định danh điện tử ngày càng mang lại nhiều tiện lợi.\n\nVới nội dung “Tài khoản định danh điện tử và những tiện ích đáng chú ý với người dân”, người dùng không cần học quá nhiều thao tác cùng lúc. Giữ bí mật mã đăng nhập, cập nhật tài khoản và chủ động kiểm tra các thông báo chính thức. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/34353879/pexels-photo-34353879.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"trom-xe-may-truoc-cua-nha-cua-hang-dung-chu-quan-chi-vai-phut","title":"Trộm xe máy trước cửa nhà, cửa hàng: đừng chủ quan chỉ vài phút","category":"Cảnh báo ANTT","date":"2026-08-23","author":"Gia Lai Số News","excerpt":"Không ít vụ mất xe xảy ra ngay trước cửa hàng hoặc trước sân nhà chỉ trong khoảng thời gian ngắn.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Không ít vụ mất xe xảy ra ngay trước cửa hàng hoặc trước sân nhà chỉ trong khoảng thời gian ngắn.\n\nỞ tình huống “Trộm xe máy trước cửa nhà, cửa hàng: đừng chủ quan chỉ vài phút”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Khóa nhiều lớp, để xe trong khu vực quan sát được và lắp thiết bị chống trộm nếu có điều kiện. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5935791/pexels-photo-5935791.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"cac-muc-xu-phat-pho-bien-doi-voi-hanh-vi-uong-ruou-bia-roi-lai-xe","title":"Các mức xử phạt phổ biến đối với hành vi uống rượu bia rồi lái xe","category":"Pháp luật","date":"2026-08-21","author":"Gia Lai Số News","excerpt":"Đã sử dụng rượu bia thì không điều khiển phương tiện là nguyên tắc quan trọng để bảo đảm an toàn cho bản thân và cộng đồng.","content":"Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Đã sử dụng rượu bia thì không điều khiển phương tiện là nguyên tắc quan trọng để bảo đảm an toàn cho bản thân và cộng đồng.\n\nVới câu chuyện “Các mức xử phạt phổ biến đối với hành vi uống rượu bia rồi lái xe”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Không lái xe sau khi uống rượu bia, chủ động nhờ người chở hoặc sử dụng phương tiện thay thế. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"bien-doi-khi-hau-thuc-day-cac-nuoc-ra-soat-chien-luoc-thich-ung","title":"Biến đổi khí hậu thúc đẩy các nước rà soát chiến lược thích ứng","category":"Tin thế giới","date":"2026-08-20","author":"Gia Lai Số News","excerpt":"Mưa lớn cực đoan, nắng nóng kéo dài và thiên tai bất thường khiến nhiều quốc gia phải điều chỉnh kế hoạch phát triển.","content":"Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Mưa lớn cực đoan, nắng nóng kéo dài và thiên tai bất thường khiến nhiều quốc gia phải điều chỉnh kế hoạch phát triển.\n\nTừ chủ đề “Biến đổi khí hậu thúc đẩy các nước rà soát chiến lược thích ứng” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Đầu tư hạ tầng chống chịu, cảnh báo sớm và chuyển đổi năng lượng. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/30685850/pexels-photo-30685850.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"nang-nong-keo-dai-cong-an-xa-ia-ko-khuyen-cao-phong-chay-do-qua-tai-dien","title":"Nắng nóng kéo dài, Công an xã Ia Ko khuyến cáo phòng cháy do quá tải điện","category":"PCCC","date":"2026-04-07","author":"Công an xã Ia Ko","excerpt":"Thời tiết nắng nóng khiến nhu cầu sử dụng quạt, điều hòa, tủ lạnh và thiết bị điện tăng cao. Công an xã Ia Ko khuyến cáo người dân không chủ quan với nguy cơ quá tải, chập điện.","content":"Bước vào thời điểm nắng nóng, nhu cầu sử dụng các thiết bị làm mát và điện sinh hoạt tại hộ gia đình, cơ sở kinh doanh thường tăng mạnh. Nếu hệ thống dây dẫn cũ, tiết diện không phù hợp hoặc một ổ cắm phải cấp điện cho nhiều thiết bị công suất lớn, nguy cơ phát nhiệt, chập điện và cháy có thể xảy ra. Công an xã Ia Ko khuyến cáo người dân chủ động kiểm tra hệ thống điện, không chờ đến khi có dấu hiệu bất thường mới xử lý.\n\nMỗi gia đình nên bố trí aptomat phù hợp cho từng khu vực, hạn chế sử dụng ổ cắm nối dài chất lượng kém và không để dây điện bị đè, gấp hoặc chạy sát vật liệu dễ cháy. Khi thiết bị có mùi khét, phát tia lửa, ổ cắm nóng hoặc aptomat thường xuyên ngắt, cần dừng sử dụng để kiểm tra. Không tự ý đấu nối thêm thiết bị nếu chưa đánh giá khả năng chịu tải của đường dây.\n\nĐối với cơ sở kinh doanh, Công an xã Ia Ko lưu ý việc sử dụng quạt, tủ lạnh, máy bơm, biển hiệu và thiết bị điện liên tục trong nhiều giờ phải đi kèm kiểm tra định kỳ. Cuối ngày cần tắt các thiết bị không cần thiết, đặc biệt tại khu vực kho, nơi chứa nhiều giấy, vải, nhựa hoặc hàng hóa dễ cháy.\n\nPhòng cháy do điện bắt đầu từ việc sử dụng đúng công suất, đúng thiết bị bảo vệ và sửa chữa kịp thời khi phát hiện hư hỏng. Đây là nội dung mỗi hộ dân trên địa bàn xã Ia Ko có thể tự thực hiện hằng ngày để giảm nguy cơ xảy ra sự cố trong mùa nắng nóng.","featured":false,"image":"images/covers/pccc-electric.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"luu-tru-giay-to-so-thuan-tien-nhung-dung-quen-sao-luu","title":"Lưu trữ giấy tờ số: thuận tiện nhưng đừng quên sao lưu","category":"Chuyển đổi số","date":"2026-08-19","author":"Gia Lai Số News","excerpt":"Tài liệu số giúp tìm kiếm nhanh, chia sẻ dễ hơn nhưng cũng cần được quản lý cẩn thận để tránh mất mát.","content":"Chuyển đổi số không nhất thiết bắt đầu bằng những khái niệm lớn; nhiều khi chỉ là một thao tác đúng trên điện thoại. Tài liệu số giúp tìm kiếm nhanh, chia sẻ dễ hơn nhưng cũng cần được quản lý cẩn thận để tránh mất mát.\n\nVới nội dung “Lưu trữ giấy tờ số: thuận tiện nhưng đừng quên sao lưu”, người dùng không cần học quá nhiều thao tác cùng lúc. Sao lưu lên nhiều nơi, đặt mật khẩu thiết bị và phân loại tài liệu khoa học. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/12935064/pexels-photo-12935064.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"dan-quan-tu-ve-va-vai-tro-giu-vung-the-tran-quoc-phong-toan-dan","title":"Dân quân tự vệ và vai trò giữ vững thế trận quốc phòng toàn dân","category":"An ninh - Quốc phòng","date":"2026-08-18","author":"Gia Lai Số News","excerpt":"Lực lượng dân quân tự vệ được xây dựng rộng khắp, gắn với địa bàn và yêu cầu sẵn sàng xử lý tình huống tại cơ sở.","content":"Dân quân tự vệ là lực lượng gắn chặt với địa bàn dân cư, cơ quan và tổ chức. Công tác huấn luyện vì vậy không chỉ chú trọng kỹ thuật mà còn đặt ra yêu cầu hiểu địa bàn và phối hợp với các lực lượng khác.\n\nCác hoạt động huấn luyện ở Gia Lai cho thấy việc xây dựng lực lượng vững mạnh cần đi cùng nền nếp, kỷ luật và khả năng xử lý các nhiệm vụ tại chỗ.\n\nTuyên truyền về quốc phòng toàn dân sẽ gần gũi hơn nếu giải thích rõ vai trò của từng lực lượng và mối liên hệ với đời sống của người dân.","featured":false,"image":"https://images.pexels.com/photos/31704528/pexels-photo-31704528.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Báo Gia Lai","url":"https://baogialai.com.vn/chinh-tri/quoc-phong-an-ninh/"}],"status":"published"},{"id":"lua-dao-dau-tu-loi-nhuan-cao-tren-mang-xa-hoi-tiep-tuc-bien-tuong","title":"Lừa đảo đầu tư lợi nhuận cao trên mạng xã hội tiếp tục biến tướng","category":"Cảnh báo ANTT","date":"2026-08-15","author":"Gia Lai Số News","excerpt":"Các lời mời đầu tư ngoại hối, tiền số, chứng khoán quốc tế với lợi nhuận cam kết cao tiềm ẩn nhiều rủi ro.","content":"Cảnh giác không có nghĩa là nghi ngờ mọi thứ, mà là biết dừng lại đúng lúc để kiểm tra. Các lời mời đầu tư ngoại hối, tiền số, chứng khoán quốc tế với lợi nhuận cam kết cao tiềm ẩn nhiều rủi ro.\n\nỞ tình huống “Lừa đảo đầu tư lợi nhuận cao trên mạng xã hội tiếp tục biến tướng”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Kiểm tra pháp lý nền tảng, cảnh giác với cam kết chắc thắng và không giao tiền cho người tư vấn qua mạng. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5926384/pexels-photo-5926384.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"gui-hang-qua-mang-can-luu-y-gi-de-khong-vi-pham-phap-luat","title":"Gửi hàng qua mạng, cần lưu ý gì để không vi phạm pháp luật","category":"Pháp luật","date":"2026-08-10","author":"Gia Lai Số News","excerpt":"Mua bán trực tuyến phát triển kéo theo nhiều rủi ro liên quan hàng hóa, thông tin người nhận và giao dịch thanh toán.","content":"Nhiều rắc rối pháp lý bắt đầu từ một việc tưởng nhỏ nhưng người trong cuộc lại không nắm rõ quy định. Mua bán trực tuyến phát triển kéo theo nhiều rủi ro liên quan hàng hóa, thông tin người nhận và giao dịch thanh toán.\n\nVới câu chuyện “Gửi hàng qua mạng, cần lưu ý gì để không vi phạm pháp luật”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Chọn đơn vị vận chuyển uy tín, lưu hóa đơn, không gửi hàng cấm và đọc kỹ chính sách đổi trả. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"thi-truong-lao-dong-toan-cau-thay-doi-truoc-lan-song-tu-dong-hoa","title":"Thị trường lao động toàn cầu thay đổi trước làn sóng tự động hóa","category":"Tin thế giới","date":"2026-08-09","author":"Gia Lai Số News","excerpt":"Tự động hóa và AI đang làm thay đổi cách doanh nghiệp tuyển dụng, đào tạo và sử dụng nhân lực.","content":"Một diễn biến ở bên ngoài khu vực đôi khi vẫn tác động nhanh tới giá cả, chuỗi cung ứng và tâm lý thị trường. Tự động hóa và AI đang làm thay đổi cách doanh nghiệp tuyển dụng, đào tạo và sử dụng nhân lực.\n\nTừ chủ đề “Thị trường lao động toàn cầu thay đổi trước làn sóng tự động hóa” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Đào tạo lại lao động, học tập suốt đời và điều chỉnh chính sách an sinh. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.","featured":false,"image":"https://images.pexels.com/photos/13433785/pexels-photo-13433785.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Reuters","url":"https://www.reuters.com/"},{"name":"AP News","url":"https://apnews.com/"}],"status":"published"},{"id":"cach-nhan-biet-website-gia-mao-cong-dich-vu-cong","title":"Cách nhận biết website giả mạo cổng dịch vụ công","category":"Chuyển đổi số","date":"2026-08-08","author":"Gia Lai Số News","excerpt":"Các website giả mạo thường dùng giao diện gần giống trang thật để lấy thông tin tài khoản hoặc yêu cầu nộp tiền.","content":"Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. Các website giả mạo thường dùng giao diện gần giống trang thật để lấy thông tin tài khoản hoặc yêu cầu nộp tiền.\n\nVới nội dung “Cách nhận biết website giả mạo cổng dịch vụ công”, người dùng không cần học quá nhiều thao tác cùng lúc. Gõ đúng tên miền, tránh truy cập từ đường link lạ và xác minh lại nếu thấy giao diện bất thường. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/6969933/pexels-photo-6969933.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"canh-bao-ung-dung-gia-mao-co-quan-nha-nuoc-de-cai-ma-doc","title":"Cảnh báo ứng dụng giả mạo cơ quan nhà nước để cài mã độc","category":"Cảnh báo ANTT","date":"2026-07-30","author":"Gia Lai Số News","excerpt":"Một số đối tượng gửi file hoặc đường link cài ứng dụng giả, sau đó chiếm quyền điều khiển điện thoại của nạn nhân.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Một số đối tượng gửi file hoặc đường link cài ứng dụng giả, sau đó chiếm quyền điều khiển điện thoại của nạn nhân.\n\nỞ tình huống “Cảnh báo ứng dụng giả mạo cơ quan nhà nước để cài mã độc”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Chỉ tải ứng dụng từ kho chính thức, không cấp quyền truy cập bất thường và cập nhật phần mềm thường xuyên. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5483240/pexels-photo-5483240.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"pho-bien-quy-dinh-ve-cu-tru-doi-voi-nguoi-di-lam-xa-thue-tro","title":"Phổ biến quy định về cư trú đối với người đi làm xa, thuê trọ","category":"Pháp luật","date":"2026-07-28","author":"Gia Lai Số News","excerpt":"Đăng ký cư trú đầy đủ không chỉ là nghĩa vụ mà còn giúp thuận tiện khi làm các thủ tục hành chính khác.","content":"Nhiều rắc rối pháp lý bắt đầu từ một việc tưởng nhỏ nhưng người trong cuộc lại không nắm rõ quy định. Đăng ký cư trú đầy đủ không chỉ là nghĩa vụ mà còn giúp thuận tiện khi làm các thủ tục hành chính khác.\n\nVới câu chuyện “Phổ biến quy định về cư trú đối với người đi làm xa, thuê trọ”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Thực hiện khai báo đúng thời hạn, giữ thông tin cá nhân chính xác và phối hợp với chủ hộ, chủ cơ sở lưu trú khi được yêu cầu. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"dung-xem-nhe-cap-nhat-phan-mem-cho-dien-thoai-va-may-tinh","title":"Đừng xem nhẹ cập nhật phần mềm cho điện thoại và máy tính","category":"Chuyển đổi số","date":"2026-07-26","author":"Gia Lai Số News","excerpt":"Những bản cập nhật định kỳ không chỉ thêm tính năng mà còn vá lỗi bảo mật quan trọng.","content":"Chuyển đổi số không nhất thiết bắt đầu bằng những khái niệm lớn; nhiều khi chỉ là một thao tác đúng trên điện thoại. Những bản cập nhật định kỳ không chỉ thêm tính năng mà còn vá lỗi bảo mật quan trọng.\n\nVới nội dung “Đừng xem nhẹ cập nhật phần mềm cho điện thoại và máy tính”, người dùng không cần học quá nhiều thao tác cùng lúc. Bật tự động cập nhật khi có thể và ưu tiên tải bản cập nhật từ nguồn chính hãng. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"phong-chay-tai-kho-noi-tap-ket-nong-san-tren-dia-ban-xa-ia-ko","title":"Phòng cháy tại kho, nơi tập kết nông sản trên địa bàn xã Ia Ko","category":"PCCC","date":"2026-04-17","author":"Công an xã Ia Ko","excerpt":"Nông sản khô, bao bì, vật liệu đóng gói và bụi dễ cháy có thể làm đám cháy phát triển nhanh. Công an xã Ia Ko khuyến cáo các hộ chú ý nguồn điện, nguồn nhiệt và khoảng cách an toàn tại khu vực kho.","content":"Tại địa bàn sản xuất nông nghiệp, khu vực chứa nông sản, bao bì, vật liệu đóng gói hoặc kho tạm thường có tải lượng chất cháy lớn. Chỉ một sự cố từ dây điện, thiết bị sinh nhiệt hoặc bất cẩn khi sử dụng lửa cũng có thể làm đám cháy lan nhanh. Công an xã Ia Ko khuyến cáo các hộ gia đình, cơ sở có khu vực kho chủ động kiểm tra điều kiện PCCC, nhất là trong thời điểm thu gom và bảo quản nông sản.\n\nHệ thống điện trong kho cần được lắp đặt gọn, có thiết bị bảo vệ phù hợp và không để mối nối điện tiếp xúc trực tiếp với bao bì, giấy, gỗ hoặc vật liệu khô. Không sử dụng bếp, đun nấu, hút thuốc hoặc để nguồn lửa trần trong khu vực chứa hàng. Hàng hóa nên được sắp xếp thành từng khu vực, chừa lối đi để kiểm tra và xử lý khi có sự cố.\n\nCông an xã Ia Ko đề nghị các hộ trang bị phương tiện chữa cháy ban đầu phù hợp, đặt gần lối ra và bảo đảm người thường xuyên làm việc tại kho biết sử dụng. Khu vực xung quanh kho cần được vệ sinh, thu gom rác, cỏ khô và vật liệu dễ cháy để hạn chế nguy cơ cháy lan từ bên ngoài.\n\nViệc quản lý chặt nguồn lửa, nguồn nhiệt và hệ thống điện tại kho không chỉ bảo vệ tài sản mà còn giúp bảo đảm an toàn cho khu dân cư xung quanh. Khi phát hiện cháy, cần báo động, gọi 114 và chỉ chữa cháy ban đầu khi còn bảo đảm đường thoát an toàn.","featured":false,"image":"images/covers/pccc-market.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"lam-quen-qua-mang-ga-chuyen-qua-roi-yeu-cau-nop-phi-chieu-lua-cu-nhung-van-co-nan-nhan","title":"Làm quen qua mạng, gạ chuyển quà rồi yêu cầu nộp phí: chiêu lừa cũ nhưng vẫn có nạn nhân","category":"Cảnh báo ANTT","date":"2026-07-18","author":"Gia Lai Số News","excerpt":"Các đối tượng tạo vỏ bọc quen biết, tặng quà từ nước ngoài hoặc hứa hẹn tình cảm để thao túng tâm lý nạn nhân.","content":"Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Các đối tượng tạo vỏ bọc quen biết, tặng quà từ nước ngoài hoặc hứa hẹn tình cảm để thao túng tâm lý nạn nhân.\n\nỞ tình huống “Làm quen qua mạng, gạ chuyển quà rồi yêu cầu nộp phí: chiêu lừa cũ nhưng vẫn có nạn nhân”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Giữ cảnh giác với mối quan hệ quá nhanh, không chuyển tiền cho người chưa gặp mặt và xác minh qua người thân. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.","featured":false,"image":"https://images.pexels.com/photos/5483248/pexels-photo-5483248.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"},{"name":"Cổng thông tin Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/"}],"status":"published"},{"id":"hoc-sinh-phu-huynh-can-biet-gi-ve-phao-no-va-phao-tu-che","title":"Học sinh, phụ huynh cần biết gì về pháo nổ và pháo tự chế","category":"Pháp luật","date":"2026-07-17","author":"Gia Lai Số News","excerpt":"Chỉ một phút tò mò hoặc thử làm pháo tự chế cũng có thể gây hậu quả nghiêm trọng về sức khỏe và pháp lý.","content":"Pháp luật gần với đời sống hơn nhiều so với cảm giác “chỉ có trong văn bản”. Chỉ một phút tò mò hoặc thử làm pháo tự chế cũng có thể gây hậu quả nghiêm trọng về sức khỏe và pháp lý.\n\nVới câu chuyện “Học sinh, phụ huynh cần biết gì về pháo nổ và pháo tự chế”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Không mua bán, tàng trữ, chế tạo pháo trái phép và kịp thời báo người lớn khi phát hiện hành vi liên quan. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/37726687/pexels-photo-37726687.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"nguoi-dan-giao-nop-day-chuyen-vang-nhat-duoc-de-tim-chu-nhan","title":"Người dân giao nộp dây chuyền vàng nhặt được để tìm chủ nhân","category":"Gương sáng","date":"2026-07-15","author":"Gia Lai Số News","excerpt":"Một món đồ có giá trị được trao lại đúng người là minh chứng rõ nhất cho sự trung thực trong cộng đồng.","content":"Trong những câu chuyện người tốt, việc tốt, giá trị không nằm ở số tiền hay món tài sản lớn đến đâu mà ở lựa chọn của người nhặt được.\n\nKhi chủ động giao tài sản cho cơ quan Công an để xác minh người đánh rơi, người dân vừa bảo vệ quyền lợi của người mất, vừa tránh những tranh chấp không cần thiết.\n\nNhững câu chuyện giản dị như vậy phù hợp để lan tỏa trên một trang tin cộng đồng bởi chúng gần gũi, dễ kiểm chứng và tạo cảm giác tích cực mà không cần phô trương.","featured":false,"image":"https://images.pexels.com/photos/11319521/pexels-photo-11319521.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Công an tỉnh Gia Lai","url":"https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/guong-nguoi-tot-viec-tot-tra-lai-soi-day-chuyen-vang-cho-nguoi-danh-mat-12957.html"}],"status":"published"},{"id":"nguoi-lon-tuoi-tiep-can-chuyen-doi-so-can-ho-tro-tu-nhung-viec-nho","title":"Người lớn tuổi tiếp cận chuyển đổi số: cần hỗ trợ từ những việc nhỏ","category":"Chuyển đổi số","date":"2026-07-11","author":"Gia Lai Số News","excerpt":"Để chuyển đổi số bao trùm, không thể bỏ quên nhóm người lớn tuổi vốn còn bỡ ngỡ với điện thoại thông minh và dịch vụ số.","content":"Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. Để chuyển đổi số bao trùm, không thể bỏ quên nhóm người lớn tuổi vốn còn bỡ ngỡ với điện thoại thông minh và dịch vụ số.\n\nVới nội dung “Người lớn tuổi tiếp cận chuyển đổi số: cần hỗ trợ từ những việc nhỏ”, người dùng không cần học quá nhiều thao tác cùng lúc. Hướng dẫn từng bước, ghi chú thao tác và thiết lập giao diện dễ nhìn trên thiết bị. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.","featured":false,"image":"https://images.pexels.com/photos/7621140/pexels-photo-7621140.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Dịch vụ công quốc gia","url":"https://dichvucong.gov.vn/"},{"name":"Ứng dụng VNeID","url":"https://vneid.gov.vn/"}],"status":"published"},{"id":"to-giac-toi-pham-quyen-va-trach-nhiem-cua-cong-dan","title":"Tố giác tội phạm: quyền và trách nhiệm của công dân","category":"Pháp luật","date":"2026-07-06","author":"Gia Lai Số News","excerpt":"Sự chủ động của người dân có vai trò rất quan trọng trong việc phòng ngừa, phát hiện và đấu tranh với hành vi vi phạm pháp luật.","content":"Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Sự chủ động của người dân có vai trò rất quan trọng trong việc phòng ngừa, phát hiện và đấu tranh với hành vi vi phạm pháp luật.\n\nVới câu chuyện “Tố giác tội phạm: quyền và trách nhiệm của công dân”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Cung cấp thông tin trung thực, bảo vệ chứng cứ nếu có thể và liên hệ đúng cơ quan tiếp nhận tin báo. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"co-so-sua-chua-xe-may-can-chu-y-nguon-lua-xang-dau-va-he-thong-dien","title":"Cơ sở sửa chữa xe máy cần chú ý nguồn lửa, xăng dầu và hệ thống điện","category":"PCCC","date":"2026-04-28","author":"Công an xã Ia Ko","excerpt":"Công an xã Ia Ko lưu ý các cơ sở sửa chữa xe máy trên địa bàn quản lý chặt xăng dầu, giẻ lau dính dầu, thiết bị điện và các công việc có phát sinh tia lửa.","content":"Cơ sở sửa chữa xe máy thường có nhiều yếu tố nguy cơ như xăng, dầu, dung môi, giẻ lau dính dầu, bình ắc quy, thiết bị điện và các công việc có thể phát sinh tia lửa. Nếu mặt bằng chật, hàng hóa và phương tiện bố trí dày đặc thì khi xảy ra cháy, lửa có thể lan rất nhanh. Công an xã Ia Ko khuyến cáo các chủ cơ sở trên địa bàn duy trì việc tự kiểm tra an toàn PCCC trong quá trình hoạt động.\n\nXăng, dầu và dung môi phải được quản lý cẩn thận, không để gần nguồn nhiệt, khu vực hàn cắt hoặc nơi hút thuốc. Giẻ lau dính dầu cần thu gom vào dụng cụ phù hợp, không vứt thành đống cạnh thiết bị điện. Dây dẫn, ổ cắm, máy nén khí, máy sạc và các thiết bị sử dụng điện phải được kiểm tra thường xuyên, tránh tình trạng câu mắc tạm bợ.\n\nCông an xã Ia Ko đề nghị các cơ sở bố trí bình chữa cháy ở vị trí dễ quan sát, không bị xe máy, phụ tùng hoặc hàng hóa che khuất; đồng thời duy trì lối ra vào thông thoáng. Người làm việc tại cơ sở cần biết cách ngắt điện, xử lý tình huống rò rỉ nhiên liệu và sử dụng bình chữa cháy khi đám cháy còn nhỏ.\n\nCuối ngày làm việc nên kiểm tra lại nguồn điện, thu gom vật liệu dễ cháy và khóa khu vực chứa nhiên liệu. Những thao tác đơn giản nhưng thực hiện đều đặn sẽ giúp loại trừ nhiều nguy cơ và giảm thiệt hại nếu sự cố bất ngờ xảy ra.","featured":false,"image":"images/pccc/img03.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"bao-ve-du-lieu-ca-nhan-tren-moi-truong-so-hieu-dung-de-lam-dung","title":"Bảo vệ dữ liệu cá nhân trên môi trường số: hiểu đúng để làm đúng","category":"Pháp luật","date":"2026-06-24","author":"Gia Lai Số News","excerpt":"Thông tin cá nhân ngày càng trở thành tài sản có giá trị và dễ bị khai thác nếu người dùng thiếu cảnh giác.","content":"Pháp luật gần với đời sống hơn nhiều so với cảm giác “chỉ có trong văn bản”. Thông tin cá nhân ngày càng trở thành tài sản có giá trị và dễ bị khai thác nếu người dùng thiếu cảnh giác.\n\nVới câu chuyện “Bảo vệ dữ liệu cá nhân trên môi trường số: hiểu đúng để làm đúng”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Hạn chế công khai thông tin nhạy cảm, kiểm soát quyền truy cập ứng dụng và cảnh giác với yêu cầu cung cấp ảnh giấy tờ. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.","featured":false,"image":"https://images.pexels.com/photos/33740942/pexels-photo-33740942.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Cổng Thông tin điện tử Chính phủ","url":"https://xaydungchinhsach.chinhphu.vn/"},{"name":"Bộ Tư pháp","url":"https://moj.gov.vn/"}],"status":"published"},{"id":"cong-an-xa-ia-ko-tuyen-truyen-ky-nang-bao-chay-goi-114-cho-hoc-sinh","title":"Công an xã Ia Ko tuyên truyền kỹ năng báo cháy, gọi 114 cho học sinh","category":"PCCC","date":"2026-05-08","author":"Công an xã Ia Ko","excerpt":"Trang bị cho học sinh kỹ năng nhận biết nguy cơ, báo động và gọi 114 là nội dung thiết thực trong công tác tuyên truyền PCCC tại trường học trên địa bàn xã Ia Ko.","content":"PCCC trong trường học không chỉ là trách nhiệm của nhà trường mà còn cần hình thành kỹ năng an toàn cho từng học sinh. Trong hoạt động tuyên truyền tại địa bàn, Công an xã Ia Ko chú trọng hướng dẫn học sinh cách nhận biết dấu hiệu nguy hiểm, báo động cho người xung quanh và gọi số 114 khi phát hiện cháy.\n\nKhi gọi 114, học sinh cần bình tĩnh nói rõ địa chỉ xảy ra cháy, khu vực đang cháy, có người mắc kẹt hay không và số điện thoại liên hệ. Sau khi báo tin, phải thực hiện theo hướng dẫn của người lớn và lực lượng chức năng, không tự ý quay lại nơi cháy để lấy đồ dùng. Nếu phát hiện khói, cần báo ngay cho giáo viên hoặc người có trách nhiệm thay vì tụ tập xem.\n\nCông an xã Ia Ko cũng hướng dẫn học sinh không nghịch lửa, không tự ý sử dụng ổ cắm, thiết bị điện hư hỏng; không đốt giấy, rác hoặc vật liệu dễ cháy trong khuôn viên trường và tại nhà. Những kỹ năng đơn giản này giúp các em hình thành phản xạ an toàn từ sớm, đồng thời có thể nhắc nhở người thân trong gia đình.\n\nTuyên truyền PCCC cho học sinh cần được thực hiện sinh động, gắn với tình huống cụ thể và thao tác thực tế. Khi hiểu vì sao phải thoát nạn đúng cách, vì sao không được trốn vào phòng kín hoặc quay lại lấy tài sản, các em sẽ chủ động hơn nếu chẳng may gặp sự cố.","featured":false,"image":"images/pccc/img05.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"hoc-sinh-thuc-hanh-su-dung-binh-chua-chay-duoi-su-huong-dan-cua-cong-an-xa-ia-ko","title":"Học sinh thực hành sử dụng bình chữa cháy dưới sự hướng dẫn của Công an xã Ia Ko","category":"PCCC","date":"2026-05-18","author":"Công an xã Ia Ko","excerpt":"Từ lý thuyết đến thao tác thực tế, việc hướng dẫn học sinh sử dụng bình chữa cháy giúp các em hiểu rõ hơn nguyên tắc xử lý đám cháy ban đầu và giới hạn an toàn của bản thân.","content":"Một trong những cách nâng cao hiệu quả tuyên truyền PCCC là để người học trực tiếp quan sát và thực hành dưới sự hướng dẫn an toàn. Trong các hoạt động tuyên truyền dành cho học sinh, Công an xã Ia Ko chú trọng giới thiệu cấu tạo cơ bản của bình chữa cháy xách tay, cách kiểm tra và thao tác sử dụng khi đám cháy mới phát sinh.\n\nHọc sinh được hướng dẫn ghi nhớ trình tự cơ bản: xác định vị trí an toàn, rút chốt, hướng vòi phun vào gốc lửa, bóp van và quét đều. Tuy nhiên, Công an xã Ia Ko nhấn mạnh việc sử dụng bình chỉ phù hợp khi đám cháy còn nhỏ, người xử lý có đường thoát phía sau và không bị khói, nhiệt hoặc nguy cơ nổ đe dọa. Nếu tình huống vượt quá khả năng, phải ưu tiên thoát nạn và báo lực lượng chữa cháy.\n\nThông qua thực hành, học sinh cũng hiểu thêm rằng bình chữa cháy không phải vật dụng để nghịch thử. Việc rút chốt, bóp van tùy tiện có thể làm phương tiện mất tác dụng khi thật sự cần thiết. Tại gia đình, các em có thể cùng người thân kiểm tra vị trí đặt bình, lối thoát và số điện thoại 114.\n\nCông an xã Ia Ko xác định việc trang bị kỹ năng PCCC cho học sinh là một cách lan tỏa kiến thức an toàn về từng gia đình. Khi mỗi em biết phòng ngừa, biết báo động và biết thoát nạn đúng cách, hiệu quả tuyên truyền trong cộng đồng sẽ thiết thực hơn.","featured":false,"image":"images/pccc/img04.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"trang-bi-ky-nang-thoat-nan-khi-co-khoi-khi-doc-cho-hoc-sinh","title":"Trang bị kỹ năng thoát nạn khi có khói, khí độc cho học sinh","category":"PCCC","date":"2026-05-28","author":"Công an xã Ia Ko","excerpt":"Khói và khí độc là nguy cơ lớn trong đám cháy. Công an xã Ia Ko hướng dẫn học sinh giữ bình tĩnh, di chuyển thấp người, bám theo lối thoát và tuyệt đối không quay lại lấy tài sản.","content":"Trong nhiều vụ cháy, khói và khí độc có thể gây nguy hiểm trước khi ngọn lửa tiếp cận. Vì vậy, kỹ năng thoát nạn trong môi trường có khói là nội dung quan trọng khi tuyên truyền PCCC cho học sinh. Công an xã Ia Ko khuyến cáo các em phải giữ bình tĩnh, quan sát lối ra và làm theo hướng dẫn của giáo viên, người lớn khi có sự cố.\n\nKhi khu vực có khói, cần hạ thấp người vì lớp không khí gần sàn thường dễ thở hơn; có thể dùng khăn hoặc vải che mũi, miệng trong lúc di chuyển. Trước khi mở cửa, cần thận trọng kiểm tra dấu hiệu nhiệt; nếu phía bên kia có lửa hoặc khói dày thì phải tìm hướng thoát khác. Không trốn trong nhà vệ sinh, gầm bàn, tủ kín và không chen lấn khi di chuyển.\n\nCông an xã Ia Ko nhấn mạnh nguyên tắc sau khi đã thoát ra nơi an toàn thì không quay trở lại khu vực cháy để lấy cặp sách, điện thoại hoặc tài sản. Học sinh cần đến điểm tập kết, thông báo cho giáo viên hoặc người phụ trách để kiểm đếm, đồng thời hỗ trợ cung cấp thông tin nếu biết có người còn mắc kẹt.\n\nViệc thực hành tình huống giả định giúp học sinh ghi nhớ tốt hơn so với chỉ nghe lý thuyết. Nhà trường và gia đình cũng nên thường xuyên nhắc lại đường thoát, vị trí an toàn và cách gọi 114 để các em hình thành phản xạ đúng khi gặp sự cố thực tế.","featured":false,"image":"images/pccc/img06.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"cong-an-xa-ia-ko-khuyen-cao-an-toan-dien-trong-mua-mua","title":"Công an xã Ia Ko khuyến cáo an toàn điện trong mùa mưa","category":"PCCC","date":"2026-07-07","author":"Công an xã Ia Ko","excerpt":"Mưa ẩm làm tăng nguy cơ rò điện, chập điện tại dây dẫn, ổ cắm và thiết bị đặt ngoài trời. Công an xã Ia Ko khuyến cáo người dân chủ động kiểm tra và xử lý các vị trí mất an toàn.","content":"Mùa mưa, độ ẩm cao và nước xâm nhập vào hệ thống điện có thể làm tăng nguy cơ rò điện, chập điện và cháy. Tại các hộ gia đình, cơ sở kinh doanh trên địa bàn, Công an xã Ia Ko khuyến cáo người dân chú ý kiểm tra các đường dây đi ngoài trời, ổ cắm thấp, thiết bị điện gần mái dột hoặc khu vực có khả năng ngập nước.\n\nKhông sử dụng thiết bị điện khi tay ướt hoặc đứng ở nền có nước. Những vị trí dây điện bị bong tróc, mối nối hở cần được sửa chữa, thay thế kịp thời; không dùng băng dính tạm bợ trong thời gian dài. Đối với thiết bị đặt ngoài hiên, biển quảng cáo, máy bơm và ổ cắm ngoài trời, cần có biện pháp che chắn phù hợp và thiết bị bảo vệ chống quá tải, rò điện.\n\nCông an xã Ia Ko cũng đề nghị các hộ chủ động ngắt nguồn điện tại khu vực bị nước tràn vào trước khi di chuyển đồ đạc hoặc xử lý sự cố. Khi phát hiện mùi khét, tia lửa hoặc thiết bị điện bất thường, không tiếp tục sử dụng và không tự xử lý nếu không có chuyên môn.\n\nBên cạnh việc phòng ngừa điện giật, kiểm soát tốt hệ thống điện trong mùa mưa còn là biện pháp quan trọng để phòng cháy. Mỗi gia đình nên duy trì bình chữa cháy ở vị trí thuận tiện và biết cách gọi 114 khi xảy ra sự cố vượt quá khả năng xử lý ban đầu.","featured":false,"image":"images/covers/pccc-electric.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"doi-hoc-sinh-gia-lai-doat-giai-vuot-kho-tai-san-choi-robotics","title":"Đội học sinh Gia Lai đoạt giải “Vượt Khó” tại sân chơi Robotics","category":"Vượt khó","date":"2026-02-06","author":"Gia Lai Số News","excerpt":"Giải thưởng không chỉ ghi nhận kết quả kỹ thuật mà còn là câu chuyện về cách một đội học sinh vượt qua khó khăn trong thi đấu.","content":"Các sân chơi khoa học - kỹ thuật ngày càng tạo cơ hội để học sinh rèn tư duy, kỹ năng làm việc nhóm và khả năng giải quyết vấn đề.\n\nViệc một đội tuyển học sinh Gia Lai được trao giải “Vượt Khó” tại cuộc thi Robotics cho thấy thành tích không chỉ được đo bằng thứ hạng cuối cùng, mà còn ở cách các em xử lý sự cố, kiên trì hoàn thiện sản phẩm và phối hợp với nhau.\n\nNhững câu chuyện như vậy phù hợp để khuyến khích học sinh tiếp cận STEM bằng tinh thần học hỏi thay vì chỉ chạy theo giải thưởng.","featured":false,"image":"https://images.pexels.com/photos/33985331/pexels-photo-33985331.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Báo Gia Lai","url":"https://baogialai.com.vn/gia-lai-hoc-sinh-truong-thcs-nguyen-du-doat-giai-vuot-kho-tai-vex-robotics-competition-post579163.html"}],"status":"published"},{"id":"tu-kiem-tra-an-toan-pccc-tai-tiem-tap-hoa-cua-hang-dan-sinh","title":"Tự kiểm tra an toàn PCCC tại tiệm tạp hóa, cửa hàng dân sinh","category":"PCCC","date":"2026-07-14","author":"Công an xã Ia Ko","excerpt":"Công an xã Ia Ko hướng dẫn các cửa hàng dân sinh tự rà soát nguồn điện, cách sắp xếp hàng hóa, bình chữa cháy và lối thoát nạn ngay trong quá trình kinh doanh hằng ngày.","content":"Tiệm tạp hóa và cửa hàng dân sinh thường chứa nhiều nhóm hàng dễ cháy như giấy, nhựa, vải, bao bì và hàng tiêu dùng. Nếu hàng hóa sắp xếp quá dày, sát thiết bị điện hoặc che chắn lối ra, nguy cơ cháy lan và khó thoát nạn sẽ tăng. Công an xã Ia Ko khuyến cáo các hộ kinh doanh chủ động thực hiện tự kiểm tra PCCC như một công việc thường xuyên.\n\nTrước hết, cần kiểm tra dây điện, ổ cắm, bảng điện, thiết bị làm lạnh, quạt và các thiết bị sử dụng liên tục; không câu móc điện tùy tiện hoặc dùng ổ cắm quá tải. Hàng hóa cần được sắp xếp gọn, chừa lối đi, không che cầu dao điện và không đặt sát khu vực thờ cúng, bếp hoặc nguồn nhiệt.\n\nCông an xã Ia Ko đề nghị bình chữa cháy được đặt gần lối ra, dễ thấy và dễ lấy; người trong cửa hàng phải biết thao tác sử dụng cơ bản. Cửa chính và lối thoát không được khóa theo cách gây khó mở từ bên trong. Cuối ngày cần tắt các thiết bị không cần thiết và kiểm tra lại toàn bộ khu vực trước khi đóng cửa.\n\nTự kiểm tra không phải là việc phức tạp. Chỉ cần hình thành thói quen quan sát nguồn điện, nguồn lửa, hàng hóa, bình chữa cháy và lối thoát mỗi ngày, các hộ kinh doanh đã có thể loại trừ nhiều nguy cơ trước khi chúng trở thành sự cố.","featured":false,"image":"images/pccc/img02.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"khong-sac-thiet-bi-qua-dem-trong-phong-kin-gan-vat-de-chay","title":"Không sạc thiết bị qua đêm trong phòng kín, gần vật dễ cháy","category":"PCCC","date":"2026-07-21","author":"Công an xã Ia Ko","excerpt":"Điện thoại, pin dự phòng, xe đạp điện và các thiết bị dùng pin cần được sạc ở vị trí thông thoáng, có người kiểm soát. Công an xã Ia Ko khuyến cáo không sạc kéo dài qua đêm cạnh giường ngủ hoặc vật dễ cháy.","content":"Các thiết bị sử dụng pin sạc ngày càng phổ biến trong sinh hoạt. Nếu pin, bộ sạc hoặc dây dẫn không bảo đảm chất lượng, bị va đập, phồng rộp hoặc sạc trong điều kiện tản nhiệt kém thì nguy cơ phát nhiệt và cháy có thể tăng. Công an xã Ia Ko khuyến cáo người dân không chủ quan khi sạc điện thoại, pin dự phòng, xe đạp điện và các thiết bị dùng pin trong nhà.\n\nNên sử dụng bộ sạc phù hợp với thiết bị, đặt trên bề mặt khó cháy, thông thoáng và tránh xa chăn, nệm, rèm, giấy hoặc hàng hóa. Không phủ kín thiết bị khi đang sạc; không tiếp tục sử dụng pin có dấu hiệu phồng, nóng bất thường, nứt vỏ hoặc có mùi lạ. Hạn chế sạc kéo dài qua đêm hoặc sạc tại vị trí chắn lối thoát.\n\nĐối với hộ gia đình kết hợp kinh doanh, Công an xã Ia Ko lưu ý không tập trung nhiều thiết bị sạc tại một ổ cắm hoặc khu vực chứa hàng. Nếu cần sạc xe điện, nên bố trí vị trí riêng, có kiểm soát, bảo đảm đường dây và thiết bị bảo vệ phù hợp với công suất sử dụng.\n\nKhi phát hiện thiết bị bốc khói hoặc cháy, cần nhanh chóng báo động, ngắt nguồn điện nếu thực hiện được an toàn và gọi 114. Không dùng tay trần tiếp xúc với pin đang nóng hoặc cố di chuyển thiết bị khi có nguy cơ nổ. Chủ động sử dụng thiết bị đúng cách là biện pháp quan trọng để ngăn sự cố ngay từ đầu.","featured":false,"image":"images/covers/pccc-electric.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"moi-gia-dinh-o-ia-ko-can-duy-tri-loi-thoat-nan-va-phuong-tien-chua-chay-ban-dau","title":"Mỗi gia đình ở Ia Ko cần duy trì lối thoát nạn và phương tiện chữa cháy ban đầu","category":"PCCC","date":"2026-07-29","author":"Công an xã Ia Ko","excerpt":"Công an xã Ia Ko khuyến cáo mỗi hộ gia đình chủ động kiểm tra lối thoát, vị trí cầu dao điện, bình chữa cháy và thống nhất phương án xử lý khi có cháy.","content":"Phòng cháy tại hộ gia đình hiệu quả nhất khi các biện pháp an toàn trở thành thói quen hằng ngày. Công an xã Ia Ko khuyến cáo mỗi gia đình chủ động rà soát lối thoát nạn, nguồn điện, khu vực đun nấu và phương tiện chữa cháy ban đầu, thay vì chỉ quan tâm khi có đợt kiểm tra hoặc khi đã xảy ra sự cố ở nơi khác.\n\nCửa ra vào và lối đi trong nhà cần được giữ thông thoáng, không chất đồ đạc, xe cộ hoặc hàng hóa gây cản trở. Các thành viên trong gia đình nên biết vị trí cầu dao, aptomat và cách ngắt điện khi cần thiết. Bình chữa cháy cần đặt ở nơi dễ thấy, dễ lấy; nếu gia đình có nhiều tầng hoặc diện tích lớn thì nên tính toán vị trí phương tiện để có thể tiếp cận nhanh.\n\nCông an xã Ia Ko cũng khuyến khích các gia đình trao đổi trước phương án thoát nạn: ai hỗ trợ trẻ nhỏ, người cao tuổi; lối nào sẽ sử dụng nếu cửa chính có khói; điểm tập kết sau khi ra ngoài ở đâu. Những nội dung này càng đơn giản, dễ nhớ thì càng có ích khi xảy ra tình huống khẩn cấp.\n\nKhi phát hiện cháy, phải hô hoán để mọi người biết, ưu tiên thoát người ra ngoài, gọi 114 và chỉ sử dụng phương tiện chữa cháy ban đầu khi còn bảo đảm an toàn. Mỗi hộ dân chủ động một bước sẽ góp phần xây dựng khu dân cư an toàn hơn về PCCC trên địa bàn xã Ia Ko.","featured":false,"image":"images/pccc/img01.jpg","gallery":[],"partner":null,"sources":[{"name":"Cục Cảnh sát PCCC và CNCH","url":"https://canhsatpccc.gov.vn/"},{"name":"Bộ Công an","url":"https://bocongan.gov.vn/"}],"status":"published"},{"id":"nhung-hoc-sinh-kho-khan-van-ben-bi-giu-uoc-mo-hoc-tap","title":"Những học sinh khó khăn vẫn bền bỉ giữ ước mơ học tập","category":"Vượt khó","date":"2025-11-20","author":"Gia Lai Số News","excerpt":"Hoàn cảnh khác nhau nhưng nhiều học sinh có chung một điểm: không bỏ cuộc trước khó khăn.","content":"Những chương trình học bổng dành cho học sinh có hoàn cảnh khó khăn giúp nhìn thấy một thực tế: nghị lực cá nhân cần đi cùng cơ hội và sự hỗ trợ phù hợp.\n\nMột suất học bổng có thể giúp giảm bớt chi phí học tập, nhưng giá trị lâu dài nằm ở việc các em cảm nhận được rằng nỗ lực của mình được nhìn nhận.\n\nKhi viết về người vượt khó, cách kể nên tập trung vào hành trình, lựa chọn và mục tiêu của nhân vật, tránh biến hoàn cảnh khó khăn thành yếu tố câu kéo cảm xúc.","featured":false,"image":"https://images.pexels.com/photos/35565132/pexels-photo-35565132.jpeg?auto=compress&cs=tinysrgb&w=1200","gallery":[],"partner":null,"sources":[{"name":"Báo Gia Lai","url":"https://cdn.baogialai.com.vn/files/1d5bcac7f44e7d6a62b237529fada32ad04947506b4a2e5f8e91d8c2ce0829b1f76caecf566fb4a6f7edd6975e36ffbcef81dc42881c0a9e6042ad132792de9c45a638367afab902f8a107cc3c8ae968/bao-gia-lai-so-thu-ba-ngay-18-11-2025-thaylai.pdf"}],"status":"published"}];
+window.SEED_POSTS = [
+  {
+    "id": "canh-giac-thu-doan-gia-danh-cong-an-goi-dien-yeu-cau-chuyen-tien",
+    "title": "Cảnh giác thủ đoạn giả danh Công an gọi điện yêu cầu chuyển tiền",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-24",
+    "author": "Gia Lai Số News",
+    "excerpt": "Các đối tượng thường lợi dụng tâm lý lo sợ để đe dọa, yêu cầu nạn nhân cung cấp thông tin cá nhân hoặc chuyển tiền.",
+    "content": "Điểm chung của nhiều thủ đoạn hiện nay là tạo cảm giác gấp gáp để nạn nhân không kịp kiểm tra. Các đối tượng thường lợi dụng tâm lý lo sợ để đe dọa, yêu cầu nạn nhân cung cấp thông tin cá nhân hoặc chuyển tiền.\n\nỞ tình huống “Cảnh giác thủ đoạn giả danh Công an gọi điện yêu cầu chuyển tiền”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Không làm việc qua điện thoại theo yêu cầu chuyển tiền, không cung cấp mã otp và chủ động cúp máy để xác minh lại. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5935792/pexels-photo-5935792.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "kinh-te-toan-cau-tiep-tuc-dieu-chinh-truoc-ap-luc-lam-phat-va-lai-suat",
+    "title": "Kinh tế toàn cầu tiếp tục điều chỉnh trước áp lực lạm phát và lãi suất",
+    "category": "Tin thế giới",
+    "date": "2026-10-24",
+    "author": "Gia Lai Số News",
+    "excerpt": "Nhiều nền kinh tế đang tìm cách cân bằng giữa mục tiêu kiểm soát lạm phát và thúc đẩy tăng trưởng.",
+    "content": "Thế giới đang thay đổi theo nhiều hướng cùng lúc, từ kinh tế, công nghệ tới an ninh và ngoại giao. Nhiều nền kinh tế đang tìm cách cân bằng giữa mục tiêu kiểm soát lạm phát và thúc đẩy tăng trưởng.\n\nTừ chủ đề “Kinh tế toàn cầu tiếp tục điều chỉnh trước áp lực lạm phát và lãi suất” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Sự dịch chuyển của dòng vốn, xu hướng lãi suất và ảnh hưởng của giá hàng hóa cơ bản. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/36652833/pexels-photo-36652833.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "khi-nao-hanh-vi-dua-tin-sai-su-that-tren-mang-bi-xu-phat",
+    "title": "Khi nào hành vi đưa tin sai sự thật trên mạng bị xử phạt?",
+    "category": "Pháp luật",
+    "date": "2026-10-23",
+    "author": "Gia Lai Số News",
+    "excerpt": "Không ít người chia sẻ thông tin chưa kiểm chứng mà không lường hết hậu quả pháp lý có thể phát sinh.",
+    "content": "Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Không ít người chia sẻ thông tin chưa kiểm chứng mà không lường hết hậu quả pháp lý có thể phát sinh.\n\nVới câu chuyện “Khi nào hành vi đưa tin sai sự thật trên mạng bị xử phạt?”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Kiểm chứng nguồn tin trước khi đăng tải, không cắt ghép sai bản chất sự việc và ý thức về trách nhiệm khi bình luận, chia sẻ nội dung công khai. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "su-dung-vneid-dung-cach-de-thuan-tien-khi-giao-dich-va-lam-thu-tuc",
+    "title": "Sử dụng VNeID đúng cách để thuận tiện khi giao dịch và làm thủ tục",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-22",
+    "author": "Gia Lai Số News",
+    "excerpt": "VNeID đang trở thành công cụ quen thuộc trong nhiều hoạt động của người dân, từ xác thực thông tin đến tiếp cận dịch vụ số.",
+    "content": "Công nghệ chỉ thực sự tiện khi người dùng hiểu cách dùng và biết tự bảo vệ mình. VNeID đang trở thành công cụ quen thuộc trong nhiều hoạt động của người dân, từ xác thực thông tin đến tiếp cận dịch vụ số.\n\nVới nội dung “Sử dụng VNeID đúng cách để thuận tiện khi giao dịch và làm thủ tục”, người dùng không cần học quá nhiều thao tác cùng lúc. Cập nhật thông tin chính xác, bảo vệ tài khoản và chỉ đăng nhập trên thiết bị tin cậy. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/12935064/pexels-photo-12935064.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "xu-huong-bao-ho-cong-nghe-khien-chuoi-cung-ung-the-gioi-them-phan-manh",
+    "title": "Xu hướng bảo hộ công nghệ khiến chuỗi cung ứng thế giới thêm phân mảnh",
+    "category": "Tin thế giới",
+    "date": "2026-10-21",
+    "author": "Gia Lai Số News",
+    "excerpt": "Những chính sách hỗ trợ sản xuất trong nước và kiểm soát công nghệ nhạy cảm đang định hình lại chuỗi cung ứng toàn cầu.",
+    "content": "Thế giới đang thay đổi theo nhiều hướng cùng lúc, từ kinh tế, công nghệ tới an ninh và ngoại giao. Những chính sách hỗ trợ sản xuất trong nước và kiểm soát công nghệ nhạy cảm đang định hình lại chuỗi cung ứng toàn cầu.\n\nTừ chủ đề “Xu hướng bảo hộ công nghệ khiến chuỗi cung ứng thế giới thêm phân mảnh” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Việc dịch chuyển đầu tư, tự chủ công nghệ và tác động với thương mại quốc tế. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/36652829/pexels-photo-36652829.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "mao-danh-shipper-bao-don-hang-loi-de-chiem-doat-tai-san",
+    "title": "Mạo danh shipper báo đơn hàng lỗi để chiếm đoạt tài sản",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-20",
+    "author": "Gia Lai Số News",
+    "excerpt": "Chiêu trò nhắm vào người thường xuyên mua sắm online, lợi dụng sự vội vàng khi nhận hàng.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Chiêu trò nhắm vào người thường xuyên mua sắm online, lợi dụng sự vội vàng khi nhận hàng.\n\nỞ tình huống “Mạo danh shipper báo đơn hàng lỗi để chiếm đoạt tài sản”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Kiểm tra ứng dụng chính thức, gọi lại tổng đài hoặc người bán và tuyệt đối không bấm vào đường link lạ. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5926392/pexels-photo-5926392.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "luat-can-cuoc-va-nhung-tien-ich-nguoi-dan-nen-biet",
+    "title": "Luật Căn cước và những tiện ích người dân nên biết",
+    "category": "Pháp luật",
+    "date": "2026-10-18",
+    "author": "Gia Lai Số News",
+    "excerpt": "Những thay đổi trong quản lý căn cước hướng tới thuận tiện hơn cho người dân khi thực hiện thủ tục hành chính.",
+    "content": "Một chút hiểu biết đúng lúc có thể giúp tránh được cả vi phạm lẫn tranh chấp không đáng có. Những thay đổi trong quản lý căn cước hướng tới thuận tiện hơn cho người dân khi thực hiện thủ tục hành chính.\n\nVới câu chuyện “Luật Căn cước và những tiện ích người dân nên biết”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Cập nhật thông tin chính xác, theo dõi hướng dẫn chính thống và khai thác các tiện ích điện tử theo đúng quy định. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ngoai-giao-con-thoi-duoc-ky-vong-ha-nhiet-nhieu-diem-nong-khu-vuc",
+    "title": "Ngoại giao con thoi được kỳ vọng hạ nhiệt nhiều điểm nóng khu vực",
+    "category": "Tin thế giới",
+    "date": "2026-10-17",
+    "author": "Gia Lai Số News",
+    "excerpt": "Trong bối cảnh căng thẳng tại nhiều khu vực, ngoại giao vẫn được xem là kênh quan trọng để ngăn xung đột leo thang.",
+    "content": "Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Trong bối cảnh căng thẳng tại nhiều khu vực, ngoại giao vẫn được xem là kênh quan trọng để ngăn xung đột leo thang.\n\nTừ chủ đề “Ngoại giao con thoi được kỳ vọng hạ nhiệt nhiều điểm nóng khu vực” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Những tín hiệu đối thoại, vai trò trung gian và lợi ích đan xen giữa các bên liên quan. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/30685850/pexels-photo-30685850.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nhat-duoc-tien-chu-dong-giao-cong-an-tim-nguoi-danh-roi-mot-viec-nho-lan-toa-su-tu-te",
+    "title": "Nhặt được tiền, chủ động giao Công an tìm người đánh rơi: một việc nhỏ lan tỏa sự tử tế",
+    "category": "Gương sáng",
+    "date": "2026-10-17",
+    "author": "Gia Lai Số News",
+    "excerpt": "Những hành động trung thực trong đời sống thường ngày luôn có sức lan tỏa lớn hơn giá trị vật chất của tài sản được trao trả.",
+    "content": "Từ những câu chuyện người dân nhặt được tiền, ví hoặc tài sản rồi chủ động tìm cách trả lại người mất, điều đáng quý nhất là sự lựa chọn rất tự nhiên: không giữ của rơi làm của riêng.\n\nỞ nhiều địa phương của Gia Lai, người dân sau khi nhặt được tài sản đã mang đến cơ quan Công an nhờ xác minh chủ sở hữu. Quy trình tưởng đơn giản nhưng lại cho thấy tinh thần trách nhiệm với cộng đồng và sự tin tưởng vào lực lượng cơ sở.\n\nNhững việc làm như vậy không cần lời lẽ lớn lao. Khi được chia sẻ đúng mực, chúng trở thành những câu chuyện đẹp, giúp trẻ em và người trẻ hiểu rằng lòng trung thực bắt đầu từ cách ứng xử trong những tình huống rất đời thường.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Công an tỉnh Gia Lai - Người tốt việc tốt",
+        "url": "https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "5-thoi-quen-giup-tai-khoan-so-an-toan-hon-moi-ngay",
+    "title": "5 thói quen giúp tài khoản số an toàn hơn mỗi ngày",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-16",
+    "author": "Gia Lai Số News",
+    "excerpt": "An toàn số không chỉ là câu chuyện của chuyên gia mà bắt đầu từ những thói quen rất cơ bản của người dùng.",
+    "content": "Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. An toàn số không chỉ là câu chuyện của chuyên gia mà bắt đầu từ những thói quen rất cơ bản của người dùng.\n\nVới nội dung “5 thói quen giúp tài khoản số an toàn hơn mỗi ngày”, người dùng không cần học quá nhiều thao tác cùng lúc. Đặt mật khẩu mạnh, xác thực 2 lớp, kiểm tra đăng nhập và sao lưu dữ liệu định kỳ. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6969933/pexels-photo-6969933.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cong-an-xa-ia-ko-khuyen-cao-bao-dam-an-toan-pccc-trong-nhung-ngay-giap-tet",
+    "title": "Công an xã Ia Ko khuyến cáo bảo đảm an toàn PCCC trong những ngày giáp Tết",
+    "category": "PCCC",
+    "date": "2026-02-05",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Những ngày giáp Tết, nhu cầu sử dụng điện, đun nấu, thắp hương và tích trữ hàng hóa tăng cao. Công an xã Ia Ko khuyến cáo người dân chủ động loại trừ nguy cơ cháy ngay từ trong mỗi gia đình.",
+    "content": "Những ngày giáp Tết, tại các hộ gia đình và cơ sở kinh doanh trên địa bàn xã Ia Ko, nhu cầu sử dụng điện, đun nấu, thắp hương, trang trí và dự trữ hàng hóa thường tăng hơn ngày thường. Đây cũng là thời điểm nguy cơ xảy ra cháy, nổ có thể gia tăng nếu người dân chủ quan hoặc sử dụng thiết bị điện, nguồn lửa, nguồn nhiệt không đúng cách. Công an xã Ia Ko đề nghị mỗi gia đình chủ động kiểm tra điều kiện an toàn PCCC trước khi bước vào kỳ nghỉ Tết.\n\nĐối với hệ thống điện, cần kiểm tra dây dẫn, ổ cắm, aptomat; không cắm nhiều thiết bị công suất lớn vào cùng một ổ điện; tắt thiết bị khi không sử dụng và không để dây điện tiếp xúc với vật dễ cháy. Khu vực thắp hương, đốt vàng mã phải có người trông coi, đặt xa rèm cửa, giấy, vải, hàng hóa và các vật liệu dễ bắt lửa. Khi đun nấu, không rời khỏi bếp trong thời gian dài và cần khóa van bình gas sau khi sử dụng.\n\nCông an xã Ia Ko cũng khuyến cáo các hộ gia đình, hộ kinh doanh duy trì lối đi, cửa ra vào và lối thoát nạn luôn thông thoáng; không khóa, chèn hoặc chất hàng hóa chắn đường thoát. Bình chữa cháy xách tay cần đặt ở vị trí dễ thấy, dễ lấy, đồng thời các thành viên trong gia đình nên biết cách sử dụng và biết vị trí cầu dao điện để xử lý khi có sự cố.\n\nKhi phát hiện cháy, cần nhanh chóng hô hoán, báo động cho mọi người, ngắt nguồn điện nếu bảo đảm an toàn, gọi số 114 và ưu tiên đưa người ra khỏi khu vực nguy hiểm. Chủ động phòng cháy từ những việc nhỏ là cách thiết thực nhất để mỗi gia đình trên địa bàn xã Ia Ko đón Tết an toàn, bình yên.",
+    "featured": false,
+    "image": "images/covers/pccc-family.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "tuyen-cong-tac-vien-chot-don-online-bay-lua-dao-van-tai-dien",
+    "title": "Tuyển cộng tác viên chốt đơn online: bẫy lừa đảo vẫn tái diễn",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-14",
+    "author": "Gia Lai Số News",
+    "excerpt": "Hứa hẹn thu nhập nhanh, việc nhẹ là cách nhiều đối tượng dẫn dụ người dùng tham gia chuyển tiền từng bước.",
+    "content": "Kẻ gian thường không cần thủ đoạn quá phức tạp nếu đánh trúng tâm lý chủ quan hoặc lo sợ. Hứa hẹn thu nhập nhanh, việc nhẹ là cách nhiều đối tượng dẫn dụ người dùng tham gia chuyển tiền từng bước.\n\nỞ tình huống “Tuyển cộng tác viên chốt đơn online: bẫy lừa đảo vẫn tái diễn”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Cảnh giác với yêu cầu chuyển tiền trước, kiểm tra pháp lý đơn vị tuyển dụng và tham khảo người có kinh nghiệm. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5935791/pexels-photo-5935791.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "gia-lai-tang-cuong-hiep-dong-cong-an-quan-su-trong-bao-dam-an-ninh-quoc-phong",
+    "title": "Gia Lai tăng cường hiệp đồng Công an - Quân sự trong bảo đảm an ninh, quốc phòng",
+    "category": "An ninh - Quốc phòng",
+    "date": "2026-10-13",
+    "author": "Gia Lai Số News",
+    "excerpt": "Sự phối hợp giữa các lực lượng giúp nắm tình hình sớm, xử lý vụ việc từ cơ sở và củng cố thế trận an ninh - quốc phòng.",
+    "content": "Trong bảo đảm an ninh, quốc phòng ở địa phương, hiệu quả không chỉ đến từ từng lực lượng riêng lẻ mà phụ thuộc nhiều vào cơ chế phối hợp và chia sẻ thông tin.\n\nTại Gia Lai, các hoạt động giao ban, hiệp đồng giữa Công an và Quân sự được duy trì để cùng đánh giá tình hình, chuẩn bị phương án và xử lý các vấn đề phát sinh.\n\nĐiểm đáng chú ý là cách tiếp cận từ sớm, từ cơ sở: nắm địa bàn, phối hợp tuyên truyền và hạn chế để những vấn đề nhỏ phát triển thành tình huống phức tạp.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/37360199/pexels-photo-37360199.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/vi/news/hoat-dong-ca-cac-don-vi-dia-phuong/tang-cuong-hiep-dong-cong-an-quan-su-giu-vung-an-ninh-quoc-phong-tren-dia-ban-tinh-gia-lai-quy-i-202-10418.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "trach-nhiem-cua-gia-dinh-trong-phong-chong-bao-luc-hoc-duong",
+    "title": "Trách nhiệm của gia đình trong phòng, chống bạo lực học đường",
+    "category": "Pháp luật",
+    "date": "2026-10-12",
+    "author": "Gia Lai Số News",
+    "excerpt": "Nhà trường, gia đình và xã hội đều có vai trò quan trọng trong việc ngăn ngừa hành vi bạo lực trong lứa tuổi học sinh.",
+    "content": "Pháp luật gần với đời sống hơn nhiều so với cảm giác “chỉ có trong văn bản”. Nhà trường, gia đình và xã hội đều có vai trò quan trọng trong việc ngăn ngừa hành vi bạo lực trong lứa tuổi học sinh.\n\nVới câu chuyện “Trách nhiệm của gia đình trong phòng, chống bạo lực học đường”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Quan tâm tâm lý của con em, phối hợp với giáo viên, hướng dẫn kỹ năng giải quyết mâu thuẫn và không cổ vũ hành vi bạo lực. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "thi-truong-nang-luong-bien-dong-khi-nhieu-nuoc-tang-du-tru-chien-luoc",
+    "title": "Thị trường năng lượng biến động khi nhiều nước tăng dự trữ chiến lược",
+    "category": "Tin thế giới",
+    "date": "2026-10-10",
+    "author": "Gia Lai Số News",
+    "excerpt": "Giá năng lượng thế giới chịu tác động đồng thời từ địa chính trị, thời tiết cực đoan và chiến lược cung ứng của các nhà sản xuất lớn.",
+    "content": "Một diễn biến ở bên ngoài khu vực đôi khi vẫn tác động nhanh tới giá cả, chuỗi cung ứng và tâm lý thị trường. Giá năng lượng thế giới chịu tác động đồng thời từ địa chính trị, thời tiết cực đoan và chiến lược cung ứng của các nhà sản xuất lớn.\n\nTừ chủ đề “Thị trường năng lượng biến động khi nhiều nước tăng dự trữ chiến lược” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Vai trò của dự trữ chiến lược, chi phí vận chuyển và tâm lý thị trường. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/13433785/pexels-photo-13433785.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ia-ko-chu-dong-phong-ngua-chay-do-thap-huong-dun-nau-va-su-dung-dien-dip-tet",
+    "title": "Ia Ko: Chủ động phòng ngừa cháy do thắp hương, đun nấu và sử dụng điện dịp Tết",
+    "category": "PCCC",
+    "date": "2026-02-12",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Công an xã Ia Ko lưu ý người dân quản lý chặt nguồn lửa, nguồn nhiệt, thiết bị điện và khu vực thờ cúng để hạn chế nguy cơ cháy trong dịp Tết.",
+    "content": "Dịp Tết là thời điểm các gia đình sử dụng bếp, thiết bị điện, đèn trang trí và khu vực thờ cúng với tần suất cao. Chỉ một sơ suất nhỏ như quên tắt bếp, để vật dễ cháy gần nơi thắp hương hoặc sử dụng ổ cắm quá tải cũng có thể dẫn đến sự cố. Vì vậy, Công an xã Ia Ko đề nghị người dân nâng cao ý thức tự phòng ngừa, không để nguy cơ cháy tồn tại ngay trong nhà.\n\nTại khu vực thờ cúng, bát hương và đèn thờ cần đặt chắc chắn, cách xa trần, vách, rèm hoặc vật liệu dễ cháy; không đốt vàng mã trong nhà hoặc nơi có nhiều hàng hóa. Khi rời khỏi nhà, người dân cần kiểm tra lại bếp, khóa van gas, tắt các thiết bị điện không cần thiết. Đối với dây điện cũ, ổ cắm lỏng, thiết bị có dấu hiệu nóng bất thường, cần ngừng sử dụng và sửa chữa kịp thời.\n\nCông an xã Ia Ko đặc biệt lưu ý các hộ vừa ở vừa kinh doanh không bố trí hàng hóa bịt kín cửa ra vào, cầu thang hoặc lối thoát. Hàng hóa dễ cháy cần sắp xếp gọn, cách xa nguồn nhiệt và thiết bị điện; bình chữa cháy phải còn sử dụng được và đặt ở vị trí thuận lợi để xử lý ngay khi đám cháy mới phát sinh.\n\nMỗi gia đình nên thống nhất trước cách thoát nạn, vị trí tập kết an toàn và người hỗ trợ trẻ nhỏ, người cao tuổi nếu xảy ra sự cố. Khi cháy vượt quá khả năng xử lý ban đầu, phải nhanh chóng rời khỏi khu vực nguy hiểm, gọi 114 và cung cấp địa chỉ, đặc điểm đám cháy rõ ràng để lực lượng chức năng tiếp cận nhanh nhất.",
+    "featured": false,
+    "image": "images/covers/pccc-gas.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "dich-vu-cong-truc-tuyen-lam-sao-de-nguoi-dan-thay-de-dung-hon",
+    "title": "Dịch vụ công trực tuyến: làm sao để người dân thấy dễ dùng hơn?",
+    "category": "Chuyển đổi số",
+    "date": "2026-10-05",
+    "author": "Gia Lai Số News",
+    "excerpt": "Nhiều người quan tâm đến dịch vụ công trực tuyến nhưng vẫn ngại thao tác vì sợ rườm rà hoặc sai sót.",
+    "content": "Công nghệ chỉ thực sự tiện khi người dùng hiểu cách dùng và biết tự bảo vệ mình. Nhiều người quan tâm đến dịch vụ công trực tuyến nhưng vẫn ngại thao tác vì sợ rườm rà hoặc sai sót.\n\nVới nội dung “Dịch vụ công trực tuyến: làm sao để người dân thấy dễ dùng hơn?”, người dùng không cần học quá nhiều thao tác cùng lúc. Chuẩn bị giấy tờ điện tử rõ ràng, đọc kỹ hướng dẫn và lưu mã hồ sơ để theo dõi kết quả. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nhan-dien-chieu-tro-lam-gia-man-hinh-chuyen-khoan-de-lua-mua-hang",
+    "title": "Nhận diện chiêu trò làm giả màn hình chuyển khoản để lừa mua hàng",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-10-03",
+    "author": "Gia Lai Số News",
+    "excerpt": "Thủ đoạn làm giả biên lai hoặc ảnh chụp giao dịch ngân hàng gây thiệt hại cho nhiều chủ cửa hàng và người bán online.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Thủ đoạn làm giả biên lai hoặc ảnh chụp giao dịch ngân hàng gây thiệt hại cho nhiều chủ cửa hàng và người bán online.\n\nỞ tình huống “Nhận diện chiêu trò làm giả màn hình chuyển khoản để lừa mua hàng”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Chỉ giao hàng sau khi tiền thực sự vào tài khoản và ưu tiên dùng phương thức thanh toán có xác nhận rõ ràng. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5926384/pexels-photo-5926384.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ai-tao-sinh-buoc-vao-giai-doan-canh-tranh-ve-ung-dung-thuc-te",
+    "title": "AI tạo sinh bước vào giai đoạn cạnh tranh về ứng dụng thực tế",
+    "category": "Tin thế giới",
+    "date": "2026-09-29",
+    "author": "Gia Lai Số News",
+    "excerpt": "Không chỉ chạy đua mô hình lớn, các doanh nghiệp công nghệ đang tập trung hơn vào hiệu quả ứng dụng AI trong sản xuất và dịch vụ.",
+    "content": "Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Không chỉ chạy đua mô hình lớn, các doanh nghiệp công nghệ đang tập trung hơn vào hiệu quả ứng dụng AI trong sản xuất và dịch vụ.\n\nTừ chủ đề “AI tạo sinh bước vào giai đoạn cạnh tranh về ứng dụng thực tế” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Bài toán tiết kiệm chi phí, nâng năng suất và quản trị rủi ro đạo đức, dữ liệu. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/31859523/pexels-photo-31859523.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "hoc-sinh-nhat-duoc-cua-roi-tim-cach-tra-lai-nguoi-mat",
+    "title": "Học sinh nhặt được của rơi, tìm cách trả lại người mất",
+    "category": "Gương sáng",
+    "date": "2026-09-28",
+    "author": "Gia Lai Số News",
+    "excerpt": "Một hành động đẹp của học sinh có thể trở thành bài học sống động về lòng trung thực và trách nhiệm.",
+    "content": "Ở lứa tuổi học sinh, những câu chuyện nhặt được tài sản rồi chủ động báo người lớn hoặc cơ quan chức năng có ý nghĩa giáo dục rất rõ ràng.\n\nThay vì xem đây là việc hiếm gặp, điều quan trọng là tạo môi trường để các em biết mình nên làm gì khi gặp tình huống tương tự: giữ nguyên tài sản, tìm người có trách nhiệm hỗ trợ và tuyệt đối không tự ý sử dụng.\n\nKhi một việc tốt được ghi nhận, cách tuyên truyền phù hợp là nêu bật hành động, không tô vẽ quá mức. Chính sự giản dị ấy làm cho câu chuyện dễ được tin và dễ lan tỏa.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6647178/pexels-photo-6647178.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/guong-nguoi-tot-viec-tot-nhat-duoc-tai-san-tra-lai-cho-nguoi-danh-roi-10825.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "canh-bao-thu-doan-gia-mao-ngan-hang-de-nghi-cap-nhat-sinh-trac-hoc",
+    "title": "Cảnh báo thủ đoạn giả mạo ngân hàng đề nghị cập nhật sinh trắc học",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-09-27",
+    "author": "Gia Lai Số News",
+    "excerpt": "Tin nhắn, cuộc gọi và website giả mạo ngân hàng đang được dùng để chiếm đoạt tài khoản của khách hàng.",
+    "content": "Kẻ gian thường không cần thủ đoạn quá phức tạp nếu đánh trúng tâm lý chủ quan hoặc lo sợ. Tin nhắn, cuộc gọi và website giả mạo ngân hàng đang được dùng để chiếm đoạt tài khoản của khách hàng.\n\nỞ tình huống “Cảnh báo thủ đoạn giả mạo ngân hàng đề nghị cập nhật sinh trắc học”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Không đăng nhập theo link lạ, gọi tổng đài chính thức khi có nghi ngờ và kích hoạt bảo mật cho tài khoản. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5483240/pexels-photo-5483240.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "sau-tet-cong-an-xa-ia-ko-nhac-nguoi-dan-kiem-tra-lai-he-thong-dien-va-bep-gas",
+    "title": "Sau Tết, Công an xã Ia Ko nhắc người dân kiểm tra lại hệ thống điện và bếp gas",
+    "category": "PCCC",
+    "date": "2026-02-26",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Sau thời gian nghỉ Tết, việc kiểm tra lại dây dẫn điện, thiết bị sinh nhiệt, bếp gas và khu vực đun nấu giúp phát hiện sớm nguy cơ mất an toàn PCCC.",
+    "content": "Sau kỳ nghỉ Tết, nhiều gia đình và cơ sở kinh doanh trên địa bàn xã Ia Ko trở lại sinh hoạt, sản xuất với tần suất sử dụng điện và thiết bị đun nấu cao. Công an xã Ia Ko khuyến cáo người dân dành thời gian kiểm tra lại hệ thống điện, bếp gas và các thiết bị sinh nhiệt trước khi sử dụng thường xuyên, nhất là những thiết bị đã cũ hoặc hoạt động liên tục trong dịp Tết.\n\nNgười dân cần quan sát các dấu hiệu như ổ cắm cháy sém, dây điện nứt vỏ, phích cắm lỏng, aptomat thường xuyên nhảy hoặc thiết bị phát nhiệt bất thường. Không tự nối dây điện tùy tiện, không kéo dây qua khu vực ẩm ướt và không sử dụng một ổ cắm cho quá nhiều thiết bị công suất lớn. Với bếp gas, cần kiểm tra van, dây dẫn, khớp nối và khóa van bình sau khi nấu.\n\nĐối với hộ kinh doanh, Công an xã Ia Ko đề nghị kết hợp việc kiểm tra điện với sắp xếp lại hàng hóa, bảo đảm khoảng cách an toàn với nguồn lửa, nguồn nhiệt; giữ cửa ra vào và lối thoát nạn không bị che chắn. Bình chữa cháy cần được kiểm tra tình trạng niêm phong, đồng hồ áp suất hoặc khối lượng theo loại bình để bảo đảm có thể sử dụng khi cần.\n\nViệc tự kiểm tra định kỳ không mất nhiều thời gian nhưng có ý nghĩa quan trọng trong phòng ngừa sự cố. Phát hiện sớm một ổ cắm hư hỏng, một đoạn dây điện quá tải hoặc một khớp nối gas không bảo đảm có thể giúp ngăn chặn nguy cơ cháy, nổ ngay từ đầu.",
+    "featured": false,
+    "image": "images/covers/pccc-electric.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cong-an-xa-ia-ko-huong-dan-kiem-tra-su-dung-binh-chua-chay-xach-tay",
+    "title": "Công an xã Ia Ko hướng dẫn kiểm tra, sử dụng bình chữa cháy xách tay",
+    "category": "PCCC",
+    "date": "2026-03-05",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Bình chữa cháy chỉ phát huy tác dụng khi còn sử dụng tốt, được đặt đúng chỗ và người dân biết thao tác. Công an xã Ia Ko hướng dẫn một số nội dung cơ bản để sử dụng hiệu quả phương tiện này.",
+    "content": "Bình chữa cháy xách tay là phương tiện chữa cháy ban đầu phổ biến tại hộ gia đình và cơ sở kinh doanh. Tuy nhiên, thực tế cho thấy có trường hợp đã trang bị bình nhưng để khuất, khó lấy, lâu ngày không kiểm tra hoặc người sử dụng chưa nắm được thao tác. Qua công tác tuyên truyền PCCC tại địa bàn, Công an xã Ia Ko thường xuyên hướng dẫn người dân kiểm tra và sử dụng phương tiện này đúng cách.\n\nBình chữa cháy cần đặt tại vị trí dễ thấy, dễ lấy, gần lối ra nhưng không để sát nguồn nhiệt, nơi ẩm ướt hoặc bị hàng hóa che khuất. Người dân cần quan sát tình trạng vỏ bình, chốt kẹp, vòi phun và tem nhãn; đối với bình có đồng hồ áp suất, kim chỉ phải nằm trong vùng cho phép. Khi phát hiện bình bị rò rỉ, han gỉ, mất chốt hoặc quá thời hạn kiểm tra thì cần liên hệ đơn vị có chức năng để kiểm tra, nạp sạc hoặc thay thế.\n\nKhi sử dụng, cần nhanh chóng mang bình đến vị trí an toàn, giữ khoảng cách phù hợp, rút chốt an toàn, hướng vòi phun vào gốc lửa rồi bóp van và quét đều. Người chữa cháy phải đứng ở vị trí có đường rút lui, tránh để khói, nhiệt bao vây và không mạo hiểm nếu đám cháy đã phát triển lớn.\n\nCông an xã Ia Ko khuyến cáo mỗi gia đình, hộ kinh doanh không chỉ trang bị bình chữa cháy để đáp ứng yêu cầu mà cần bảo đảm phương tiện thật sự sử dụng được. Việc các thành viên trong nhà đều biết vị trí đặt bình và thao tác cơ bản sẽ giúp xử lý hiệu quả hơn trong những phút đầu khi xảy ra cháy.",
+    "featured": false,
+    "image": "images/pccc/img01.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "thanh-toan-khong-tien-mat-o-nong-thon-tien-nhung-phai-an-toan",
+    "title": "Thanh toán không tiền mặt ở nông thôn: tiện nhưng phải an toàn",
+    "category": "Chuyển đổi số",
+    "date": "2026-09-24",
+    "author": "Gia Lai Số News",
+    "excerpt": "Từ cửa hàng nhỏ đến chợ dân sinh, thanh toán số đang dần phổ biến nhưng người dùng vẫn cần đề cao cảnh giác.",
+    "content": "Công nghệ chỉ thực sự tiện khi người dùng hiểu cách dùng và biết tự bảo vệ mình. Từ cửa hàng nhỏ đến chợ dân sinh, thanh toán số đang dần phổ biến nhưng người dùng vẫn cần đề cao cảnh giác.\n\nVới nội dung “Thanh toán không tiền mặt ở nông thôn: tiện nhưng phải an toàn”, người dùng không cần học quá nhiều thao tác cùng lúc. Kiểm tra tên người nhận, nội dung giao dịch và không quét mã qr không rõ nguồn gốc. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/7621140/pexels-photo-7621140.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "khong-de-hang-hoa-che-chan-loi-thoat-nan-tai-cua-hang-ho-kinh-doanh",
+    "title": "Không để hàng hóa che chắn lối thoát nạn tại cửa hàng, hộ kinh doanh",
+    "category": "PCCC",
+    "date": "2026-03-16",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Qua tuyên truyền, hướng dẫn tại địa bàn, Công an xã Ia Ko nhắc các hộ kinh doanh sắp xếp hàng hóa gọn gàng, không bịt kín cửa ra vào và lối thoát nạn.",
+    "content": "Tại các cửa hàng, tiệm tạp hóa và hộ gia đình kết hợp kinh doanh, hàng hóa thường được tận dụng sắp xếp ở nhiều vị trí để tiết kiệm diện tích. Nếu bố trí không hợp lý, hàng hóa có thể che khuất thiết bị điện, phương tiện chữa cháy hoặc làm thu hẹp lối thoát. Công an xã Ia Ko khuyến cáo các hộ kinh doanh trên địa bàn thường xuyên rà soát, sắp xếp lại không gian để bảo đảm an toàn PCCC.\n\nCửa ra vào, hành lang, cầu thang và các lối có thể sử dụng để thoát nạn phải được giữ thông thoáng. Không xếp hàng hóa sát nguồn điện, thiết bị sinh nhiệt hoặc khu vực thờ cúng; không dùng dây điện tạm bợ luồn qua đống hàng. Những mặt hàng dễ cháy cần được bố trí riêng, có khoảng cách an toàn và hạn chế tích trữ vượt quá nhu cầu thực tế.\n\nCông an xã Ia Ko cũng đề nghị các hộ kinh doanh đặt bình chữa cháy ở vị trí dễ tiếp cận, không để phía sau quầy, trong kho kín hoặc bị vật dụng che chắn. Người trực tiếp bán hàng và các thành viên trong gia đình cần biết vị trí ngắt điện, cách báo động, cách gọi 114 và đường thoát ra ngoài khi có sự cố.\n\nMột cửa hàng gọn gàng không chỉ thuận tiện cho kinh doanh mà còn giảm nguy cơ cháy lan và tạo điều kiện thoát nạn nhanh hơn. Việc dành vài phút cuối ngày để kiểm tra nguồn điện, bếp, khu vực chứa hàng và lối thoát là thói quen thiết thực mà Công an xã Ia Ko khuyến khích các hộ duy trì thường xuyên.",
+    "featured": false,
+    "image": "images/pccc/img02.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "giu-vung-an-ninh-hang-khong-bao-dam-an-toan-cho-hanh-khach",
+    "title": "Giữ vững an ninh hàng không, bảo đảm an toàn cho hành khách",
+    "category": "An ninh - Quốc phòng",
+    "date": "2026-09-20",
+    "author": "Gia Lai Số News",
+    "excerpt": "An ninh hàng không là một mắt xích quan trọng để hoạt động đi lại tại sân bay được duy trì an toàn, thông suốt.",
+    "content": "Bảo đảm an ninh hàng không là công việc ít khi được hành khách chú ý đầy đủ bởi phần lớn nhiệm vụ diễn ra phía sau quy trình kiểm soát thông thường.\n\nTại Cảng hàng không Pleiku, lực lượng chức năng phải kết hợp kiểm soát con người, hành lý, khu vực hạn chế và xử lý tình huống để vừa bảo đảm an toàn vừa tránh gây cản trở không cần thiết cho hành khách.\n\nMột hệ thống an ninh hiệu quả thường là hệ thống mà người dân cảm thấy thủ tục rõ ràng, trật tự và ít phát sinh bất tiện.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/37360195/pexels-photo-37360195.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/vi/news/hoat-dong-ca-cac-don-vi-dia-phuong/gia-lai-giu-vung-an-ninh-hang-khong-bao-dam-an-toan-cho-nguoi-dan-14723.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "mua-hang-online-gia-re-bat-thuong-rui-ro-mat-tien-va-lo-du-lieu",
+    "title": "Mua hàng online giá rẻ bất thường: rủi ro mất tiền và lộ dữ liệu",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-09-19",
+    "author": "Gia Lai Số News",
+    "excerpt": "Tâm lý ham rẻ và sợ bỏ lỡ cơ hội khiến nhiều người dễ sa vào các trang bán hàng không rõ nguồn gốc.",
+    "content": "Kẻ gian thường không cần thủ đoạn quá phức tạp nếu đánh trúng tâm lý chủ quan hoặc lo sợ. Tâm lý ham rẻ và sợ bỏ lỡ cơ hội khiến nhiều người dễ sa vào các trang bán hàng không rõ nguồn gốc.\n\nỞ tình huống “Mua hàng online giá rẻ bất thường: rủi ro mất tiền và lộ dữ liệu”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Ưu tiên sàn thương mại điện tử uy tín, kiểm tra đánh giá thật và không thanh toán toàn bộ cho người bán không rõ danh tính. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5483248/pexels-photo-5483248.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "phoi-hop-tuyen-truyen-phap-luat-phong-chong-bao-luc-hoc-duong-va-ky-nang-pccc-cho-hoc-sinh",
+    "title": "Phối hợp tuyên truyền pháp luật, phòng chống bạo lực học đường và kỹ năng PCCC cho học sinh THPT",
+    "category": "Pháp luật",
+    "date": "2026-09-18",
+    "author": "Gia Lai Số News",
+    "excerpt": "Bài viết phối hợp tuyên truyền hướng tới việc trang bị kiến thức pháp luật, kỹ năng ứng xử lành mạnh và an toàn PCCC cho học sinh.",
+    "content": "Một chút hiểu biết đúng lúc có thể giúp tránh được cả vi phạm lẫn tranh chấp không đáng có. Bài viết phối hợp tuyên truyền hướng tới việc trang bị kiến thức pháp luật, kỹ năng ứng xử lành mạnh và an toàn PCCC cho học sinh.\n\nVới câu chuyện “Phối hợp tuyên truyền pháp luật, phòng chống bạo lực học đường và kỹ năng PCCC cho học sinh THPT”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Cách ứng xử khi mâu thuẫn, trách nhiệm khi đăng tải thông tin trên mạng và kỹ năng cơ bản để bảo vệ bản thân khi xảy ra cháy. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "images/pccc/img05.jpg",
+    "gallery": [],
+    "partner": "Công an xã Ia Ko",
+    "sources": [
+      {
+        "name": "Bài tham khảo từ Cổng thông tin Sở GD&ĐT Gia Lai",
+        "url": "https://sgddt.gialai.gov.vn/tin-tuc-su-kien/cong-an-xa-ia-ko-tuyen-truyen-phap-luat-phong-chong-bao-luc-hoc-duong-va-ky-nang-phong-chay-chua-chay-tai-truong-thpt-so.html"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "thuong-mai-dien-tu-xuyen-bien-gioi-tiep-tuc-mo-rong-o-chau-a",
+    "title": "Thương mại điện tử xuyên biên giới tiếp tục mở rộng ở châu Á",
+    "category": "Tin thế giới",
+    "date": "2026-09-18",
+    "author": "Gia Lai Số News",
+    "excerpt": "Khu vực châu Á vẫn là thị trường sôi động của thương mại điện tử nhờ dân số trẻ và tốc độ số hóa cao.",
+    "content": "Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Khu vực châu Á vẫn là thị trường sôi động của thương mại điện tử nhờ dân số trẻ và tốc độ số hóa cao.\n\nTừ chủ đề “Thương mại điện tử xuyên biên giới tiếp tục mở rộng ở châu Á” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Sự phát triển của hạ tầng số, thanh toán xuyên biên giới và tiêu chuẩn giao hàng. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/27390611/pexels-photo-27390611.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nha-o-ket-hop-kinh-doanh-can-bo-tri-loi-thoat-nan-an-toan",
+    "title": "Nhà ở kết hợp kinh doanh: cần bố trí lối thoát nạn an toàn",
+    "category": "PCCC",
+    "date": "2026-03-27",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Công an xã Ia Ko khuyến cáo các hộ vừa ở vừa kinh doanh phải đặc biệt quan tâm lối thoát nạn, không để hàng hóa và vật dụng biến khu vực sinh hoạt thành không gian kín nguy hiểm khi có cháy.",
+    "content": "Nhà ở kết hợp sản xuất, kinh doanh có đặc điểm vừa là nơi sinh hoạt của gia đình vừa chứa hàng hóa, thiết bị và nguồn điện phục vụ kinh doanh. Khi xảy ra cháy vào ban đêm hoặc lúc cửa chính bị lửa, khói bao phủ, nguy cơ mắc kẹt có thể rất lớn. Vì vậy, Công an xã Ia Ko khuyến cáo các hộ thuộc loại hình này phải chủ động tính toán lối thoát nạn ngay từ khi sắp xếp mặt bằng.\n\nCửa chính, cầu thang, ban công hoặc lối thoát phụ cần được duy trì thông thoáng, dễ mở từ bên trong. Không dùng lồng sắt, biển quảng cáo, hàng hóa hoặc vật dụng cố định bịt kín toàn bộ mặt thoáng. Trường hợp nhà có nhiều tầng, các thành viên cần biết ít nhất một phương án thoát thay thế khi lối đi chính không sử dụng được.\n\nBên cạnh lối thoát, Công an xã Ia Ko đề nghị tách khu vực để hàng khỏi nơi sinh hoạt, nguồn điện và nguồn nhiệt; không sạc nhiều thiết bị qua đêm trong khu vực chứa hàng. Bình chữa cháy, dụng cụ phá dỡ đơn giản và đèn chiếu sáng sự cố nên được bố trí ở nơi dễ lấy. Các thành viên trong nhà cần thống nhất cách báo động và hỗ trợ trẻ nhỏ, người cao tuổi.\n\nKhi có cháy, điều quan trọng nhất là phát hiện sớm và thoát ra ngoài an toàn. Không quay lại khu vực cháy để lấy tài sản. Nếu lối thoát có nhiều khói, cần cúi thấp người, dùng khăn hoặc vải che mũi miệng trong lúc di chuyển và gọi 114 ngay khi có thể.",
+    "featured": false,
+    "image": "images/covers/pccc-family.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "dung-cung-cap-anh-can-cuoc-va-video-khuon-mat-cho-nguon-khong-ro-rang",
+    "title": "Đừng cung cấp ảnh căn cước và video khuôn mặt cho nguồn không rõ ràng",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-09-11",
+    "author": "Gia Lai Số News",
+    "excerpt": "Nhiều thủ đoạn lừa đảo hiện nay tìm cách thu thập dữ liệu định danh để mở tài khoản, vay tiền hoặc thực hiện hành vi trái pháp luật.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Nhiều thủ đoạn lừa đảo hiện nay tìm cách thu thập dữ liệu định danh để mở tài khoản, vay tiền hoặc thực hiện hành vi trái pháp luật.\n\nỞ tình huống “Đừng cung cấp ảnh căn cước và video khuôn mặt cho nguồn không rõ ràng”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Chỉ cung cấp giấy tờ cho tổ chức có thẩm quyền, che bớt thông tin không cần thiết và kiểm tra rõ mục đích thu thập. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5935792/pexels-photo-5935792.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "phu-huynh-can-huong-dan-gi-cho-con-khi-hoc-tap-tren-moi-truong-so",
+    "title": "Phụ huynh cần hướng dẫn gì cho con khi học tập trên môi trường số",
+    "category": "Chuyển đổi số",
+    "date": "2026-09-10",
+    "author": "Gia Lai Số News",
+    "excerpt": "Thiết bị thông minh hỗ trợ học tập tốt hơn, song trẻ em cần được định hướng để sử dụng an toàn và hiệu quả.",
+    "content": "Dịch vụ số ngày càng gần với sinh hoạt hằng ngày, kéo theo yêu cầu về kỹ năng và an toàn thông tin. Thiết bị thông minh hỗ trợ học tập tốt hơn, song trẻ em cần được định hướng để sử dụng an toàn và hiệu quả.\n\nVới nội dung “Phụ huynh cần hướng dẫn gì cho con khi học tập trên môi trường số”, người dùng không cần học quá nhiều thao tác cùng lúc. Thiết lập thời gian sử dụng hợp lý, kiểm soát ứng dụng và đồng hành cùng con trong quá trình học tập. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/193003/pexels-photo-193003.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cac-thanh-pho-lon-tren-the-gioi-thuc-day-giao-thong-xanh",
+    "title": "Các thành phố lớn trên thế giới thúc đẩy giao thông xanh",
+    "category": "Tin thế giới",
+    "date": "2026-09-08",
+    "author": "Gia Lai Số News",
+    "excerpt": "Nhiều đô thị đang ưu tiên xe điện, giao thông công cộng và không gian cho người đi bộ nhằm giảm phát thải.",
+    "content": "Một diễn biến ở bên ngoài khu vực đôi khi vẫn tác động nhanh tới giá cả, chuỗi cung ứng và tâm lý thị trường. Nhiều đô thị đang ưu tiên xe điện, giao thông công cộng và không gian cho người đi bộ nhằm giảm phát thải.\n\nTừ chủ đề “Các thành phố lớn trên thế giới thúc đẩy giao thông xanh” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Đầu tư hạ tầng sạc, kết nối phương tiện công cộng và thay đổi hành vi người dân. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/36652833/pexels-photo-36652833.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "chuyen-nham-gan-40-trieu-dong-va-cau-chuyen-ve-cach-ung-xu-tu-te",
+    "title": "Chuyển nhầm gần 40 triệu đồng và câu chuyện về cách ứng xử tử tế",
+    "category": "Gương sáng",
+    "date": "2026-09-08",
+    "author": "Gia Lai Số News",
+    "excerpt": "Khi tài khoản bất ngờ nhận một khoản tiền lớn từ người lạ, người nhận đã chủ động nhờ Công an xác minh để hoàn trả.",
+    "content": "Chuyển khoản nhầm là tình huống có thể xảy ra với bất kỳ ai. Khi một khoản tiền không rõ nguồn gốc xuất hiện trong tài khoản, cách xử lý an toàn là không vội sử dụng, không tự chuyển tiếp theo hướng dẫn của người lạ và chủ động liên hệ ngân hàng hoặc cơ quan chức năng.\n\nCâu chuyện một người dân ở Gia Lai nhận nhầm gần 40 triệu đồng rồi chủ động tìm cách hoàn trả cho thấy sự trung thực trong môi trường số cũng quan trọng như ngoài đời.\n\nĐây cũng là lời nhắc rằng người chuyển nhầm cần bình tĩnh, lưu chứng từ và làm việc qua kênh chính thống thay vì tìm cách gây áp lực hoặc tự thỏa thuận thiếu an toàn.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6994963/pexels-photo-6994963.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/nguoi-tot-viec-tot-nhan-duoc-gan-40-trieu-dong-chuyen-nham-nguoi-dan-chu-dong-tra-lai-14854.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nhung-dieu-hoc-sinh-can-nho-de-tranh-vi-pham-phap-luat-tren-mang",
+    "title": "Những điều học sinh cần nhớ để tránh vi phạm pháp luật trên mạng",
+    "category": "Pháp luật",
+    "date": "2026-09-06",
+    "author": "Gia Lai Số News",
+    "excerpt": "Môi trường số mở ra nhiều cơ hội học tập, nhưng cũng kéo theo không ít rủi ro nếu học sinh sử dụng thiếu hiểu biết.",
+    "content": "Một chút hiểu biết đúng lúc có thể giúp tránh được cả vi phạm lẫn tranh chấp không đáng có. Môi trường số mở ra nhiều cơ hội học tập, nhưng cũng kéo theo không ít rủi ro nếu học sinh sử dụng thiếu hiểu biết.\n\nVới câu chuyện “Những điều học sinh cần nhớ để tránh vi phạm pháp luật trên mạng”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Bảo vệ thông tin cá nhân, không xúc phạm người khác, không phát tán nội dung độc hại và biết tìm sự hỗ trợ khi bị bắt nạt trên mạng. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "bo-doi-bien-phong-ho-tro-truong-hoc-vung-bien-truoc-nam-hoc-moi",
+    "title": "Bộ đội Biên phòng hỗ trợ trường học vùng biên trước năm học mới",
+    "category": "An ninh - Quốc phòng",
+    "date": "2026-09-04",
+    "author": "Gia Lai Số News",
+    "excerpt": "Những phần việc chỉnh trang trường lớp ở vùng biên cho thấy nhiệm vụ quốc phòng luôn gắn với dân vận và đời sống cộng đồng.",
+    "content": "Ở khu vực biên giới, hình ảnh cán bộ, chiến sĩ hỗ trợ nhà trường chuẩn bị năm học mới phản ánh một phần công việc dân vận thường ngày của lực lượng Biên phòng.\n\nNhững hoạt động sửa sang trường lớp, hỗ trợ học sinh hay phối hợp với chính quyền cơ sở có ý nghĩa thiết thực bởi chúng tạo sự gắn kết giữa lực lượng làm nhiệm vụ với người dân.\n\nKhi truyền thông về quốc phòng - an ninh, những câu chuyện gần đời sống như vậy giúp bạn đọc hiểu rõ hơn khái niệm “thế trận lòng dân”.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/35171063/pexels-photo-35171063.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Gia Lai",
+        "url": "https://baogialai.com.vn/gia-lai-bo-doi-bien-phong-tich-cuc-ho-tro-cac-truong-vung-bien-chuan-bi-khai-giang-post596636.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "phong-ngua-trom-cap-tai-san-trong-mua-thu-hoach-ca-phe",
+    "title": "Phòng ngừa trộm cắp tài sản trong mùa thu hoạch cà phê",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-08-31",
+    "author": "Gia Lai Số News",
+    "excerpt": "Mùa vụ là thời điểm nhiều gia đình tập trung nông sản, phương tiện và vật tư nên nguy cơ trộm cắp thường tăng lên.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Mùa vụ là thời điểm nhiều gia đình tập trung nông sản, phương tiện và vật tư nên nguy cơ trộm cắp thường tăng lên.\n\nỞ tình huống “Phòng ngừa trộm cắp tài sản trong mùa thu hoạch cà phê”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Tăng cường khóa cửa, camera, đèn chiếu sáng, phân công trông coi và thông báo tổ an ninh khi có người lạ khả nghi. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5926392/pexels-photo-5926392.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "an-ninh-mang-tro-thanh-uu-tien-chien-luoc-cua-nhieu-quoc-gia",
+    "title": "An ninh mạng trở thành ưu tiên chiến lược của nhiều quốc gia",
+    "category": "Tin thế giới",
+    "date": "2026-08-31",
+    "author": "Gia Lai Số News",
+    "excerpt": "Tấn công mạng nhằm vào hạ tầng trọng yếu, doanh nghiệp và người dùng cá nhân tiếp tục gia tăng về quy mô và mức độ tinh vi.",
+    "content": "Thế giới đang thay đổi theo nhiều hướng cùng lúc, từ kinh tế, công nghệ tới an ninh và ngoại giao. Tấn công mạng nhằm vào hạ tầng trọng yếu, doanh nghiệp và người dùng cá nhân tiếp tục gia tăng về quy mô và mức độ tinh vi.\n\nTừ chủ đề “An ninh mạng trở thành ưu tiên chiến lược của nhiều quốc gia” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Việc đào tạo nhân lực số, chia sẻ dữ liệu cảnh báo và nâng chuẩn bảo mật. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/36652829/pexels-photo-36652829.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nu-sinh-jrai-vuot-kho-gianh-hoc-bong-toan-phan",
+    "title": "Nữ sinh Jrai vượt khó giành học bổng toàn phần",
+    "category": "Vượt khó",
+    "date": "2026-08-31",
+    "author": "Gia Lai Số News",
+    "excerpt": "Hoàn cảnh khó khăn không ngăn được một nữ sinh Jrai kiên trì học tập và theo đuổi cơ hội mới.",
+    "content": "Những câu chuyện vượt khó có sức thuyết phục nhất khi được kể bằng những chi tiết thật: hoàn cảnh gia đình, quãng đường học tập, sự hỗ trợ của thầy cô và nỗ lực từng ngày của chính nhân vật.\n\nTấm gương nữ sinh Jrai vượt khó giành học bổng cho thấy cơ hội có thể đến từ sự bền bỉ, nhưng phía sau đó thường là cả một mạng lưới hỗ trợ từ gia đình, nhà trường và cộng đồng.\n\nThay vì chỉ nhấn vào thành tích, điều đáng kể hơn là hành trình vượt qua trở ngại và cách nhân vật tiếp tục nuôi mục tiêu dài hạn.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/35869247/pexels-photo-35869247.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Gia Lai",
+        "url": "https://baogialai.com.vn/nu-sinh-jrai-vuot-kho-gianh-hoc-bong-toan-phan-cua-apc-gia-lai-post325953.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "quy-dinh-ve-giao-xe-cho-nguoi-chua-du-tuoi-dieu-khien",
+    "title": "Quy định về giao xe cho người chưa đủ tuổi điều khiển",
+    "category": "Pháp luật",
+    "date": "2026-08-29",
+    "author": "Gia Lai Số News",
+    "excerpt": "Không chỉ người trực tiếp điều khiển phương tiện, người giao xe trái quy định cũng có thể bị xử lý.",
+    "content": "Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Không chỉ người trực tiếp điều khiển phương tiện, người giao xe trái quy định cũng có thể bị xử lý.\n\nVới câu chuyện “Quy định về giao xe cho người chưa đủ tuổi điều khiển”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Kiểm tra giấy phép lái xe, độ tuổi, khả năng điều khiển và tuyệt đối không giao phương tiện cho người chưa đủ điều kiện. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/33740942/pexels-photo-33740942.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "hoc-bong-tiep-suc-hoc-sinh-sinh-vien-mo-coi-vuot-kho",
+    "title": "Học bổng tiếp sức học sinh, sinh viên mồ côi vượt khó",
+    "category": "Vượt khó",
+    "date": "2026-08-29",
+    "author": "Gia Lai Số News",
+    "excerpt": "Những suất học bổng dài hạn giúp người học có hoàn cảnh khó khăn thêm điều kiện theo đuổi việc học.",
+    "content": "Với học sinh, sinh viên mồ côi hoặc gia đình khó khăn, một suất học bổng không chỉ là khoản hỗ trợ tài chính mà còn là sự ghi nhận cho quá trình nỗ lực.\n\nCác chương trình hỗ trợ ở Gia Lai cho thấy hiệu quả rõ hơn khi nguồn lực được trao theo năm học, gắn với nhu cầu thực tế và theo dõi quá trình học tập.\n\nĐằng sau mỗi con số học bổng là một hành trình cá nhân. Những câu chuyện này cần được kể tôn trọng, tránh khai thác hoàn cảnh theo hướng bi lụy.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/35108631/pexels-photo-35108631.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Gia Lai",
+        "url": "https://baogialai.com.vn/gia-lai-trao-hoc-bong-cho-18-hoc-sinh-sinh-vien-mo-coi-vuot-kho-post596389.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "tai-khoan-dinh-danh-dien-tu-va-nhung-tien-ich-dang-chu-y-voi-nguoi-dan",
+    "title": "Tài khoản định danh điện tử và những tiện ích đáng chú ý với người dân",
+    "category": "Chuyển đổi số",
+    "date": "2026-08-28",
+    "author": "Gia Lai Số News",
+    "excerpt": "Từ xác thực thông tin đến sử dụng trong thủ tục hành chính, tài khoản định danh điện tử ngày càng mang lại nhiều tiện lợi.",
+    "content": "Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. Từ xác thực thông tin đến sử dụng trong thủ tục hành chính, tài khoản định danh điện tử ngày càng mang lại nhiều tiện lợi.\n\nVới nội dung “Tài khoản định danh điện tử và những tiện ích đáng chú ý với người dân”, người dùng không cần học quá nhiều thao tác cùng lúc. Giữ bí mật mã đăng nhập, cập nhật tài khoản và chủ động kiểm tra các thông báo chính thức. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/34353879/pexels-photo-34353879.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "trom-xe-may-truoc-cua-nha-cua-hang-dung-chu-quan-chi-vai-phut",
+    "title": "Trộm xe máy trước cửa nhà, cửa hàng: đừng chủ quan chỉ vài phút",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-08-23",
+    "author": "Gia Lai Số News",
+    "excerpt": "Không ít vụ mất xe xảy ra ngay trước cửa hàng hoặc trước sân nhà chỉ trong khoảng thời gian ngắn.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Không ít vụ mất xe xảy ra ngay trước cửa hàng hoặc trước sân nhà chỉ trong khoảng thời gian ngắn.\n\nỞ tình huống “Trộm xe máy trước cửa nhà, cửa hàng: đừng chủ quan chỉ vài phút”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Khóa nhiều lớp, để xe trong khu vực quan sát được và lắp thiết bị chống trộm nếu có điều kiện. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5935791/pexels-photo-5935791.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cac-muc-xu-phat-pho-bien-doi-voi-hanh-vi-uong-ruou-bia-roi-lai-xe",
+    "title": "Các mức xử phạt phổ biến đối với hành vi uống rượu bia rồi lái xe",
+    "category": "Pháp luật",
+    "date": "2026-08-21",
+    "author": "Gia Lai Số News",
+    "excerpt": "Đã sử dụng rượu bia thì không điều khiển phương tiện là nguyên tắc quan trọng để bảo đảm an toàn cho bản thân và cộng đồng.",
+    "content": "Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Đã sử dụng rượu bia thì không điều khiển phương tiện là nguyên tắc quan trọng để bảo đảm an toàn cho bản thân và cộng đồng.\n\nVới câu chuyện “Các mức xử phạt phổ biến đối với hành vi uống rượu bia rồi lái xe”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Không lái xe sau khi uống rượu bia, chủ động nhờ người chở hoặc sử dụng phương tiện thay thế. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "bien-doi-khi-hau-thuc-day-cac-nuoc-ra-soat-chien-luoc-thich-ung",
+    "title": "Biến đổi khí hậu thúc đẩy các nước rà soát chiến lược thích ứng",
+    "category": "Tin thế giới",
+    "date": "2026-08-20",
+    "author": "Gia Lai Số News",
+    "excerpt": "Mưa lớn cực đoan, nắng nóng kéo dài và thiên tai bất thường khiến nhiều quốc gia phải điều chỉnh kế hoạch phát triển.",
+    "content": "Các xu hướng toàn cầu ngày càng liên kết chặt, khó nhìn riêng từng vấn đề một cách tách biệt. Mưa lớn cực đoan, nắng nóng kéo dài và thiên tai bất thường khiến nhiều quốc gia phải điều chỉnh kế hoạch phát triển.\n\nTừ chủ đề “Biến đổi khí hậu thúc đẩy các nước rà soát chiến lược thích ứng” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Đầu tư hạ tầng chống chịu, cảnh báo sớm và chuyển đổi năng lượng. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/30685850/pexels-photo-30685850.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nang-nong-keo-dai-cong-an-xa-ia-ko-khuyen-cao-phong-chay-do-qua-tai-dien",
+    "title": "Nắng nóng kéo dài, Công an xã Ia Ko khuyến cáo phòng cháy do quá tải điện",
+    "category": "PCCC",
+    "date": "2026-04-07",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Thời tiết nắng nóng khiến nhu cầu sử dụng quạt, điều hòa, tủ lạnh và thiết bị điện tăng cao. Công an xã Ia Ko khuyến cáo người dân không chủ quan với nguy cơ quá tải, chập điện.",
+    "content": "Bước vào thời điểm nắng nóng, nhu cầu sử dụng các thiết bị làm mát và điện sinh hoạt tại hộ gia đình, cơ sở kinh doanh thường tăng mạnh. Nếu hệ thống dây dẫn cũ, tiết diện không phù hợp hoặc một ổ cắm phải cấp điện cho nhiều thiết bị công suất lớn, nguy cơ phát nhiệt, chập điện và cháy có thể xảy ra. Công an xã Ia Ko khuyến cáo người dân chủ động kiểm tra hệ thống điện, không chờ đến khi có dấu hiệu bất thường mới xử lý.\n\nMỗi gia đình nên bố trí aptomat phù hợp cho từng khu vực, hạn chế sử dụng ổ cắm nối dài chất lượng kém và không để dây điện bị đè, gấp hoặc chạy sát vật liệu dễ cháy. Khi thiết bị có mùi khét, phát tia lửa, ổ cắm nóng hoặc aptomat thường xuyên ngắt, cần dừng sử dụng để kiểm tra. Không tự ý đấu nối thêm thiết bị nếu chưa đánh giá khả năng chịu tải của đường dây.\n\nĐối với cơ sở kinh doanh, Công an xã Ia Ko lưu ý việc sử dụng quạt, tủ lạnh, máy bơm, biển hiệu và thiết bị điện liên tục trong nhiều giờ phải đi kèm kiểm tra định kỳ. Cuối ngày cần tắt các thiết bị không cần thiết, đặc biệt tại khu vực kho, nơi chứa nhiều giấy, vải, nhựa hoặc hàng hóa dễ cháy.\n\nPhòng cháy do điện bắt đầu từ việc sử dụng đúng công suất, đúng thiết bị bảo vệ và sửa chữa kịp thời khi phát hiện hư hỏng. Đây là nội dung mỗi hộ dân trên địa bàn xã Ia Ko có thể tự thực hiện hằng ngày để giảm nguy cơ xảy ra sự cố trong mùa nắng nóng.",
+    "featured": false,
+    "image": "images/covers/pccc-electric.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "luu-tru-giay-to-so-thuan-tien-nhung-dung-quen-sao-luu",
+    "title": "Lưu trữ giấy tờ số: thuận tiện nhưng đừng quên sao lưu",
+    "category": "Chuyển đổi số",
+    "date": "2026-08-19",
+    "author": "Gia Lai Số News",
+    "excerpt": "Tài liệu số giúp tìm kiếm nhanh, chia sẻ dễ hơn nhưng cũng cần được quản lý cẩn thận để tránh mất mát.",
+    "content": "Chuyển đổi số không nhất thiết bắt đầu bằng những khái niệm lớn; nhiều khi chỉ là một thao tác đúng trên điện thoại. Tài liệu số giúp tìm kiếm nhanh, chia sẻ dễ hơn nhưng cũng cần được quản lý cẩn thận để tránh mất mát.\n\nVới nội dung “Lưu trữ giấy tờ số: thuận tiện nhưng đừng quên sao lưu”, người dùng không cần học quá nhiều thao tác cùng lúc. Sao lưu lên nhiều nơi, đặt mật khẩu thiết bị và phân loại tài liệu khoa học. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/12935064/pexels-photo-12935064.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "dan-quan-tu-ve-va-vai-tro-giu-vung-the-tran-quoc-phong-toan-dan",
+    "title": "Dân quân tự vệ và vai trò giữ vững thế trận quốc phòng toàn dân",
+    "category": "An ninh - Quốc phòng",
+    "date": "2026-08-18",
+    "author": "Gia Lai Số News",
+    "excerpt": "Lực lượng dân quân tự vệ được xây dựng rộng khắp, gắn với địa bàn và yêu cầu sẵn sàng xử lý tình huống tại cơ sở.",
+    "content": "Dân quân tự vệ là lực lượng gắn chặt với địa bàn dân cư, cơ quan và tổ chức. Công tác huấn luyện vì vậy không chỉ chú trọng kỹ thuật mà còn đặt ra yêu cầu hiểu địa bàn và phối hợp với các lực lượng khác.\n\nCác hoạt động huấn luyện ở Gia Lai cho thấy việc xây dựng lực lượng vững mạnh cần đi cùng nền nếp, kỷ luật và khả năng xử lý các nhiệm vụ tại chỗ.\n\nTuyên truyền về quốc phòng toàn dân sẽ gần gũi hơn nếu giải thích rõ vai trò của từng lực lượng và mối liên hệ với đời sống của người dân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/31704528/pexels-photo-31704528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Gia Lai",
+        "url": "https://baogialai.com.vn/chinh-tri/quoc-phong-an-ninh/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "lua-dao-dau-tu-loi-nhuan-cao-tren-mang-xa-hoi-tiep-tuc-bien-tuong",
+    "title": "Lừa đảo đầu tư lợi nhuận cao trên mạng xã hội tiếp tục biến tướng",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-08-15",
+    "author": "Gia Lai Số News",
+    "excerpt": "Các lời mời đầu tư ngoại hối, tiền số, chứng khoán quốc tế với lợi nhuận cam kết cao tiềm ẩn nhiều rủi ro.",
+    "content": "Cảnh giác không có nghĩa là nghi ngờ mọi thứ, mà là biết dừng lại đúng lúc để kiểm tra. Các lời mời đầu tư ngoại hối, tiền số, chứng khoán quốc tế với lợi nhuận cam kết cao tiềm ẩn nhiều rủi ro.\n\nỞ tình huống “Lừa đảo đầu tư lợi nhuận cao trên mạng xã hội tiếp tục biến tướng”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Kiểm tra pháp lý nền tảng, cảnh giác với cam kết chắc thắng và không giao tiền cho người tư vấn qua mạng. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5926384/pexels-photo-5926384.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "gui-hang-qua-mang-can-luu-y-gi-de-khong-vi-pham-phap-luat",
+    "title": "Gửi hàng qua mạng, cần lưu ý gì để không vi phạm pháp luật",
+    "category": "Pháp luật",
+    "date": "2026-08-10",
+    "author": "Gia Lai Số News",
+    "excerpt": "Mua bán trực tuyến phát triển kéo theo nhiều rủi ro liên quan hàng hóa, thông tin người nhận và giao dịch thanh toán.",
+    "content": "Nhiều rắc rối pháp lý bắt đầu từ một việc tưởng nhỏ nhưng người trong cuộc lại không nắm rõ quy định. Mua bán trực tuyến phát triển kéo theo nhiều rủi ro liên quan hàng hóa, thông tin người nhận và giao dịch thanh toán.\n\nVới câu chuyện “Gửi hàng qua mạng, cần lưu ý gì để không vi phạm pháp luật”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Chọn đơn vị vận chuyển uy tín, lưu hóa đơn, không gửi hàng cấm và đọc kỹ chính sách đổi trả. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "thi-truong-lao-dong-toan-cau-thay-doi-truoc-lan-song-tu-dong-hoa",
+    "title": "Thị trường lao động toàn cầu thay đổi trước làn sóng tự động hóa",
+    "category": "Tin thế giới",
+    "date": "2026-08-09",
+    "author": "Gia Lai Số News",
+    "excerpt": "Tự động hóa và AI đang làm thay đổi cách doanh nghiệp tuyển dụng, đào tạo và sử dụng nhân lực.",
+    "content": "Một diễn biến ở bên ngoài khu vực đôi khi vẫn tác động nhanh tới giá cả, chuỗi cung ứng và tâm lý thị trường. Tự động hóa và AI đang làm thay đổi cách doanh nghiệp tuyển dụng, đào tạo và sử dụng nhân lực.\n\nTừ chủ đề “Thị trường lao động toàn cầu thay đổi trước làn sóng tự động hóa” có thể thấy các yếu tố kinh tế, công nghệ và chính sách ngày càng tác động lẫn nhau. Đào tạo lại lao động, học tập suốt đời và điều chỉnh chính sách an sinh. việc theo dõi các xu hướng này giúp bạn đọc có thêm góc nhìn tổng quan và dễ kết nối các chuyển động quốc tế với bối cảnh khu vực.\n\nKhi theo dõi tin quốc tế, nên tách phần sự kiện đã được xác nhận khỏi dự báo hoặc bình luận. Điều này đặc biệt quan trọng với những chủ đề có biến động nhanh như giá năng lượng, xung đột, chính sách tiền tệ hay công nghệ mới.\n\nVới các vấn đề quốc tế thay đổi nhanh, người đọc nên ưu tiên nguồn tin uy tín và theo dõi diễn biến mới trước khi đưa ra kết luận.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/13433785/pexels-photo-13433785.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cach-nhan-biet-website-gia-mao-cong-dich-vu-cong",
+    "title": "Cách nhận biết website giả mạo cổng dịch vụ công",
+    "category": "Chuyển đổi số",
+    "date": "2026-08-08",
+    "author": "Gia Lai Số News",
+    "excerpt": "Các website giả mạo thường dùng giao diện gần giống trang thật để lấy thông tin tài khoản hoặc yêu cầu nộp tiền.",
+    "content": "Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. Các website giả mạo thường dùng giao diện gần giống trang thật để lấy thông tin tài khoản hoặc yêu cầu nộp tiền.\n\nVới nội dung “Cách nhận biết website giả mạo cổng dịch vụ công”, người dùng không cần học quá nhiều thao tác cùng lúc. Gõ đúng tên miền, tránh truy cập từ đường link lạ và xác minh lại nếu thấy giao diện bất thường. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6969933/pexels-photo-6969933.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "canh-bao-ung-dung-gia-mao-co-quan-nha-nuoc-de-cai-ma-doc",
+    "title": "Cảnh báo ứng dụng giả mạo cơ quan nhà nước để cài mã độc",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-07-30",
+    "author": "Gia Lai Số News",
+    "excerpt": "Một số đối tượng gửi file hoặc đường link cài ứng dụng giả, sau đó chiếm quyền điều khiển điện thoại của nạn nhân.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Một số đối tượng gửi file hoặc đường link cài ứng dụng giả, sau đó chiếm quyền điều khiển điện thoại của nạn nhân.\n\nỞ tình huống “Cảnh báo ứng dụng giả mạo cơ quan nhà nước để cài mã độc”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Chỉ tải ứng dụng từ kho chính thức, không cấp quyền truy cập bất thường và cập nhật phần mềm thường xuyên. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5483240/pexels-photo-5483240.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "pho-bien-quy-dinh-ve-cu-tru-doi-voi-nguoi-di-lam-xa-thue-tro",
+    "title": "Phổ biến quy định về cư trú đối với người đi làm xa, thuê trọ",
+    "category": "Pháp luật",
+    "date": "2026-07-28",
+    "author": "Gia Lai Số News",
+    "excerpt": "Đăng ký cư trú đầy đủ không chỉ là nghĩa vụ mà còn giúp thuận tiện khi làm các thủ tục hành chính khác.",
+    "content": "Nhiều rắc rối pháp lý bắt đầu từ một việc tưởng nhỏ nhưng người trong cuộc lại không nắm rõ quy định. Đăng ký cư trú đầy đủ không chỉ là nghĩa vụ mà còn giúp thuận tiện khi làm các thủ tục hành chính khác.\n\nVới câu chuyện “Phổ biến quy định về cư trú đối với người đi làm xa, thuê trọ”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Thực hiện khai báo đúng thời hạn, giữ thông tin cá nhân chính xác và phối hợp với chủ hộ, chủ cơ sở lưu trú khi được yêu cầu. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "dung-xem-nhe-cap-nhat-phan-mem-cho-dien-thoai-va-may-tinh",
+    "title": "Đừng xem nhẹ cập nhật phần mềm cho điện thoại và máy tính",
+    "category": "Chuyển đổi số",
+    "date": "2026-07-26",
+    "author": "Gia Lai Số News",
+    "excerpt": "Những bản cập nhật định kỳ không chỉ thêm tính năng mà còn vá lỗi bảo mật quan trọng.",
+    "content": "Chuyển đổi số không nhất thiết bắt đầu bằng những khái niệm lớn; nhiều khi chỉ là một thao tác đúng trên điện thoại. Những bản cập nhật định kỳ không chỉ thêm tính năng mà còn vá lỗi bảo mật quan trọng.\n\nVới nội dung “Đừng xem nhẹ cập nhật phần mềm cho điện thoại và máy tính”, người dùng không cần học quá nhiều thao tác cùng lúc. Bật tự động cập nhật khi có thể và ưu tiên tải bản cập nhật từ nguồn chính hãng. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "phong-chay-tai-kho-noi-tap-ket-nong-san-tren-dia-ban-xa-ia-ko",
+    "title": "Phòng cháy tại kho, nơi tập kết nông sản trên địa bàn xã Ia Ko",
+    "category": "PCCC",
+    "date": "2026-04-17",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Nông sản khô, bao bì, vật liệu đóng gói và bụi dễ cháy có thể làm đám cháy phát triển nhanh. Công an xã Ia Ko khuyến cáo các hộ chú ý nguồn điện, nguồn nhiệt và khoảng cách an toàn tại khu vực kho.",
+    "content": "Tại địa bàn sản xuất nông nghiệp, khu vực chứa nông sản, bao bì, vật liệu đóng gói hoặc kho tạm thường có tải lượng chất cháy lớn. Chỉ một sự cố từ dây điện, thiết bị sinh nhiệt hoặc bất cẩn khi sử dụng lửa cũng có thể làm đám cháy lan nhanh. Công an xã Ia Ko khuyến cáo các hộ gia đình, cơ sở có khu vực kho chủ động kiểm tra điều kiện PCCC, nhất là trong thời điểm thu gom và bảo quản nông sản.\n\nHệ thống điện trong kho cần được lắp đặt gọn, có thiết bị bảo vệ phù hợp và không để mối nối điện tiếp xúc trực tiếp với bao bì, giấy, gỗ hoặc vật liệu khô. Không sử dụng bếp, đun nấu, hút thuốc hoặc để nguồn lửa trần trong khu vực chứa hàng. Hàng hóa nên được sắp xếp thành từng khu vực, chừa lối đi để kiểm tra và xử lý khi có sự cố.\n\nCông an xã Ia Ko đề nghị các hộ trang bị phương tiện chữa cháy ban đầu phù hợp, đặt gần lối ra và bảo đảm người thường xuyên làm việc tại kho biết sử dụng. Khu vực xung quanh kho cần được vệ sinh, thu gom rác, cỏ khô và vật liệu dễ cháy để hạn chế nguy cơ cháy lan từ bên ngoài.\n\nViệc quản lý chặt nguồn lửa, nguồn nhiệt và hệ thống điện tại kho không chỉ bảo vệ tài sản mà còn giúp bảo đảm an toàn cho khu dân cư xung quanh. Khi phát hiện cháy, cần báo động, gọi 114 và chỉ chữa cháy ban đầu khi còn bảo đảm đường thoát an toàn.",
+    "featured": false,
+    "image": "images/covers/pccc-market.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "lam-quen-qua-mang-ga-chuyen-qua-roi-yeu-cau-nop-phi-chieu-lua-cu-nhung-van-co-nan-nhan",
+    "title": "Làm quen qua mạng, gạ chuyển quà rồi yêu cầu nộp phí: chiêu lừa cũ nhưng vẫn có nạn nhân",
+    "category": "Cảnh báo ANTT",
+    "date": "2026-07-18",
+    "author": "Gia Lai Số News",
+    "excerpt": "Các đối tượng tạo vỏ bọc quen biết, tặng quà từ nước ngoài hoặc hứa hẹn tình cảm để thao túng tâm lý nạn nhân.",
+    "content": "Chỉ vài phút mất cảnh giác có thể dẫn tới mất tiền, mất tài khoản hoặc lộ thông tin cá nhân. Các đối tượng tạo vỏ bọc quen biết, tặng quà từ nước ngoài hoặc hứa hẹn tình cảm để thao túng tâm lý nạn nhân.\n\nỞ tình huống “Làm quen qua mạng, gạ chuyển quà rồi yêu cầu nộp phí: chiêu lừa cũ nhưng vẫn có nạn nhân”, dấu hiệu cần cảnh giác thường xuất hiện khá sớm. Giữ cảnh giác với mối quan hệ quá nhanh, không chuyển tiền cho người chưa gặp mặt và xác minh qua người thân. trong mọi tình huống, cần bình tĩnh xác minh, không chuyển tiền vội, không cung cấp mã otp, mật khẩu hay thông tin cá nhân cho người lạ.\n\nMột nguyên tắc đơn giản là tách mình ra khỏi nhịp thúc ép của đối tượng: dừng cuộc gọi, không bấm đường link, tự mở ứng dụng chính thức hoặc gọi lại số điện thoại công khai của cơ quan, ngân hàng, đơn vị dịch vụ. Với giao dịch tài sản, chỉ xác nhận khi tiền thực sự vào tài khoản và thông tin người nhận đã đúng.\n\nNếu thấy dấu hiệu bất thường, nên dừng giao dịch, lưu lại thông tin và chủ động liên hệ cơ quan chức năng hoặc đơn vị cung cấp dịch vụ qua kênh chính thức.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5483248/pexels-photo-5483248.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      },
+      {
+        "name": "Cổng thông tin Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "hoc-sinh-phu-huynh-can-biet-gi-ve-phao-no-va-phao-tu-che",
+    "title": "Học sinh, phụ huynh cần biết gì về pháo nổ và pháo tự chế",
+    "category": "Pháp luật",
+    "date": "2026-07-17",
+    "author": "Gia Lai Số News",
+    "excerpt": "Chỉ một phút tò mò hoặc thử làm pháo tự chế cũng có thể gây hậu quả nghiêm trọng về sức khỏe và pháp lý.",
+    "content": "Pháp luật gần với đời sống hơn nhiều so với cảm giác “chỉ có trong văn bản”. Chỉ một phút tò mò hoặc thử làm pháo tự chế cũng có thể gây hậu quả nghiêm trọng về sức khỏe và pháp lý.\n\nVới câu chuyện “Học sinh, phụ huynh cần biết gì về pháo nổ và pháo tự chế”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Không mua bán, tàng trữ, chế tạo pháo trái phép và kịp thời báo người lớn khi phát hiện hành vi liên quan. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/37726687/pexels-photo-37726687.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nguoi-dan-giao-nop-day-chuyen-vang-nhat-duoc-de-tim-chu-nhan",
+    "title": "Người dân giao nộp dây chuyền vàng nhặt được để tìm chủ nhân",
+    "category": "Gương sáng",
+    "date": "2026-07-15",
+    "author": "Gia Lai Số News",
+    "excerpt": "Một món đồ có giá trị được trao lại đúng người là minh chứng rõ nhất cho sự trung thực trong cộng đồng.",
+    "content": "Trong những câu chuyện người tốt, việc tốt, giá trị không nằm ở số tiền hay món tài sản lớn đến đâu mà ở lựa chọn của người nhặt được.\n\nKhi chủ động giao tài sản cho cơ quan Công an để xác minh người đánh rơi, người dân vừa bảo vệ quyền lợi của người mất, vừa tránh những tranh chấp không cần thiết.\n\nNhững câu chuyện giản dị như vậy phù hợp để lan tỏa trên một trang tin cộng đồng bởi chúng gần gũi, dễ kiểm chứng và tạo cảm giác tích cực mà không cần phô trương.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/11319521/pexels-photo-11319521.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Công an tỉnh Gia Lai",
+        "url": "https://congan.gialai.gov.vn/vi/news/nguoi-tot-viec-tot/guong-nguoi-tot-viec-tot-tra-lai-soi-day-chuyen-vang-cho-nguoi-danh-mat-12957.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nguoi-lon-tuoi-tiep-can-chuyen-doi-so-can-ho-tro-tu-nhung-viec-nho",
+    "title": "Người lớn tuổi tiếp cận chuyển đổi số: cần hỗ trợ từ những việc nhỏ",
+    "category": "Chuyển đổi số",
+    "date": "2026-07-11",
+    "author": "Gia Lai Số News",
+    "excerpt": "Để chuyển đổi số bao trùm, không thể bỏ quên nhóm người lớn tuổi vốn còn bỡ ngỡ với điện thoại thông minh và dịch vụ số.",
+    "content": "Dùng công cụ số tốt không chỉ giúp tiết kiệm thời gian mà còn giảm nhiều thao tác giấy tờ. Để chuyển đổi số bao trùm, không thể bỏ quên nhóm người lớn tuổi vốn còn bỡ ngỡ với điện thoại thông minh và dịch vụ số.\n\nVới nội dung “Người lớn tuổi tiếp cận chuyển đổi số: cần hỗ trợ từ những việc nhỏ”, người dùng không cần học quá nhiều thao tác cùng lúc. Hướng dẫn từng bước, ghi chú thao tác và thiết lập giao diện dễ nhìn trên thiết bị. đây là những thao tác rất gần với đời sống hằng ngày, giúp tiết kiệm thời gian, giảm giấy tờ và tăng khả năng tiếp cận dịch vụ công, thanh toán và thông tin chính thống.\n\nĐiều quan trọng là giữ thói quen nhất quán: dùng ứng dụng và website chính thức, cập nhật thiết bị, bật xác thực nhiều lớp nếu có, không gửi mật khẩu hay mã OTP cho người khác. Khi hỗ trợ người lớn tuổi hoặc trẻ em, nên hướng dẫn từng bước thay vì làm thay toàn bộ để họ có thể tự thực hiện lần sau.\n\nSự tiện lợi của môi trường số chỉ bền vững khi đi cùng thói quen kiểm tra thông tin và bảo vệ tài khoản cá nhân.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/7621140/pexels-photo-7621140.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Dịch vụ công quốc gia",
+        "url": "https://dichvucong.gov.vn/"
+      },
+      {
+        "name": "Ứng dụng VNeID",
+        "url": "https://vneid.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "to-giac-toi-pham-quyen-va-trach-nhiem-cua-cong-dan",
+    "title": "Tố giác tội phạm: quyền và trách nhiệm của công dân",
+    "category": "Pháp luật",
+    "date": "2026-07-06",
+    "author": "Gia Lai Số News",
+    "excerpt": "Sự chủ động của người dân có vai trò rất quan trọng trong việc phòng ngừa, phát hiện và đấu tranh với hành vi vi phạm pháp luật.",
+    "content": "Không phải quy định nào cũng khó hiểu nếu đặt vào đúng tình huống đời sống. Sự chủ động của người dân có vai trò rất quan trọng trong việc phòng ngừa, phát hiện và đấu tranh với hành vi vi phạm pháp luật.\n\nVới câu chuyện “Tố giác tội phạm: quyền và trách nhiệm của công dân”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Cung cấp thông tin trung thực, bảo vệ chứng cứ nếu có thể và liên hệ đúng cơ quan tiếp nhận tin báo. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "co-so-sua-chua-xe-may-can-chu-y-nguon-lua-xang-dau-va-he-thong-dien",
+    "title": "Cơ sở sửa chữa xe máy cần chú ý nguồn lửa, xăng dầu và hệ thống điện",
+    "category": "PCCC",
+    "date": "2026-04-28",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Công an xã Ia Ko lưu ý các cơ sở sửa chữa xe máy trên địa bàn quản lý chặt xăng dầu, giẻ lau dính dầu, thiết bị điện và các công việc có phát sinh tia lửa.",
+    "content": "Cơ sở sửa chữa xe máy thường có nhiều yếu tố nguy cơ như xăng, dầu, dung môi, giẻ lau dính dầu, bình ắc quy, thiết bị điện và các công việc có thể phát sinh tia lửa. Nếu mặt bằng chật, hàng hóa và phương tiện bố trí dày đặc thì khi xảy ra cháy, lửa có thể lan rất nhanh. Công an xã Ia Ko khuyến cáo các chủ cơ sở trên địa bàn duy trì việc tự kiểm tra an toàn PCCC trong quá trình hoạt động.\n\nXăng, dầu và dung môi phải được quản lý cẩn thận, không để gần nguồn nhiệt, khu vực hàn cắt hoặc nơi hút thuốc. Giẻ lau dính dầu cần thu gom vào dụng cụ phù hợp, không vứt thành đống cạnh thiết bị điện. Dây dẫn, ổ cắm, máy nén khí, máy sạc và các thiết bị sử dụng điện phải được kiểm tra thường xuyên, tránh tình trạng câu mắc tạm bợ.\n\nCông an xã Ia Ko đề nghị các cơ sở bố trí bình chữa cháy ở vị trí dễ quan sát, không bị xe máy, phụ tùng hoặc hàng hóa che khuất; đồng thời duy trì lối ra vào thông thoáng. Người làm việc tại cơ sở cần biết cách ngắt điện, xử lý tình huống rò rỉ nhiên liệu và sử dụng bình chữa cháy khi đám cháy còn nhỏ.\n\nCuối ngày làm việc nên kiểm tra lại nguồn điện, thu gom vật liệu dễ cháy và khóa khu vực chứa nhiên liệu. Những thao tác đơn giản nhưng thực hiện đều đặn sẽ giúp loại trừ nhiều nguy cơ và giảm thiệt hại nếu sự cố bất ngờ xảy ra.",
+    "featured": false,
+    "image": "images/pccc/img03.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "bao-ve-du-lieu-ca-nhan-tren-moi-truong-so-hieu-dung-de-lam-dung",
+    "title": "Bảo vệ dữ liệu cá nhân trên môi trường số: hiểu đúng để làm đúng",
+    "category": "Pháp luật",
+    "date": "2026-06-24",
+    "author": "Gia Lai Số News",
+    "excerpt": "Thông tin cá nhân ngày càng trở thành tài sản có giá trị và dễ bị khai thác nếu người dùng thiếu cảnh giác.",
+    "content": "Pháp luật gần với đời sống hơn nhiều so với cảm giác “chỉ có trong văn bản”. Thông tin cá nhân ngày càng trở thành tài sản có giá trị và dễ bị khai thác nếu người dùng thiếu cảnh giác.\n\nVới câu chuyện “Bảo vệ dữ liệu cá nhân trên môi trường số: hiểu đúng để làm đúng”, điều cần quan tâm trước hết là hiểu đúng bản chất của hành vi và hoàn cảnh xảy ra. Hạn chế công khai thông tin nhạy cảm, kiểm soát quyền truy cập ứng dụng và cảnh giác với yêu cầu cung cấp ảnh giấy tờ. người dân cần đọc kỹ quy định, phân biệt thông tin chính thống và chủ động tham khảo cơ quan chức năng khi phát sinh vướng mắc.\n\nTrong thực tế, người dân thường gặp khó ở chỗ nghe nhiều cách giải thích khác nhau trên mạng hoặc từ người quen. Cách an toàn hơn là lưu lại giấy tờ, chứng cứ liên quan; đọc văn bản hoặc hướng dẫn từ nguồn chính thống; đồng thời tránh tự suy diễn quy định theo kinh nghiệm cá nhân.\n\nKhi chưa chắc một quy định áp dụng thế nào cho trường hợp cụ thể, nên kiểm tra lại nguồn chính thống hoặc hỏi cơ quan có thẩm quyền thay vì làm theo lời truyền miệng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/33740942/pexels-photo-33740942.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cổng Thông tin điện tử Chính phủ",
+        "url": "https://xaydungchinhsach.chinhphu.vn/"
+      },
+      {
+        "name": "Bộ Tư pháp",
+        "url": "https://moj.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cong-an-xa-ia-ko-tuyen-truyen-ky-nang-bao-chay-goi-114-cho-hoc-sinh",
+    "title": "Công an xã Ia Ko tuyên truyền kỹ năng báo cháy, gọi 114 cho học sinh",
+    "category": "PCCC",
+    "date": "2026-05-08",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Trang bị cho học sinh kỹ năng nhận biết nguy cơ, báo động và gọi 114 là nội dung thiết thực trong công tác tuyên truyền PCCC tại trường học trên địa bàn xã Ia Ko.",
+    "content": "PCCC trong trường học không chỉ là trách nhiệm của nhà trường mà còn cần hình thành kỹ năng an toàn cho từng học sinh. Trong hoạt động tuyên truyền tại địa bàn, Công an xã Ia Ko chú trọng hướng dẫn học sinh cách nhận biết dấu hiệu nguy hiểm, báo động cho người xung quanh và gọi số 114 khi phát hiện cháy.\n\nKhi gọi 114, học sinh cần bình tĩnh nói rõ địa chỉ xảy ra cháy, khu vực đang cháy, có người mắc kẹt hay không và số điện thoại liên hệ. Sau khi báo tin, phải thực hiện theo hướng dẫn của người lớn và lực lượng chức năng, không tự ý quay lại nơi cháy để lấy đồ dùng. Nếu phát hiện khói, cần báo ngay cho giáo viên hoặc người có trách nhiệm thay vì tụ tập xem.\n\nCông an xã Ia Ko cũng hướng dẫn học sinh không nghịch lửa, không tự ý sử dụng ổ cắm, thiết bị điện hư hỏng; không đốt giấy, rác hoặc vật liệu dễ cháy trong khuôn viên trường và tại nhà. Những kỹ năng đơn giản này giúp các em hình thành phản xạ an toàn từ sớm, đồng thời có thể nhắc nhở người thân trong gia đình.\n\nTuyên truyền PCCC cho học sinh cần được thực hiện sinh động, gắn với tình huống cụ thể và thao tác thực tế. Khi hiểu vì sao phải thoát nạn đúng cách, vì sao không được trốn vào phòng kín hoặc quay lại lấy tài sản, các em sẽ chủ động hơn nếu chẳng may gặp sự cố.",
+    "featured": false,
+    "image": "images/pccc/img05.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "hoc-sinh-thuc-hanh-su-dung-binh-chua-chay-duoi-su-huong-dan-cua-cong-an-xa-ia-ko",
+    "title": "Học sinh thực hành sử dụng bình chữa cháy dưới sự hướng dẫn của Công an xã Ia Ko",
+    "category": "PCCC",
+    "date": "2026-05-18",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Từ lý thuyết đến thao tác thực tế, việc hướng dẫn học sinh sử dụng bình chữa cháy giúp các em hiểu rõ hơn nguyên tắc xử lý đám cháy ban đầu và giới hạn an toàn của bản thân.",
+    "content": "Một trong những cách nâng cao hiệu quả tuyên truyền PCCC là để người học trực tiếp quan sát và thực hành dưới sự hướng dẫn an toàn. Trong các hoạt động tuyên truyền dành cho học sinh, Công an xã Ia Ko chú trọng giới thiệu cấu tạo cơ bản của bình chữa cháy xách tay, cách kiểm tra và thao tác sử dụng khi đám cháy mới phát sinh.\n\nHọc sinh được hướng dẫn ghi nhớ trình tự cơ bản: xác định vị trí an toàn, rút chốt, hướng vòi phun vào gốc lửa, bóp van và quét đều. Tuy nhiên, Công an xã Ia Ko nhấn mạnh việc sử dụng bình chỉ phù hợp khi đám cháy còn nhỏ, người xử lý có đường thoát phía sau và không bị khói, nhiệt hoặc nguy cơ nổ đe dọa. Nếu tình huống vượt quá khả năng, phải ưu tiên thoát nạn và báo lực lượng chữa cháy.\n\nThông qua thực hành, học sinh cũng hiểu thêm rằng bình chữa cháy không phải vật dụng để nghịch thử. Việc rút chốt, bóp van tùy tiện có thể làm phương tiện mất tác dụng khi thật sự cần thiết. Tại gia đình, các em có thể cùng người thân kiểm tra vị trí đặt bình, lối thoát và số điện thoại 114.\n\nCông an xã Ia Ko xác định việc trang bị kỹ năng PCCC cho học sinh là một cách lan tỏa kiến thức an toàn về từng gia đình. Khi mỗi em biết phòng ngừa, biết báo động và biết thoát nạn đúng cách, hiệu quả tuyên truyền trong cộng đồng sẽ thiết thực hơn.",
+    "featured": false,
+    "image": "images/pccc/img04.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "trang-bi-ky-nang-thoat-nan-khi-co-khoi-khi-doc-cho-hoc-sinh",
+    "title": "Trang bị kỹ năng thoát nạn khi có khói, khí độc cho học sinh",
+    "category": "PCCC",
+    "date": "2026-05-28",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Khói và khí độc là nguy cơ lớn trong đám cháy. Công an xã Ia Ko hướng dẫn học sinh giữ bình tĩnh, di chuyển thấp người, bám theo lối thoát và tuyệt đối không quay lại lấy tài sản.",
+    "content": "Trong nhiều vụ cháy, khói và khí độc có thể gây nguy hiểm trước khi ngọn lửa tiếp cận. Vì vậy, kỹ năng thoát nạn trong môi trường có khói là nội dung quan trọng khi tuyên truyền PCCC cho học sinh. Công an xã Ia Ko khuyến cáo các em phải giữ bình tĩnh, quan sát lối ra và làm theo hướng dẫn của giáo viên, người lớn khi có sự cố.\n\nKhi khu vực có khói, cần hạ thấp người vì lớp không khí gần sàn thường dễ thở hơn; có thể dùng khăn hoặc vải che mũi, miệng trong lúc di chuyển. Trước khi mở cửa, cần thận trọng kiểm tra dấu hiệu nhiệt; nếu phía bên kia có lửa hoặc khói dày thì phải tìm hướng thoát khác. Không trốn trong nhà vệ sinh, gầm bàn, tủ kín và không chen lấn khi di chuyển.\n\nCông an xã Ia Ko nhấn mạnh nguyên tắc sau khi đã thoát ra nơi an toàn thì không quay trở lại khu vực cháy để lấy cặp sách, điện thoại hoặc tài sản. Học sinh cần đến điểm tập kết, thông báo cho giáo viên hoặc người phụ trách để kiểm đếm, đồng thời hỗ trợ cung cấp thông tin nếu biết có người còn mắc kẹt.\n\nViệc thực hành tình huống giả định giúp học sinh ghi nhớ tốt hơn so với chỉ nghe lý thuyết. Nhà trường và gia đình cũng nên thường xuyên nhắc lại đường thoát, vị trí an toàn và cách gọi 114 để các em hình thành phản xạ đúng khi gặp sự cố thực tế.",
+    "featured": false,
+    "image": "images/pccc/img06.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cong-an-xa-ia-ko-khuyen-cao-an-toan-dien-trong-mua-mua",
+    "title": "Công an xã Ia Ko khuyến cáo an toàn điện trong mùa mưa",
+    "category": "PCCC",
+    "date": "2026-07-07",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Mưa ẩm làm tăng nguy cơ rò điện, chập điện tại dây dẫn, ổ cắm và thiết bị đặt ngoài trời. Công an xã Ia Ko khuyến cáo người dân chủ động kiểm tra và xử lý các vị trí mất an toàn.",
+    "content": "Mùa mưa, độ ẩm cao và nước xâm nhập vào hệ thống điện có thể làm tăng nguy cơ rò điện, chập điện và cháy. Tại các hộ gia đình, cơ sở kinh doanh trên địa bàn, Công an xã Ia Ko khuyến cáo người dân chú ý kiểm tra các đường dây đi ngoài trời, ổ cắm thấp, thiết bị điện gần mái dột hoặc khu vực có khả năng ngập nước.\n\nKhông sử dụng thiết bị điện khi tay ướt hoặc đứng ở nền có nước. Những vị trí dây điện bị bong tróc, mối nối hở cần được sửa chữa, thay thế kịp thời; không dùng băng dính tạm bợ trong thời gian dài. Đối với thiết bị đặt ngoài hiên, biển quảng cáo, máy bơm và ổ cắm ngoài trời, cần có biện pháp che chắn phù hợp và thiết bị bảo vệ chống quá tải, rò điện.\n\nCông an xã Ia Ko cũng đề nghị các hộ chủ động ngắt nguồn điện tại khu vực bị nước tràn vào trước khi di chuyển đồ đạc hoặc xử lý sự cố. Khi phát hiện mùi khét, tia lửa hoặc thiết bị điện bất thường, không tiếp tục sử dụng và không tự xử lý nếu không có chuyên môn.\n\nBên cạnh việc phòng ngừa điện giật, kiểm soát tốt hệ thống điện trong mùa mưa còn là biện pháp quan trọng để phòng cháy. Mỗi gia đình nên duy trì bình chữa cháy ở vị trí thuận tiện và biết cách gọi 114 khi xảy ra sự cố vượt quá khả năng xử lý ban đầu.",
+    "featured": false,
+    "image": "images/covers/pccc-electric.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "doi-hoc-sinh-gia-lai-doat-giai-vuot-kho-tai-san-choi-robotics",
+    "title": "Đội học sinh Gia Lai đoạt giải “Vượt Khó” tại sân chơi Robotics",
+    "category": "Vượt khó",
+    "date": "2026-02-06",
+    "author": "Gia Lai Số News",
+    "excerpt": "Giải thưởng không chỉ ghi nhận kết quả kỹ thuật mà còn là câu chuyện về cách một đội học sinh vượt qua khó khăn trong thi đấu.",
+    "content": "Các sân chơi khoa học - kỹ thuật ngày càng tạo cơ hội để học sinh rèn tư duy, kỹ năng làm việc nhóm và khả năng giải quyết vấn đề.\n\nViệc một đội tuyển học sinh Gia Lai được trao giải “Vượt Khó” tại cuộc thi Robotics cho thấy thành tích không chỉ được đo bằng thứ hạng cuối cùng, mà còn ở cách các em xử lý sự cố, kiên trì hoàn thiện sản phẩm và phối hợp với nhau.\n\nNhững câu chuyện như vậy phù hợp để khuyến khích học sinh tiếp cận STEM bằng tinh thần học hỏi thay vì chỉ chạy theo giải thưởng.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/33985331/pexels-photo-33985331.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Gia Lai",
+        "url": "https://baogialai.com.vn/gia-lai-hoc-sinh-truong-thcs-nguyen-du-doat-giai-vuot-kho-tai-vex-robotics-competition-post579163.html"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "tu-kiem-tra-an-toan-pccc-tai-tiem-tap-hoa-cua-hang-dan-sinh",
+    "title": "Tự kiểm tra an toàn PCCC tại tiệm tạp hóa, cửa hàng dân sinh",
+    "category": "PCCC",
+    "date": "2026-07-14",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Công an xã Ia Ko hướng dẫn các cửa hàng dân sinh tự rà soát nguồn điện, cách sắp xếp hàng hóa, bình chữa cháy và lối thoát nạn ngay trong quá trình kinh doanh hằng ngày.",
+    "content": "Tiệm tạp hóa và cửa hàng dân sinh thường chứa nhiều nhóm hàng dễ cháy như giấy, nhựa, vải, bao bì và hàng tiêu dùng. Nếu hàng hóa sắp xếp quá dày, sát thiết bị điện hoặc che chắn lối ra, nguy cơ cháy lan và khó thoát nạn sẽ tăng. Công an xã Ia Ko khuyến cáo các hộ kinh doanh chủ động thực hiện tự kiểm tra PCCC như một công việc thường xuyên.\n\nTrước hết, cần kiểm tra dây điện, ổ cắm, bảng điện, thiết bị làm lạnh, quạt và các thiết bị sử dụng liên tục; không câu móc điện tùy tiện hoặc dùng ổ cắm quá tải. Hàng hóa cần được sắp xếp gọn, chừa lối đi, không che cầu dao điện và không đặt sát khu vực thờ cúng, bếp hoặc nguồn nhiệt.\n\nCông an xã Ia Ko đề nghị bình chữa cháy được đặt gần lối ra, dễ thấy và dễ lấy; người trong cửa hàng phải biết thao tác sử dụng cơ bản. Cửa chính và lối thoát không được khóa theo cách gây khó mở từ bên trong. Cuối ngày cần tắt các thiết bị không cần thiết và kiểm tra lại toàn bộ khu vực trước khi đóng cửa.\n\nTự kiểm tra không phải là việc phức tạp. Chỉ cần hình thành thói quen quan sát nguồn điện, nguồn lửa, hàng hóa, bình chữa cháy và lối thoát mỗi ngày, các hộ kinh doanh đã có thể loại trừ nhiều nguy cơ trước khi chúng trở thành sự cố.",
+    "featured": false,
+    "image": "images/pccc/img02.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "khong-sac-thiet-bi-qua-dem-trong-phong-kin-gan-vat-de-chay",
+    "title": "Không sạc thiết bị qua đêm trong phòng kín, gần vật dễ cháy",
+    "category": "PCCC",
+    "date": "2026-07-21",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Điện thoại, pin dự phòng, xe đạp điện và các thiết bị dùng pin cần được sạc ở vị trí thông thoáng, có người kiểm soát. Công an xã Ia Ko khuyến cáo không sạc kéo dài qua đêm cạnh giường ngủ hoặc vật dễ cháy.",
+    "content": "Các thiết bị sử dụng pin sạc ngày càng phổ biến trong sinh hoạt. Nếu pin, bộ sạc hoặc dây dẫn không bảo đảm chất lượng, bị va đập, phồng rộp hoặc sạc trong điều kiện tản nhiệt kém thì nguy cơ phát nhiệt và cháy có thể tăng. Công an xã Ia Ko khuyến cáo người dân không chủ quan khi sạc điện thoại, pin dự phòng, xe đạp điện và các thiết bị dùng pin trong nhà.\n\nNên sử dụng bộ sạc phù hợp với thiết bị, đặt trên bề mặt khó cháy, thông thoáng và tránh xa chăn, nệm, rèm, giấy hoặc hàng hóa. Không phủ kín thiết bị khi đang sạc; không tiếp tục sử dụng pin có dấu hiệu phồng, nóng bất thường, nứt vỏ hoặc có mùi lạ. Hạn chế sạc kéo dài qua đêm hoặc sạc tại vị trí chắn lối thoát.\n\nĐối với hộ gia đình kết hợp kinh doanh, Công an xã Ia Ko lưu ý không tập trung nhiều thiết bị sạc tại một ổ cắm hoặc khu vực chứa hàng. Nếu cần sạc xe điện, nên bố trí vị trí riêng, có kiểm soát, bảo đảm đường dây và thiết bị bảo vệ phù hợp với công suất sử dụng.\n\nKhi phát hiện thiết bị bốc khói hoặc cháy, cần nhanh chóng báo động, ngắt nguồn điện nếu thực hiện được an toàn và gọi 114. Không dùng tay trần tiếp xúc với pin đang nóng hoặc cố di chuyển thiết bị khi có nguy cơ nổ. Chủ động sử dụng thiết bị đúng cách là biện pháp quan trọng để ngăn sự cố ngay từ đầu.",
+    "featured": false,
+    "image": "images/covers/pccc-electric.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "moi-gia-dinh-o-ia-ko-can-duy-tri-loi-thoat-nan-va-phuong-tien-chua-chay-ban-dau",
+    "title": "Mỗi gia đình ở Ia Ko cần duy trì lối thoát nạn và phương tiện chữa cháy ban đầu",
+    "category": "PCCC",
+    "date": "2026-07-29",
+    "author": "Công an xã Ia Ko",
+    "excerpt": "Công an xã Ia Ko khuyến cáo mỗi hộ gia đình chủ động kiểm tra lối thoát, vị trí cầu dao điện, bình chữa cháy và thống nhất phương án xử lý khi có cháy.",
+    "content": "Phòng cháy tại hộ gia đình hiệu quả nhất khi các biện pháp an toàn trở thành thói quen hằng ngày. Công an xã Ia Ko khuyến cáo mỗi gia đình chủ động rà soát lối thoát nạn, nguồn điện, khu vực đun nấu và phương tiện chữa cháy ban đầu, thay vì chỉ quan tâm khi có đợt kiểm tra hoặc khi đã xảy ra sự cố ở nơi khác.\n\nCửa ra vào và lối đi trong nhà cần được giữ thông thoáng, không chất đồ đạc, xe cộ hoặc hàng hóa gây cản trở. Các thành viên trong gia đình nên biết vị trí cầu dao, aptomat và cách ngắt điện khi cần thiết. Bình chữa cháy cần đặt ở nơi dễ thấy, dễ lấy; nếu gia đình có nhiều tầng hoặc diện tích lớn thì nên tính toán vị trí phương tiện để có thể tiếp cận nhanh.\n\nCông an xã Ia Ko cũng khuyến khích các gia đình trao đổi trước phương án thoát nạn: ai hỗ trợ trẻ nhỏ, người cao tuổi; lối nào sẽ sử dụng nếu cửa chính có khói; điểm tập kết sau khi ra ngoài ở đâu. Những nội dung này càng đơn giản, dễ nhớ thì càng có ích khi xảy ra tình huống khẩn cấp.\n\nKhi phát hiện cháy, phải hô hoán để mọi người biết, ưu tiên thoát người ra ngoài, gọi 114 và chỉ sử dụng phương tiện chữa cháy ban đầu khi còn bảo đảm an toàn. Mỗi hộ dân chủ động một bước sẽ góp phần xây dựng khu dân cư an toàn hơn về PCCC trên địa bàn xã Ia Ko.",
+    "featured": false,
+    "image": "images/pccc/img01.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Cục Cảnh sát PCCC và CNCH",
+        "url": "https://canhsatpccc.gov.vn/"
+      },
+      {
+        "name": "Bộ Công an",
+        "url": "https://bocongan.gov.vn/"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "nhung-hoc-sinh-kho-khan-van-ben-bi-giu-uoc-mo-hoc-tap",
+    "title": "Những học sinh khó khăn vẫn bền bỉ giữ ước mơ học tập",
+    "category": "Vượt khó",
+    "date": "2025-11-20",
+    "author": "Gia Lai Số News",
+    "excerpt": "Hoàn cảnh khác nhau nhưng nhiều học sinh có chung một điểm: không bỏ cuộc trước khó khăn.",
+    "content": "Những chương trình học bổng dành cho học sinh có hoàn cảnh khó khăn giúp nhìn thấy một thực tế: nghị lực cá nhân cần đi cùng cơ hội và sự hỗ trợ phù hợp.\n\nMột suất học bổng có thể giúp giảm bớt chi phí học tập, nhưng giá trị lâu dài nằm ở việc các em cảm nhận được rằng nỗ lực của mình được nhìn nhận.\n\nKhi viết về người vượt khó, cách kể nên tập trung vào hành trình, lựa chọn và mục tiêu của nhân vật, tránh biến hoàn cảnh khó khăn thành yếu tố câu kéo cảm xúc.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/35565132/pexels-photo-35565132.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Gia Lai",
+        "url": "https://cdn.baogialai.com.vn/files/1d5bcac7f44e7d6a62b237529fada32ad04947506b4a2e5f8e91d8c2ce0829b1f76caecf566fb4a6f7edd6975e36ffbcef81dc42881c0a9e6042ad132792de9c45a638367afab902f8a107cc3c8ae968/bao-gia-lai-so-thu-ba-ngay-18-11-2025-thaylai.pdf"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "cong-an-chot-chan-truy-bat-pham-nhan-tron-trai-giam-a2",
+    "title": "Công an chốt chặn nhiều ngả đường, truy bắt phạm nhân trốn khỏi Trại giam A2",
+    "category": "Pháp luật",
+    "date": "2026-10-24",
+    "author": "Gia Lai Số News (tổng hợp)",
+    "excerpt": "Lực lượng chức năng tại Khánh Hòa triển khai chốt chặn, rà soát nhiều tuyến đường để truy bắt các phạm nhân bỏ trốn khỏi Trại giam A2; người dân được khuyến cáo nâng cao cảnh giác và cung cấp thông tin cho cơ quan Công an.",
+    "content": "Theo thông tin được Báo Sức khỏe & Đời sống đăng tải, lực lượng Công an tại Khánh Hòa đã triển khai chốt chặn, rà soát nhiều tuyến đường và phối hợp các đơn vị nghiệp vụ để truy bắt các phạm nhân bỏ trốn khỏi Trại giam A2 thuộc Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc và trường giáo dưỡng (C10, Bộ Công an), đóng trên địa bàn xã Diêm Lâm, tỉnh Khánh Hòa.\n\nThông tin trước đó cho biết ngày 21/10/2026, trong quá trình lao động cải tạo, 4 phạm nhân đã bỏ trốn khỏi trại giam. Cơ quan chức năng tổ chức truy tìm, kiểm soát các tuyến giao thông và phát thông tin truy nã để phục vụ công tác bắt giữ.\n\nĐến sáng 24/10/2026, lực lượng Cảnh sát giao thông đã bắt giữ Lê Văn Cường khi người này đang di chuyển trên một xe khách qua khu vực xã Nam Khánh Vĩnh. Công tác truy tìm những người còn lại tiếp tục được triển khai.\n\nCơ quan Công an khuyến cáo người dân không chứa chấp, che giấu hoặc giúp sức cho người đang bị truy nã; không tự ý tiếp cận khi phát hiện người có đặc điểm nghi vấn. Trường hợp có thông tin liên quan, cần nhanh chóng báo cho cơ quan Công an gần nhất để được tiếp nhận và xử lý.\n\nBài viết được Gia Lai Số News biên tập, tổng hợp lại từ nguồn báo chí; nội dung sự việc có thể tiếp tục được cơ quan chức năng cập nhật theo quá trình truy bắt và điều tra.",
+    "featured": false,
+    "image": "images/covers/antt-community.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Báo Sức khỏe & Đời sống - Công an chốt chặn các ngả đường truy bắt 4 phạm nhân trốn khỏi Trại giam A2",
+        "url": "https://suckhoedoisong.vn/cong-an-chot-chan-cac-nga-duong-truy-bat-4-pham-nhan-tron-khoi-trai-giam-a2-169261023234456322.htm"
+      },
+      {
+        "name": "Báo Sức khỏe & Đời sống - Bắt được 1 phạm nhân trốn Trại giam A2",
+        "url": "https://giadinh.suckhoedoisong.vn/bat-duoc-1-pham-nhan-tron-trai-giam-a2-o-khanh-hoa-172261024090657961.htm"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "kham-xet-khan-cap-tam-giu-hinh-su-vo-thi-ngoc-huyen",
+    "title": "Khám xét khẩn cấp nơi ở, tạm giữ hình sự Võ Thị Ngọc Huyền cùng các đối tượng liên quan",
+    "category": "Pháp luật",
+    "date": "2026-10-25",
+    "author": "Gia Lai Số News (tổng hợp)",
+    "excerpt": "Công an xã Phú Tân, tỉnh An Giang tạm giữ hình sự 3 người để điều tra các hành vi liên quan đến ma túy; quá trình khám xét thu giữ hơn 146 gram ma túy cùng nhiều tang vật.",
+    "content": "Theo thông tin Soha đăng ngày 25/10/2026 dẫn nguồn Công an tỉnh An Giang, Công an xã Phú Tân đã tạm giữ hình sự 3 người để tiếp tục làm rõ các hành vi liên quan đến mua bán và tàng trữ trái phép chất ma túy.\n\nTrước đó, khoảng 19 giờ 50 phút ngày 20/10/2026, Công an xã Phú Tân phối hợp Phòng Cảnh sát giao thông Công an tỉnh An Giang phát hiện Nguyễn Văn Lộc Em, sinh năm 1999, có hành vi tàng trữ trái phép chất ma túy. Qua làm việc, cơ quan chức năng tiếp tục xác minh nguồn gốc số ma túy và các cá nhân có liên quan.\n\nTừ các thông tin thu thập được, Công an xã Phú Tân phối hợp Công an xã Chợ Vàm tiến hành khám xét khẩn cấp nơi ở của Hà Ngọc Sang, sinh năm 1986 và Võ Thị Ngọc Huyền, sinh năm 1993. Quá trình khám xét, lực lượng Công an thu giữ tổng cộng 146,5389 gram ma túy các loại, 2 cân tiểu ly, 1 bộ dụng cụ sử dụng ma túy, 6 điện thoại di động, 1 xe mô tô cùng một số tang vật khác có liên quan.\n\nTheo nguồn tin, cơ quan Công an đang tiếp tục xác minh vai trò của từng người liên quan và củng cố hồ sơ để xử lý theo quy định của pháp luật. Việc tạm giữ hình sự là biện pháp tố tụng phục vụ xác minh, điều tra; trách nhiệm hình sự của từng cá nhân sẽ được xác định theo kết quả điều tra và quyết định của cơ quan có thẩm quyền.\n\nGia Lai Số News biên tập, tổng hợp lại nội dung từ nguồn báo chí nhằm cung cấp thông tin pháp luật đến bạn đọc, không sao chép nguyên văn toàn bộ bài gốc.",
+    "featured": false,
+    "image": "images/covers/phapluat-general.jpg",
+    "gallery": [],
+    "partner": null,
+    "sources": [
+      {
+        "name": "Soha - Khám xét khẩn cấp nơi ở, tạm giữ hình sự Võ Thị Ngọc Huyền SN 1993",
+        "url": "https://soha.vn/kham-xet-khan-cap-noi-o-tam-giu-hinh-su-vo-thi-ngoc-huyen-sn-1993-198261025072834105.htm"
+      }
+    ],
+    "status": "published"
+  }
+];

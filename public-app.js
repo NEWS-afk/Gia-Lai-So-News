@@ -103,8 +103,11 @@ function renderListingOrHome(){
 function openArticle(id,push=true){
   const a=state.articles.find(x=>x.id===id); if(!a)return;
   const paras=String(a.content||"").split(/\n\n+/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join("");
-  $("#articleView").innerHTML=`<header class="article-head"><span class="card-category">${esc(categoryLabel(a.category))}</span><h1>${esc(a.title)}</h1><div class="article-meta">${fmtDate(a.date)} · ${esc(a.author||"Gia Lai Số News")}</div><p class="article-deck">${esc(a.excerpt||"")}</p>${a.partner?`<div class="partner-note">Phối hợp tuyên truyền: ${esc(a.partner)}</div>`:""}</header><img class="article-lead-image" src="${esc(imgSrc(a))}" alt="${esc(a.title)}"><div class="article-body">${paras}</div><div class="source-box"><strong>Nguồn tham khảo</strong><ul>${(a.sources||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join("")}</ul></div>`;
+  const gallery=(a.gallery||[]).map(x=>typeof x==="string"?x:(x?.src||x?.url||"")).filter(Boolean);
+  const galleryHtml=gallery.length?`<div class="article-gallery">${gallery.map((src,i)=>`<figure><img src="${esc(src)}" alt="${esc(a.title)} - ảnh ${i+1}" loading="lazy"><figcaption>Ảnh minh họa ${i+1}</figcaption></figure>`).join("")}</div>`:"";
+  $("#articleView").innerHTML=`<header class="article-head"><span class="card-category">${esc(categoryLabel(a.category))}</span><h1>${esc(a.title)}</h1><div class="article-meta">${fmtDate(a.date)} · ${esc(a.author||"Gia Lai Số News")}</div><p class="article-deck">${esc(a.excerpt||"")}</p>${a.partner?`<div class="partner-note">Phối hợp tuyên truyền: ${esc(a.partner)}</div>`:""}</header><img class="article-lead-image" src="${esc(imgSrc(a))}" alt="${esc(a.title)}"><div class="article-body">${paras}</div>${galleryHtml}<div class="source-box"><strong>Nguồn tham khảo</strong><ul>${(a.sources||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join("")}</ul></div>`;
   safeImg($("#articleView .article-lead-image"),a);
+  $("#articleView").querySelectorAll(".article-gallery img").forEach(img=>{img.onerror=()=>{img.closest("figure")?.remove();}});
   $("#articleModal").classList.add("open"); document.body.style.overflow="hidden"; $("#articleModal").setAttribute("aria-hidden","false");
   if(push)history.pushState({},"",`?id=${encodeURIComponent(id)}`);
 }

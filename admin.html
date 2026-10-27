@@ -57,6 +57,20 @@
           <div class="field full"><label>Nội dung</label><textarea id="content" style="min-height:300px" required></textarea></div>
           <div class="field"><label>Đơn vị phối hợp (nếu có)</label><input id="partner" placeholder="Ví dụ: Công an xã Ia Ko"></div>
           <div class="field"><label>Ảnh đại diện - URL/đường dẫn</label><input id="imageUrl" placeholder="https://... hoặc images/..."></div>
+          <div class="field full image-tools">
+            <label>Thay ảnh đại diện từ máy</label>
+            <input id="leadImageFile" type="file" accept="image/*">
+            <div class="image-actions"><button id="clearLeadImageBtn" class="btn light" type="button">Xóa ảnh đại diện</button></div>
+            <div id="leadImagePreview" class="lead-image-preview"></div>
+            <small>Ảnh chọn từ máy sẽ tự thu nhỏ để tránh file dữ liệu quá nặng. Khi xuất bản, ảnh được nhúng trực tiếp vào seed-posts.js.</small>
+          </div>
+          <div class="field full image-tools">
+            <label>Ảnh trong nội dung bài viết</label>
+            <input id="galleryFiles" type="file" accept="image/*" multiple>
+            <div class="image-actions"><button id="clearGalleryBtn" class="btn light" type="button">Xóa toàn bộ ảnh trong bài</button></div>
+            <div id="galleryPreview" class="gallery-admin-grid"></div>
+            <small>Có thể chọn nhiều ảnh. Mỗi ảnh có nút Xóa riêng trong phần xem trước.</small>
+          </div>
           <div class="field full"><label>Nguồn tham khảo (mỗi dòng: Tên nguồn | URL)</label><textarea id="sources" placeholder="Bộ Công an | https://bocongan.gov.vn/"></textarea></div>
           <div class="field"><label><input id="featured" type="checkbox"> Tin nổi bật</label></div>
         </div>
